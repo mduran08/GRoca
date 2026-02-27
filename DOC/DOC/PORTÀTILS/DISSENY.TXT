@@ -1,0 +1,43 @@
+De Central cap a portàtils
+	Inventaris
+		Alimentació
+			res
+
+		Electrònica
+			Gestió unitaria			codi article	codi barra	preu venda unitari
+
+		Joieria
+			Gestió unitaria			codi article	codi barra (a blanc)	preu venda unitari
+
+	Comandes
+		res
+
+
+De portàtils cap a Central
+	Inventaris
+		Alimentació
+			Gestió unitaria			codi barra	quantitat
+						o	codi article	quantitat
+			Gestió masses econòmiques	codi article	quantitat	preu unitari
+
+		Electrònica
+			Gestió unitaria			codi barra	quantitat
+						o	codi article	quantitat
+			Gestió masses econòmiques	codi article	quantitat	preu unitari
+
+		Joieria
+			Gestió unitaria			codi article	quantitat
+			Gestió masses econòmiques	codi article	quantitat	preu unitari
+
+	Comandes
+		Alimentació
+			Gestió unitaria			codi barra	quantitat
+						o	codi article	quantitat
+
+		Electrònica
+			no s'utilitza
+
+		Joieria
+			no s'utilitza
+
+

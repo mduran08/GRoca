@@ -1,0 +1,11 @@
+//MO077-078.TXT ANA00077 TO ANA00078
+CPTCAP		EXT		nouvelle extension  
+CPTCAP		TAR	38	nouvelle taille enregistrement : 38
+CPTCAP		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+CPTCAP		FCNX+	Connexion à '192.168.50.150'	
+CPTLIN		EXT		nouvelle extension  
+CPTLIN		TAR	141	nouvelle taille enregistrement : 141
+CPTLIN		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+CPTLIN		FCNX+	Connexion à '192.168.50.150'	
+CPTCAP		FRN		
+CPTLIN		FRN		

@@ -1,0 +1,3 @@
+//MO128-129.TXT ANA00128 TO ANA00129
+CARTERAP		TAR	124	nouvelle taille enregistrement : 124
+CARTERAP	DUMMY	RUB-		la rubrique DUMMY est supprimée

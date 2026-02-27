@@ -1,0 +1,3 @@
+//MO087-088.TXT ANA00087 TO ANA00088
+CLIENT		EXT		nouvelle extension  
+CLIENT		FRN		

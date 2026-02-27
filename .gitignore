@@ -1,0 +1,28 @@
+# Executables
+Exe/
+Install/
+Install_Executable*/
+SETUP/
+
+# Backups
+Sauvegarde/
+Sauvegarde_*/
+Bkp_*/
+History/
+Historique/
+Svg_V*/
+
+# Temporary / System
+Sys_V*/
+Tâches/
+WMF/
+unnamed.cpl
+
+# Build outputs
+*.err
+*.cpl~
+*.bak
+
+# Windows
+Thumbs.db
+.DS_Store

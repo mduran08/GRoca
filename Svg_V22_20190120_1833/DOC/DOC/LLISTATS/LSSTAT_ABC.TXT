@@ -1,0 +1,48 @@
+**************************************************
+
+Codi:	SAB
+
+Filtre per:
+	Negoci(s)
+	Botiga/es
+	Gran família
+	Família
+	Subfamília
+	Marca/aurtor
+	Proveïdor (ABC compres)
+	Article
+	Període inici, Període fi
+
+Altres paràmetres:
+	Nmobre d'articles més comprats/venuts
+	Càlcul per quantitat/import
+	Incloure articles amb valor si/no
+	Incloure articles de baixa si/no
+
+Notes:
+	atacar el fitxer FACCAP
+	probablement s'hagi d'utilitzar clsFitxa.
+
+**************************************************
+
+
+           1         2         3         4         5         6         7         8         9         0         1         2         3 
+  1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 
+
+->Capçalera
+  Data:·99/99/9999·········································································································Full:·999
+  ·············Llistat ABC de {vendes|compres} [dels 999 articles més {comprats|venuts}] ({en quantitats|en imports})···············
+  ················································des·del MM/AAAA fins el MM/AAAA···················································
+  ··································································································································
+  Negocis : XXXXXXXXXXXXXXXXX   Botigues: XXXXXXXXXXXXXXXXX
+  [[[Gran familia: XXX]   Familia: XXX]   Subfamília: XXX   Marca/autor: XXXX]
+  ··································································································································
+                 Article                                                        Quantitat         Import    Preu venda Preu cost mig
+                 --------------------------------------------------------- -------------- -------------- ------------- -------------
+
+->Detall
+  999.999 .- AEJ XXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 999.999.999,99 999.999.999,99 99.999.999,99 99.999.999,99
+
+->Final
+  ----------------------------------------------------------------------------------------------------------------------------------
+  ······················································*** FI DE LLISTAT ***·······················································

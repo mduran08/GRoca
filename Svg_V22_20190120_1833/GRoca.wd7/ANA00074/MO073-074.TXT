@@ -1,0 +1,13 @@
+//MO073-074.TXT ANA00073 TO ANA00074
+HTCCTRL		EXT		nouvelle extension  
+HTCCTRL		TAR	26	nouvelle taille enregistrement : 26
+HTCCTRL		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+HTCCTRL		FCNX+	Connexion à '192.168.50.150'	
+HTCAPUNT		EXT		nouvelle extension  
+HTCAPUNT		TAR	99	nouvelle taille enregistrement : 99
+HTCAPUNT		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+HTCAPUNT		FCNX+	Connexion à '192.168.50.150'	
+HTCVENDA		EXT		nouvelle extension  
+HTCVENDA		TAR	52	nouvelle taille enregistrement : 52
+HTCVENDA		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+HTCVENDA		FCNX+	Connexion à '192.168.50.150'	

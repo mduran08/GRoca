@@ -1,0 +1,3 @@
+//MO125-126.TXT ANA00125 TO ANA00126
+HTCAPUNT		TAR	179	nouvelle taille enregistrement : 179
+HTCAPUNT	HTCCPT	TAI+	70	la rubrique HTCCPT a comme nouvelle taille 101 au lieu de 31

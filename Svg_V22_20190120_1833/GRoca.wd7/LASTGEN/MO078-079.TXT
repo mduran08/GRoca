@@ -1,0 +1,5 @@
+//MO078-079.TXT ANA00078 TO ANA00079
+CPTCAP		TAR	42	nouvelle taille enregistrement : 42
+CPTCAP	CPTNUMASS	CNW	Entier sur 8 octets$Entier sur 4 octets	la rubrique CPTNUMASS a pour nouveau type Entier sur 8 octets
+CPTLIN		TAR	145	nouvelle taille enregistrement : 145
+CPTLIN	CPTNUMASS	CNW	Entier sur 8 octets$Entier sur 4 octets	la rubrique CPTNUMASS a pour nouveau type Entier sur 8 octets

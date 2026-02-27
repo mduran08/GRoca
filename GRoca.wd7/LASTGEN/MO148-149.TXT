@@ -1,0 +1,3 @@
+//MO148-149.TXT ANA00148 TO ANA00149
+INTERMITJA_IA		TAR	226	nouvelle taille enregistrement : 226
+INTERMITJA_IA	BCOCODI	RUB+		BCOCODI est une nouvelle clé

@@ -1,0 +1,1131 @@
+Avant migration n:\andorsoft\classes\adreca.wdc
+Avant migration n:\andorsoft\classes\analisi.wdc
+Avant migration n:\andorsoft\classes\arxiu.wdc
+Avant migration N:\wdprojet\groca\clsoptargetes.wdc
+Avant migration n:\andorsoft\classes\codibarra.wdc
+Avant migration n:\andorsoft\classes\combo.wdc
+Avant migration n:\andorsoft\classes\compta.wdc
+Avant migration n:\andorsoft\classes\comptador.wdc
+Avant migration n:\andorsoft\classes\dat.wdc
+Avant migration n:\andorsoft\classes\descripcio.wdc
+Avant migration n:\andorsoft\classes\dret.wdc
+Avant migration n:\andorsoft\classes\duestaules.wdc
+Avant migration n:\andorsoft\classes\duestaulesfitxa.wdc
+Avant migration N:\wdprojet\groca\easycom.wdc
+Avant migration n:\andorsoft\classes\fitxa.wdc
+Avant migration n:\andorsoft\classes\fitxaambtaula.wdc
+Avant migration n:\andorsoft\classes\fitxer.wdc
+Avant migration N:\wdprojet\groca\grobatch\grobatch.wdc
+Avant migration N:\wdprojet\groca\historics.wdc
+Avant migration N:\wdprojet\groca\impressora.wdc
+Avant migration N:\wdprojet\groca\ini.wdc
+Avant migration N:\wdprojet\groca\llistat.wdc
+Avant migration n:\andorsoft\classes\llistat2.wdc
+Avant migration N:\wdprojet\groca\llistatsql.wdc
+Avant migration N:\wdprojet\groca\objecte.wdc
+Avant migration n:\andorsoft\classes\remesa.wdc
+Avant migration N:\wdprojet\groca\classes\scanpal.wdc
+Avant migration n:\andorsoft\classes\taula.wdc
+Avant migration n:\andorsoft\classes\taulaconsfitxa.wdc
+Avant migration n:\andorsoft\classes\taulaconsulta.wdc
+Avant migration n:\andorsoft\classes\taulasel.wdc
+Avant migration n:\andorsoft\classes\unataula.wdc
+Avant migration n:\andorsoft\classes\unataulafitxa.wdc
+Avant migration n:\andorsoft\classes\vcontrol.wdc
+Avant migration N:\wdprojet\groca\classes\insertbuilder.wdc
+Avant migration N:\wdprojet\groca\classes\sqlbuilder.wdc
+Avant migration N:\wdprojet\groca\classes\updatebuilder.wdc
+Avant migration N:\wdprojet\groca\classes\selectbuilder.wdc
+Avant migration N:\wdprojet\groca\classes\sqlresult.wdc
+Avant migration N:\wdprojet\groca\sqlexec.wdc
+Avant migration N:\wdprojet\groca\clscmztiquets.wdc
+Avant migration N:\wdprojet\groca\cmzmestres.wdc
+Avant migration N:\wdprojet\groca\comerzzia.wdc
+Avant migration N:\wdprojet\groca\syncro400.wdc
+Avant migration N:\wdprojet\groca\cmzsyncro400.wdc
+Avant migration N:\wdprojet\groca\classes\insertorupdatebuilder.wdc
+Avant migration N:\wdprojet\groca\classes\impostos.wdc
+Avant migration N:\wdprojet\groca\classes\igialbara.wdc
+Avant migration N:\wdprojet\groca\classes\clxmlfilereader.wdc
+Avant migration N:\wdprojet\groca\classes\clxmlparser.wdc
+Avant migration N:\wdprojet\groca\classes\clxmlstringreader.wdc
+Avant migration N:\wdprojet\groca\about.wdw
+Avant migration N:\wdprojet\groca\albcap_act.wdw
+ALBNUMFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\albcap_eli.wdw
+Avant migration N:\wdprojet\groca\albcap_fic.wdw
+Avant migration N:\wdprojet\groca\albcap_imp.wdw
+ALBNUMINI -> Lien HF invalide (BÝ÷;)
+ALBNUMFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\albcap_sel.wdw
+Avant migration N:\wdprojet\groca\albcap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\albcap_wrk.wdw
+Avant migration N:\wdprojet\groca\alblin_fic.wdw
+Avant migration N:\wdprojet\groca\article_fic.wdw
+Avant migration N:\wdprojet\groca\article_imp.wdw
+ARTCODIINI -> Lien HF invalide (BÝ÷;)
+ARTCODIFI -> Lien HF invalide (BÝ÷;)
+PREUVENDAINI -> Lien HF invalide (BÝ÷;)
+PREUVENDAFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\article_tab.wdw
+Avant migration N:\wdprojet\groca\autor_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\banc_sel.wdw
+Avant migration N:\wdprojet\groca\bancneg_fic.wdw
+Avant migration N:\wdprojet\groca\barcode_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\botiga_fic.wdw
+Avant migration N:\wdprojet\groca\botiga_sel.wdw
+Avant migration N:\wdprojet\groca\botiga_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\calctar_fic.wdw
+Avant migration N:\wdprojet\groca\calctar_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\carterac_eli.wdw
+Avant migration N:\wdprojet\groca\carterac_fic.wdw
+Avant migration N:\wdprojet\groca\carterac_imp.wdw
+Avant migration N:\wdprojet\groca\carterac_inc.wdw
+Avant migration N:\wdprojet\groca\carterac_tab.wdw
+MONDESCFILTRE -> Lien HF invalide (BÝ÷;)
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+DATAINICI -> Lien HF invalide (BÝ÷;)
+DATAFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\carterap_eli.wdw
+Avant migration N:\wdprojet\groca\carterap_fic.wdw
+Avant migration N:\wdprojet\groca\carterap_imp.wdw
+Avant migration N:\wdprojet\groca\carterap_inc.wdw
+Avant migration N:\wdprojet\groca\carterap_tab.wdw
+MONDESCFILTRE -> Lien HF invalide (BÝ÷;)
+TPGDESCFILTRE -> Lien HF invalide (BÝ÷;)
+BANDESC -> Lien HF invalide (BÝ÷;)
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+DATAINICI -> Lien HF invalide (BÝ÷;)
+DATAFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\categcli_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\cdacap_fic.wdw
+LIBELLE7 -> Lien HF invalide (BÝw2)
+Avant migration N:\wdprojet\groca\cdacap_imp.wdw
+Avant migration N:\wdprojet\groca\cdacap_imp_new.wdw
+Avant migration N:\wdprojet\groca\cdacap_sel.wdw
+Avant migration N:\wdprojet\groca\cdacap_tab.wdw
+SEL_CRITERI -> Lien HF invalide (BÝÏ=)
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\cescap_eli.wdw
+Avant migration N:\wdprojet\groca\cescap_fic.wdw
+Avant migration N:\wdprojet\groca\cescap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\cescap_wrk.wdw
+Avant migration N:\wdprojet\groca\client_fic.wdw
+CLIFACDESC -> Lien HF invalide (BÝ¿6)
+Avant migration N:\wdprojet\groca\client_imp.wdw
+CLICODIINI -> Lien HF invalide (BÝ÷;)
+CLICODIFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\client_sel.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\client_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\cnfcap_fic.wdw
+DESQUADRE_2 -> Lien HF invalide (ßFË)
+Avant migration N:\wdprojet\groca\cnfcap_imp.wdw
+CNFNUMINI -> Lien HF invalide (BÝ÷;)
+CNFNUMFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\cnfcap_tab.wdw
+SEL_CRITERI -> Lien HF invalide (BÝÏ=)
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\comissions_imp.wdw
+Avant migration N:\wdprojet\groca\comptabilitzacio_wrk.wdw
+DATAFAC -> Lien HF invalide (BÝ§6)
+DATACRE -> Lien HF invalide (BÝ§6)
+HORACRE -> Lien HF invalide (BÝ§6)
+Avant migration N:\wdprojet\groca\connexions.wdw
+Avant migration N:\wdprojet\groca\conversioeuro_wrk.wdw
+Avant migration N:\wdprojet\groca\cptcap_eli.wdw
+Avant migration N:\wdprojet\groca\cptcap_export.wdw
+Avant migration N:\wdprojet\groca\cptcap_fic.wdw
+Avant migration N:\wdprojet\groca\cptcap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\cptconfig.wdw
+Avant migration N:\wdprojet\groca\cptconfigcopiar.wdw
+Avant migration N:\wdprojet\groca\cptconfigdiari.wdw
+Avant migration N:\wdprojet\groca\cptconfigexcepcio.wdw
+Avant migration N:\wdprojet\groca\cptconfigsocietat.wdw
+Avant migration N:\wdprojet\groca\cptconfigtipusapunt.wdw
+Avant migration N:\wdprojet\groca\cptsocietat_sel.wdw
+Avant migration N:\wdprojet\groca\cpttipusapunt_sel.wdw
+Avant migration N:\wdprojet\groca\dadesformatpaper.wdw
+LIBELLE1 -> Lien HF invalide (BÝÏ9)
+TXT_DESCRIPCIO -> Lien HF invalide (BÝÏ9)
+TXT_ALCADA -> Lien HF invalide (BÝÏ9)
+TXT_ESQUERRA -> Lien HF invalide (BÝÏ9)
+TXT_DALT -> Lien HF invalide (BÝÏ9)
+TXT_DRETA -> Lien HF invalide (¿)
+TXT_BAIX -> Lien HF invalide (BÝÏ9)
+Avant migration N:\wdprojet\groca\dadesimpressora.wdw
+LIBELLE1 -> Lien HF invalide (BÝÏ9)
+LIBELLE1_1 -> Lien HF invalide (BÝÏ9)
+LIBELLE1_2 -> Lien HF invalide (BÝÏ9)
+TXT_DESCRIPCIO -> Lien HF invalide (BÝÏ9)
+TXT_ALCADA -> Lien HF invalide (BÝÏ9)
+TXT_TAMANY10 -> Lien HF invalide (BÝÏ9)
+TXT_TAMANY12 -> Lien HF invalide (BÝÏ9)
+TXT_TAMANY15 -> Lien HF invalide (BÝÏ9)
+Avant migration N:\wdprojet\groca\demanardata.wdw
+Avant migration N:\wdprojet\groca\demanarvalor.wdw
+Avant migration N:\wdprojet\groca\descr_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\efectesc_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\efectesp_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+BANDESC -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\empleat_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\entcap_act.wdw
+ENTNUMFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\entcap_fic.wdw
+DESQUADRE_3 -> Lien HF invalide (ßFË)
+Avant migration N:\wdprojet\groca\entcap_imp.wdw
+ENTNUMINI -> Lien HF invalide (BÝ÷;)
+ENTNUMFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\entcap_tab.wdw
+SEL_CRITERI -> Lien HF invalide (BÝÏ=)
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\entcap_wrk.wdw
+Avant migration N:\wdprojet\groca\entrades_imp.wdw
+Avant migration N:\wdprojet\groca\errors.wdw
+Avant migration N:\wdprojet\groca\estatservidor.wdw
+Avant migration N:\wdprojet\groca\estocs_imp.wdw
+Avant migration N:\wdprojet\groca\etiqueta_imp.wdw
+Avant migration N:\wdprojet\groca\etiqueta_inc.wdw
+ARTCODIINI -> Lien HF invalide (BÝ÷;)
+ARTCODIFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\etiqueta_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\exercici_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\extra_fic.wdw
+Avant migration N:\wdprojet\groca\extra_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\extrasel_sel.wdw
+Avant migration N:\wdprojet\groca\faccap_eli.wdw
+Avant migration N:\wdprojet\groca\faccap_fic.wdw
+Avant migration N:\wdprojet\groca\faccap_imp.wdw
+DATAFACTURA -> Lien HF invalide (BÝ§6)
+DATACREACIO -> Lien HF invalide (BÝ§6)
+HORA -> Lien HF invalide (BÝ§6)
+FACNUMINI -> Lien HF invalide (BÝ÷;)
+FACNUMFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\faccap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\facpro_act.wdw
+Avant migration N:\wdprojet\groca\facpro_eli.wdw
+Avant migration N:\wdprojet\groca\facpro_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\facpro_wrk.wdw
+Avant migration N:\wdprojet\groca\familia_sel.wdw
+Avant migration N:\wdprojet\groca\formacob_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\formapag_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\gfamilia_fic.wdw
+Avant migration N:\wdprojet\groca\gfamilia_sel.wdw
+Avant migration N:\wdprojet\groca\gfamilia_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\grupart_fic.wdw
+Avant migration N:\wdprojet\groca\grupart_sel.wdw
+Avant migration N:\wdprojet\groca\grupart_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\hf2as400.wdw
+Avant migration N:\wdprojet\groca\hf2db2.wdw
+Avant migration N:\wdprojet\groca\hiscve_imp.wdw
+Avant migration N:\wdprojet\groca\hiscve_tab.wdw
+Avant migration N:\wdprojet\groca\iddespe_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\integrardadescentral.wdw
+Avant migration N:\wdprojet\groca\inventari_export.wdw
+Avant migration N:\wdprojet\groca\inventari_import.wdw
+Avant migration N:\wdprojet\groca\inventari_inc.wdw
+Avant migration N:\wdprojet\groca\inventari_inc_tpv.wdw
+Avant migration N:\wdprojet\groca\inventari_sel.wdw
+Avant migration N:\wdprojet\groca\llistat_tab.wdw
+Avant migration N:\wdprojet\groca\llistats_imp.wdw
+Avant migration N:\wdprojet\groca\login.wdw
+Avant migration N:\wdprojet\groca\ltrcap_act.wdw
+Avant migration N:\wdprojet\groca\ltrcap_fic.wdw
+Avant migration N:\wdprojet\groca\ltrcap_find.wdw
+Avant migration N:\wdprojet\groca\ltrcap_importacio.wdw
+Avant migration N:\wdprojet\groca\ltrcap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\ltrcap_wrk.wdw
+Avant migration N:\wdprojet\groca\main.wdw
+Avant migration N:\wdprojet\groca\marca_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\moneda_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\movart_imp.wdw
+Avant migration N:\wdprojet\groca\mvttabac_eli.wdw
+Avant migration N:\wdprojet\groca\mvttabac_export.wdw
+Avant migration N:\wdprojet\groca\mvttabac_fic.wdw
+Avant migration N:\wdprojet\groca\mvttabac_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\negoci_fic.wdw
+Avant migration N:\wdprojet\groca\negoci_sel.wdw
+Avant migration N:\wdprojet\groca\negoci_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\neteja_basedades.wdw
+Avant migration N:\wdprojet\groca\numseq_tab.wdw
+Avant migration N:\wdprojet\groca\opcionsgenerals.wdw
+Avant migration N:\wdprojet\groca\opcionsini.wdw
+Avant migration N:\wdprojet\groca\pagament_fic.wdw
+Avant migration N:\wdprojet\groca\pagament_imp.wdw
+Avant migration N:\wdprojet\groca\pagament_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\pagament_wrk.wdw
+Avant migration N:\wdprojet\groca\pais_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\petart_eli.wdw
+Avant migration N:\wdprojet\groca\petart_export.wdw
+Avant migration N:\wdprojet\groca\petart_fic.wdw
+Avant migration N:\wdprojet\groca\petart_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\petcda_imp.wdw
+Avant migration N:\wdprojet\groca\petcda_import.wdw
+Avant migration N:\wdprojet\groca\petcda_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\prmcap_fic.wdw
+Avant migration N:\wdprojet\groca\prmcap_imp.wdw
+PRMNUMINI -> Lien HF invalide (BÝ÷;)
+PRMNUMFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\prmcap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\proart_sel.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\proart_tab.wdw
+Avant migration N:\wdprojet\groca\proveid_fic.wdw
+Avant migration N:\wdprojet\groca\proveid_imp.wdw
+PROCODIINI -> Lien HF invalide (BÝ÷;)
+PROCODIFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\proveid_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\puntmort_tab.wdw
+Avant migration N:\wdprojet\groca\recalc_histo.wdw
+Avant migration N:\wdprojet\groca\recalc_pous.wdw
+Avant migration N:\wdprojet\groca\recalculgeneral.wdw
+Avant migration N:\wdprojet\groca\recalculs.wdw
+Avant migration N:\wdprojet\groca\reccarn.wdw
+Avant migration N:\wdprojet\groca\referencia_import.wdw
+Avant migration N:\wdprojet\groca\regcap_eli.wdw
+Avant migration N:\wdprojet\groca\regcap_export.wdw
+Avant migration N:\wdprojet\groca\regcap_fic.wdw
+Avant migration N:\wdprojet\groca\regcap_imp.wdw
+Avant migration N:\wdprojet\groca\regcap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\regcap_wrk.wdw
+Avant migration N:\wdprojet\groca\remesac_act.wdw
+Avant migration N:\wdprojet\groca\remesac_fic.wdw
+Avant migration N:\wdprojet\groca\remesac_tab.wdw
+Avant migration N:\wdprojet\groca\remesac_wrk.wdw
+Avant migration N:\wdprojet\groca\remesap_fic.wdw
+Avant migration N:\wdprojet\groca\remesap_imp.wdw
+Avant migration N:\wdprojet\groca\remesap_sel.wdw
+Avant migration N:\wdprojet\groca\remesap_tab.wdw
+Avant migration N:\wdprojet\groca\remesap_wrk.wdw
+Avant migration N:\wdprojet\groca\repcap_fic.wdw
+Avant migration N:\wdprojet\groca\repcap_imp.wdw
+SOBNUMINI -> Lien HF invalide (BÝ÷;)
+SOBNUMFI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\repcap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\replin_fic.wdw
+Avant migration N:\wdprojet\groca\selecciomultiple.wdw
+Avant migration N:\wdprojet\groca\selecciomultipleanalisi.wdw
+Avant migration N:\wdprojet\groca\setupimpressio.wdw
+LST_FORMAT -> Lien HF invalide (Ï•)
+LST_IMPRESSORA -> Lien HF invalide (Ï•)
+Avant migration N:\wdprojet\groca\sfamilia_sel.wdw
+Avant migration N:\wdprojet\groca\stat_12_mesos_imp_hf.wdw
+Avant migration N:\wdprojet\groca\stat_12mesos_imp.wdw
+Avant migration N:\wdprojet\groca\stat_abc_imp.wdw
+ARTCODI -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\stat_compresdetallades_imp.wdw
+Avant migration N:\wdprojet\groca\stat_comprespromon_imp.wdw
+Avant migration N:\wdprojet\groca\stat_estoccompven_imp.wdw
+Avant migration N:\wdprojet\groca\stat_materiaprima_imp.wdw
+Avant migration N:\wdprojet\groca\std_imp.wdw
+PRIMER -> Lien HF invalide (BÝ÷;)
+ULTIM -> Lien HF invalide (BÝ÷;)
+Avant migration N:\wdprojet\groca\stdcompact_imp.wdw
+Avant migration N:\wdprojet\groca\sucursal_sel.wdw
+Avant migration N:\wdprojet\groca\sucursal_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\testvenciments.wdw
+Avant migration N:\wdprojet\groca\textlliure.wdw
+Avant migration N:\wdprojet\groca\tipusmov_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\tipusmp_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\tipuspag_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\tipuspro_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\tpvcob_fic.wdw
+Avant migration N:\wdprojet\groca\tpvlin_fic.wdw
+Avant migration N:\wdprojet\groca\tpvtnc_eli.wdw
+Avant migration N:\wdprojet\groca\tpvtnc_fic.wdw
+Avant migration N:\wdprojet\groca\tpvtnc_find.wdw
+Avant migration N:\wdprojet\groca\tpvtnc_imp.wdw
+Avant migration N:\wdprojet\groca\tpvtnc_inc.wdw
+Avant migration N:\wdprojet\groca\tpvtnc_sel.wdw
+Avant migration N:\wdprojet\groca\tpvtnc_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\tpvtnc_totals.wdw
+Avant migration N:\wdprojet\groca\tpvtnc_wrk.wdw
+Avant migration N:\wdprojet\groca\tpvtqt_fic.wdw
+Avant migration N:\wdprojet\groca\venedor_sel.wdw
+Avant migration N:\wdprojet\groca\xtccap_fic.wdw
+Avant migration N:\wdprojet\groca\xtccap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\comerzzia_export.wdw
+Avant migration N:\wdprojet\groca\creditfiscal_imp.wdw
+Avant migration N:\wdprojet\groca\tipusimp_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Avant migration N:\wdprojet\groca\tipusimp_fic.wdw
+Avant migration N:\wdprojet\groca\tipusimp_sel.wdw
+Avant migration N:\wdprojet\groca\processosigi.wdw
+Avant migration N:\wdprojet\groca\regftra_fic.wdw
+Avant migration N:\wdprojet\groca\moviments_xls.wdw
+Avant migration N:\wdprojet\groca\estocs_xls.wdw
+Avant migration N:\wdprojet\groca\pagarea4bibm.wde
+Avant migration N:\wdprojet\groca\pagarea4bpa.wde
+Avant migration N:\wdprojet\groca\pagarea4credit.wde
+Avant migration N:\wdprojet\groca\xeca4andbanc.wde
+Avant migration N:\wdprojet\groca\xeca4bibm.wde
+Avant migration N:\wdprojet\groca\xeca4bibmramaderia.wde
+Avant migration N:\wdprojet\groca\xeca4bpa.wde
+Avant migration N:\wdprojet\groca\xeca4credit.wde
+Avant migration N:\wdprojet\groca\xeca4credit_matriu.wde
+Avant migration N:\wdprojet\groca\xeca4sabadell.wde
+Avant migration N:\wdprojet\groca\pagarea4bibmold.wde
+Avant migration N:\wdprojet\groca\xecgrupa4bpa.wde
+Le nom de la méthode 'Where' est un mot réservé : elle a été renommée en '_Where'.
+Le nom de la méthode 'Where' est un mot réservé : elle a été renommée en '_Where'.
+Le nom de la méthode 'Where' est un mot réservé : elle a été renommée en '_Where'.
+Avant migration n:\andorsoft\classes\adreca.wdc
+Ajout classe : n:\andorsoft\classes\adreca.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\adreca.wdc (clsAdreca)
+Avant migration n:\andorsoft\classes\analisi.wdc
+Ajout classe : n:\andorsoft\classes\analisi.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\analisi.wdc (clsAnalisi)
+Avant migration n:\andorsoft\classes\arxiu.wdc
+Ajout classe : n:\andorsoft\classes\arxiu.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\arxiu.wdc (clsArxiu)
+Avant migration N:\wdprojet\groca\clsoptargetes.wdc
+Ajout classe : N:\wdprojet\groca\clsoptargetes.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\clsoptargetes.wdc (ClsOpTargetes)
+Avant migration n:\andorsoft\classes\codibarra.wdc
+Ajout classe : n:\andorsoft\classes\codibarra.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\codibarra.wdc (clsCodiBarra)
+Avant migration n:\andorsoft\classes\combo.wdc
+Ajout classe : n:\andorsoft\classes\combo.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\combo.wdc (clsCombo)
+Avant migration n:\andorsoft\classes\compta.wdc
+Ajout classe : n:\andorsoft\classes\compta.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\compta.wdc (clsCompta)
+Avant migration n:\andorsoft\classes\comptador.wdc
+Ajout classe : n:\andorsoft\classes\comptador.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\comptador.wdc (clsComptador)
+Avant migration n:\andorsoft\classes\dat.wdc
+Ajout classe : n:\andorsoft\classes\dat.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\dat.wdc (clsDat)
+Avant migration n:\andorsoft\classes\descripcio.wdc
+Ajout classe : n:\andorsoft\classes\descripcio.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\descripcio.wdc (clsDescripcio)
+Avant migration n:\andorsoft\classes\dret.wdc
+Ajout classe : n:\andorsoft\classes\dret.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\dret.wdc (clsDret)
+Avant migration n:\andorsoft\classes\duestaules.wdc
+Ajout classe : n:\andorsoft\classes\duestaules.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\duestaules.wdc (clsDuesTaules)
+Avant migration n:\andorsoft\classes\duestaulesfitxa.wdc
+Ajout classe : n:\andorsoft\classes\duestaulesfitxa.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\duestaulesfitxa.wdc (clsDuesTaulesFitxa)
+Avant migration N:\wdprojet\groca\easycom.wdc
+Ajout classe : N:\wdprojet\groca\easycom.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\easycom.wdc (clsEasycom)
+Avant migration n:\andorsoft\classes\fitxa.wdc
+Ajout classe : n:\andorsoft\classes\fitxa.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\fitxa.wdc (clsFitxa)
+Avant migration n:\andorsoft\classes\fitxaambtaula.wdc
+Ajout classe : n:\andorsoft\classes\fitxaambtaula.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\fitxaambtaula.wdc (clsFitxaAmbTaula)
+Avant migration n:\andorsoft\classes\fitxer.wdc
+Ajout classe : n:\andorsoft\classes\fitxer.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\fitxer.wdc (clsFitxer)
+Avant migration N:\wdprojet\groca\grobatch\grobatch.wdc
+Ajout classe : N:\wdprojet\groca\grobatch\grobatch.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\grobatch\grobatch.wdc (clsGRoBatch)
+Ajout élément autres : N:\wdprojet\groca\groca.ini
+Ajout élément autres : N:\wdprojet\groca\doc\grocaafer.xls
+Avant migration N:\wdprojet\groca\historics.wdc
+Ajout classe : N:\wdprojet\groca\historics.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\historics.wdc (clsHistorics)
+Avant migration N:\wdprojet\groca\impressora.wdc
+Ajout classe : N:\wdprojet\groca\impressora.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\impressora.wdc (clsImpressora)
+Avant migration N:\wdprojet\groca\ini.wdc
+Ajout classe : N:\wdprojet\groca\ini.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\ini.wdc (clsIni)
+Avant migration N:\wdprojet\groca\llistat.wdc
+Ajout classe : N:\wdprojet\groca\llistat.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\llistat.wdc (clsLlistat)
+Avant migration n:\andorsoft\classes\llistat2.wdc
+Ajout classe : n:\andorsoft\classes\llistat2.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\llistat2.wdc (ClsLlistat2)
+Avant migration N:\wdprojet\groca\llistatsql.wdc
+Ajout classe : N:\wdprojet\groca\llistatsql.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\llistatsql.wdc (clsLlistatSql)
+Ajout élément autres : N:\wdprojet\groca\doc\notes.txt
+Avant migration N:\wdprojet\groca\objecte.wdc
+Ajout classe : N:\wdprojet\groca\objecte.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\objecte.wdc (clsObjecte)
+Avant migration n:\andorsoft\classes\remesa.wdc
+Ajout classe : n:\andorsoft\classes\remesa.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\remesa.wdc (clsRemesa)
+Avant migration N:\wdprojet\groca\classes\scanpal.wdc
+Ajout classe : N:\wdprojet\groca\classes\scanpal.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\classes\scanpal.wdc (ClsScanPal)
+Avant migration n:\andorsoft\classes\taula.wdc
+Ajout classe : n:\andorsoft\classes\taula.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\taula.wdc (clsTaula)
+Avant migration n:\andorsoft\classes\taulaconsfitxa.wdc
+Ajout classe : n:\andorsoft\classes\taulaconsfitxa.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\taulaconsfitxa.wdc (clsTaulaConsFitxa)
+Avant migration n:\andorsoft\classes\taulaconsulta.wdc
+Ajout classe : n:\andorsoft\classes\taulaconsulta.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\taulaconsulta.wdc (clsTaulaConsulta)
+Avant migration n:\andorsoft\classes\taulasel.wdc
+Ajout classe : n:\andorsoft\classes\taulasel.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\taulasel.wdc (clsTaulaSel)
+Avant migration n:\andorsoft\classes\unataula.wdc
+Ajout classe : n:\andorsoft\classes\unataula.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\unataula.wdc (clsUnaTaula)
+Avant migration n:\andorsoft\classes\unataulafitxa.wdc
+Ajout classe : n:\andorsoft\classes\unataulafitxa.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\unataulafitxa.wdc (clsUnaTaulaFitxa)
+Avant migration n:\andorsoft\classes\vcontrol.wdc
+Ajout classe : n:\andorsoft\classes\vcontrol.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\vcontrol.wdc (clsControlVisual)
+Ajout élément autres : N:\wdprojet\groca\doc\versions.txt
+Avant migration N:\wdprojet\groca\classes\insertbuilder.wdc
+Ajout classe : N:\wdprojet\groca\classes\insertbuilder.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\classes\insertbuilder.wdc (clsInsertBuilder)
+Avant migration N:\wdprojet\groca\classes\sqlbuilder.wdc
+Ajout classe : N:\wdprojet\groca\classes\sqlbuilder.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\classes\sqlbuilder.wdc (clsSqlBuilder)
+Avant migration N:\wdprojet\groca\classes\updatebuilder.wdc
+Ajout classe : N:\wdprojet\groca\classes\updatebuilder.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\classes\updatebuilder.wdc (clsUpdateBuilder)
+Avant migration N:\wdprojet\groca\classes\selectbuilder.wdc
+Ajout classe : N:\wdprojet\groca\classes\selectbuilder.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\classes\selectbuilder.wdc (ClsSelectBuilder)
+Ajout élément autres : N:\wdprojet\groca\doc\comerzzia\accessos.txt
+Avant migration N:\wdprojet\groca\classes\sqlresult.wdc
+Ajout classe : N:\wdprojet\groca\classes\sqlresult.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\classes\sqlresult.wdc (ClsSqlResult)
+Avant migration N:\wdprojet\groca\sqlexec.wdc
+Ajout classe : N:\wdprojet\groca\sqlexec.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\sqlexec.wdc (clsSqlExec)
+Ajout élément autres : N:\wdprojet\groca\doc\comerzzia\anomalies.txt
+Avant migration N:\wdprojet\groca\clscmztiquets.wdc
+Ajout classe : N:\wdprojet\groca\clscmztiquets.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\clscmztiquets.wdc (ClsCmzTiquets)
+Avant migration N:\wdprojet\groca\cmzmestres.wdc
+Ajout classe : N:\wdprojet\groca\cmzmestres.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cmzmestres.wdc (ClsCmzMestres)
+Avant migration N:\wdprojet\groca\comerzzia.wdc
+Ajout classe : N:\wdprojet\groca\comerzzia.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\comerzzia.wdc (ClsComerzzia)
+Avant migration N:\wdprojet\groca\syncro400.wdc
+Ajout classe : N:\wdprojet\groca\syncro400.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\syncro400.wdc (ClsSyncro400)
+Avant migration N:\wdprojet\groca\cmzsyncro400.wdc
+Ajout classe : N:\wdprojet\groca\cmzsyncro400.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cmzsyncro400.wdc (ClsCmzSyncro400)
+Avant migration N:\wdprojet\groca\classes\insertorupdatebuilder.wdc
+Ajout classe : N:\wdprojet\groca\classes\insertorupdatebuilder.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\classes\insertorupdatebuilder.wdc (clsInsertOrUpdateBuilder)
+Avant migration N:\wdprojet\groca\classes\impostos.wdc
+Ajout classe : N:\wdprojet\groca\classes\impostos.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\classes\impostos.wdc (ClsImpostos)
+Ajout élément autres : N:\wdprojet\groca\groca.msg
+Avant migration N:\wdprojet\groca\classes\igialbara.wdc
+Ajout classe : N:\wdprojet\groca\classes\igialbara.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\classes\igialbara.wdc (ClsIGIAlbara)
+Avant migration N:\wdprojet\groca\classes\clxmlfilereader.wdc
+Ajout classe : N:\wdprojet\groca\classes\clxmlfilereader.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\classes\clxmlfilereader.wdc (ClXmlFileReader)
+Avant migration N:\wdprojet\groca\classes\clxmlparser.wdc
+Ajout classe : N:\wdprojet\groca\classes\clxmlparser.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\classes\clxmlparser.wdc (ClXmlParser)
+Avant migration N:\wdprojet\groca\classes\clxmlstringreader.wdc
+Ajout classe : N:\wdprojet\groca\classes\clxmlstringreader.wdc -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\classes\clxmlstringreader.wdc (ClXmlStringReader)
+Ajout élément autres : N:\wdprojet\groca\estocs.xls
+Avant migration N:\wdprojet\groca\about.wdw
+Ajout fenêtre : N:\wdprojet\groca\about.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\about.wdw (about)
+Avant migration N:\wdprojet\groca\albcap_act.wdw
+ALBNUMFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\albcap_act.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\albcap_act.wdw (albcap_act)
+Avant migration N:\wdprojet\groca\albcap_eli.wdw
+Ajout fenêtre : N:\wdprojet\groca\albcap_eli.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\albcap_eli.wdw (albcap_eli)
+Avant migration N:\wdprojet\groca\albcap_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\albcap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\albcap_fic.wdw (albcap_fic)
+Avant migration N:\wdprojet\groca\albcap_imp.wdw
+ALBNUMINI -> Lien HF invalide (BÝ÷;)
+ALBNUMFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\albcap_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\albcap_imp.wdw (albcap_imp)
+Avant migration N:\wdprojet\groca\albcap_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\albcap_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\albcap_sel.wdw (albcap_sel)
+Avant migration N:\wdprojet\groca\albcap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\albcap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\albcap_tab.wdw (albcap_tab)
+Avant migration N:\wdprojet\groca\albcap_wrk.wdw
+Ajout fenêtre : N:\wdprojet\groca\albcap_wrk.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\albcap_wrk.wdw (albcap_wrk)
+Avant migration N:\wdprojet\groca\alblin_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\alblin_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\alblin_fic.wdw (alblin_fic)
+Avant migration N:\wdprojet\groca\article_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\article_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\article_fic.wdw (article_fic)
+Avant migration N:\wdprojet\groca\article_imp.wdw
+ARTCODIINI -> Lien HF invalide (BÝ÷;)
+ARTCODIFI -> Lien HF invalide (BÝ÷;)
+PREUVENDAINI -> Lien HF invalide (BÝ÷;)
+PREUVENDAFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\article_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\article_imp.wdw (article_imp)
+Avant migration N:\wdprojet\groca\article_tab.wdw
+Ajout fenêtre : N:\wdprojet\groca\article_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\article_tab.wdw (article_tab)
+Avant migration N:\wdprojet\groca\autor_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\autor_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\autor_tab.wdw (autor_tab)
+Avant migration N:\wdprojet\groca\banc_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\banc_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\banc_sel.wdw (banc_sel)
+Avant migration N:\wdprojet\groca\bancneg_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\bancneg_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\bancneg_fic.wdw (bancneg_fic)
+Avant migration N:\wdprojet\groca\barcode_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\barcode_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\barcode_tab.wdw (barcode_tab)
+Avant migration N:\wdprojet\groca\botiga_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\botiga_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\botiga_fic.wdw (botiga_fic)
+Avant migration N:\wdprojet\groca\botiga_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\botiga_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\botiga_sel.wdw (botiga_sel)
+Avant migration N:\wdprojet\groca\botiga_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\botiga_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\botiga_tab.wdw (botiga_tab)
+Avant migration N:\wdprojet\groca\calctar_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\calctar_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\calctar_fic.wdw (calctar_fic)
+Avant migration N:\wdprojet\groca\calctar_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\calctar_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\calctar_tab.wdw (calctar_tab)
+Avant migration N:\wdprojet\groca\carterac_eli.wdw
+Ajout fenêtre : N:\wdprojet\groca\carterac_eli.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\carterac_eli.wdw (carterac_eli)
+Avant migration N:\wdprojet\groca\carterac_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\carterac_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\carterac_fic.wdw (carterac_fic)
+Avant migration N:\wdprojet\groca\carterac_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\carterac_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\carterac_imp.wdw (carterac_imp)
+Avant migration N:\wdprojet\groca\carterac_inc.wdw
+Ajout fenêtre : N:\wdprojet\groca\carterac_inc.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\carterac_inc.wdw (carterac_inc)
+Avant migration N:\wdprojet\groca\carterac_tab.wdw
+MONDESCFILTRE -> Lien HF invalide (BÝ÷;)
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+DATAINICI -> Lien HF invalide (BÝ÷;)
+DATAFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\carterac_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\carterac_tab.wdw (carterac_tab)
+Avant migration N:\wdprojet\groca\carterap_eli.wdw
+Ajout fenêtre : N:\wdprojet\groca\carterap_eli.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\carterap_eli.wdw (carterap_eli)
+Avant migration N:\wdprojet\groca\carterap_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\carterap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\carterap_fic.wdw (carterap_fic)
+Avant migration N:\wdprojet\groca\carterap_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\carterap_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\carterap_imp.wdw (carterap_imp)
+Avant migration N:\wdprojet\groca\carterap_inc.wdw
+Ajout fenêtre : N:\wdprojet\groca\carterap_inc.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\carterap_inc.wdw (carterap_inc)
+Avant migration N:\wdprojet\groca\carterap_tab.wdw
+MONDESCFILTRE -> Lien HF invalide (BÝ÷;)
+TPGDESCFILTRE -> Lien HF invalide (BÝ÷;)
+BANDESC -> Lien HF invalide (BÝ÷;)
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+DATAINICI -> Lien HF invalide (BÝ÷;)
+DATAFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\carterap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\carterap_tab.wdw (carterap_tab)
+Avant migration N:\wdprojet\groca\categcli_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\categcli_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\categcli_tab.wdw (categcli_tab)
+Avant migration N:\wdprojet\groca\cdacap_fic.wdw
+LIBELLE7 -> Lien HF invalide (BÝw2)
+Ajout fenêtre : N:\wdprojet\groca\cdacap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cdacap_fic.wdw (cdacap_fic)
+Avant migration N:\wdprojet\groca\cdacap_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\cdacap_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cdacap_imp.wdw (cdacap_imp)
+Avant migration N:\wdprojet\groca\cdacap_imp_new.wdw
+Ajout fenêtre : N:\wdprojet\groca\cdacap_imp_new.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cdacap_imp_new.wdw (cdacap_imp_new)
+Avant migration N:\wdprojet\groca\cdacap_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\cdacap_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cdacap_sel.wdw (cdacap_sel)
+Avant migration N:\wdprojet\groca\cdacap_tab.wdw
+SEL_CRITERI -> Lien HF invalide (BÝÏ=)
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\cdacap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cdacap_tab.wdw (cdacap_tab)
+Avant migration N:\wdprojet\groca\cescap_eli.wdw
+Ajout fenêtre : N:\wdprojet\groca\cescap_eli.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cescap_eli.wdw (cescap_eli)
+Avant migration N:\wdprojet\groca\cescap_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\cescap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cescap_fic.wdw (cescap_fic)
+Avant migration N:\wdprojet\groca\cescap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\cescap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cescap_tab.wdw (cescap_tab)
+Avant migration N:\wdprojet\groca\cescap_wrk.wdw
+Ajout fenêtre : N:\wdprojet\groca\cescap_wrk.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cescap_wrk.wdw (cescap_wrk)
+Avant migration N:\wdprojet\groca\client_fic.wdw
+CLIFACDESC -> Lien HF invalide (BÝ¿6)
+Ajout fenêtre : N:\wdprojet\groca\client_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\client_fic.wdw (client_fic)
+Avant migration N:\wdprojet\groca\client_imp.wdw
+CLICODIINI -> Lien HF invalide (BÝ÷;)
+CLICODIFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\client_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\client_imp.wdw (client_imp)
+Avant migration N:\wdprojet\groca\client_sel.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\client_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\client_sel.wdw (client_sel)
+Avant migration N:\wdprojet\groca\client_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\client_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\client_tab.wdw (client_tab)
+Avant migration N:\wdprojet\groca\cnfcap_fic.wdw
+DESQUADRE_2 -> Lien HF invalide (ßFË)
+Ajout fenêtre : N:\wdprojet\groca\cnfcap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cnfcap_fic.wdw (cnfcap_fic)
+Avant migration N:\wdprojet\groca\cnfcap_imp.wdw
+CNFNUMINI -> Lien HF invalide (BÝ÷;)
+CNFNUMFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\cnfcap_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cnfcap_imp.wdw (cnfcap_imp)
+Avant migration N:\wdprojet\groca\cnfcap_tab.wdw
+SEL_CRITERI -> Lien HF invalide (BÝÏ=)
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\cnfcap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cnfcap_tab.wdw (cnfcap_tab)
+Avant migration N:\wdprojet\groca\comissions_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\comissions_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\comissions_imp.wdw (comissions_imp)
+Avant migration N:\wdprojet\groca\comptabilitzacio_wrk.wdw
+DATAFAC -> Lien HF invalide (BÝ§6)
+DATACRE -> Lien HF invalide (BÝ§6)
+HORACRE -> Lien HF invalide (BÝ§6)
+Ajout fenêtre : N:\wdprojet\groca\comptabilitzacio_wrk.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\comptabilitzacio_wrk.wdw (comptabilitzacio_wrk)
+Avant migration N:\wdprojet\groca\connexions.wdw
+Ajout fenêtre : N:\wdprojet\groca\connexions.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\connexions.wdw (connexions)
+Avant migration N:\wdprojet\groca\conversioeuro_wrk.wdw
+Ajout fenêtre : N:\wdprojet\groca\conversioeuro_wrk.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\conversioeuro_wrk.wdw (conversioeuro_wrk)
+Avant migration N:\wdprojet\groca\cptcap_eli.wdw
+Ajout fenêtre : N:\wdprojet\groca\cptcap_eli.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cptcap_eli.wdw (cptcap_eli)
+Avant migration N:\wdprojet\groca\cptcap_export.wdw
+Ajout fenêtre : N:\wdprojet\groca\cptcap_export.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cptcap_export.wdw (cptcap_export)
+Avant migration N:\wdprojet\groca\cptcap_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\cptcap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cptcap_fic.wdw (cptcap_fic)
+Avant migration N:\wdprojet\groca\cptcap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\cptcap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cptcap_tab.wdw (cptcap_tab)
+Avant migration N:\wdprojet\groca\cptconfig.wdw
+Ajout fenêtre : N:\wdprojet\groca\cptconfig.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cptconfig.wdw (cptconfig)
+Avant migration N:\wdprojet\groca\cptconfigcopiar.wdw
+Ajout fenêtre : N:\wdprojet\groca\cptconfigcopiar.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cptconfigcopiar.wdw (cptconfigcopiar)
+Avant migration N:\wdprojet\groca\cptconfigdiari.wdw
+Ajout fenêtre : N:\wdprojet\groca\cptconfigdiari.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cptconfigdiari.wdw (cptconfigdiari)
+Avant migration N:\wdprojet\groca\cptconfigexcepcio.wdw
+Ajout fenêtre : N:\wdprojet\groca\cptconfigexcepcio.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cptconfigexcepcio.wdw (cptconfigexcepcio)
+Avant migration N:\wdprojet\groca\cptconfigsocietat.wdw
+Ajout fenêtre : N:\wdprojet\groca\cptconfigsocietat.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cptconfigsocietat.wdw (cptconfigsocietat)
+Avant migration N:\wdprojet\groca\cptconfigtipusapunt.wdw
+Ajout fenêtre : N:\wdprojet\groca\cptconfigtipusapunt.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cptconfigtipusapunt.wdw (cptconfigtipusapunt)
+Avant migration N:\wdprojet\groca\cptsocietat_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\cptsocietat_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cptsocietat_sel.wdw (cptsocietat_sel)
+Avant migration N:\wdprojet\groca\cpttipusapunt_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\cpttipusapunt_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\cpttipusapunt_sel.wdw (cpttipusapunt_sel)
+Avant migration N:\wdprojet\groca\dadesformatpaper.wdw
+LIBELLE1 -> Lien HF invalide (BÝÏ9)
+TXT_DESCRIPCIO -> Lien HF invalide (BÝÏ9)
+TXT_ALCADA -> Lien HF invalide (BÝÏ9)
+TXT_ESQUERRA -> Lien HF invalide (BÝÏ9)
+TXT_DALT -> Lien HF invalide (BÝÏ9)
+TXT_DRETA -> Lien HF invalide (¿)
+TXT_BAIX -> Lien HF invalide (BÝÏ9)
+Ajout fenêtre : N:\wdprojet\groca\dadesformatpaper.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\dadesformatpaper.wdw (dadesformatpaper)
+Avant migration N:\wdprojet\groca\dadesimpressora.wdw
+LIBELLE1 -> Lien HF invalide (BÝÏ9)
+LIBELLE1_1 -> Lien HF invalide (BÝÏ9)
+LIBELLE1_2 -> Lien HF invalide (BÝÏ9)
+TXT_DESCRIPCIO -> Lien HF invalide (BÝÏ9)
+TXT_ALCADA -> Lien HF invalide (BÝÏ9)
+TXT_TAMANY10 -> Lien HF invalide (BÝÏ9)
+TXT_TAMANY12 -> Lien HF invalide (BÝÏ9)
+TXT_TAMANY15 -> Lien HF invalide (BÝÏ9)
+Ajout fenêtre : N:\wdprojet\groca\dadesimpressora.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\dadesimpressora.wdw (dadesimpressora)
+Avant migration N:\wdprojet\groca\demanardata.wdw
+Ajout fenêtre : N:\wdprojet\groca\demanardata.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\demanardata.wdw (demanardata)
+Avant migration N:\wdprojet\groca\demanarvalor.wdw
+Ajout fenêtre : N:\wdprojet\groca\demanarvalor.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\demanarvalor.wdw (demanarvalor)
+Avant migration N:\wdprojet\groca\descr_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\descr_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\descr_tab.wdw (descr_tab)
+Avant migration N:\wdprojet\groca\efectesc_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\efectesc_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\efectesc_tab.wdw (efectesc_tab)
+Avant migration N:\wdprojet\groca\efectesp_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+BANDESC -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\efectesp_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\efectesp_tab.wdw (efectesp_tab)
+Avant migration N:\wdprojet\groca\empleat_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\empleat_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\empleat_tab.wdw (empleat_tab)
+Avant migration N:\wdprojet\groca\entcap_act.wdw
+ENTNUMFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\entcap_act.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\entcap_act.wdw (entcap_act)
+Avant migration N:\wdprojet\groca\entcap_fic.wdw
+DESQUADRE_3 -> Lien HF invalide (ßFË)
+Ajout fenêtre : N:\wdprojet\groca\entcap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\entcap_fic.wdw (entcap_fic)
+Avant migration N:\wdprojet\groca\entcap_imp.wdw
+ENTNUMINI -> Lien HF invalide (BÝ÷;)
+ENTNUMFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\entcap_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\entcap_imp.wdw (entcap_imp)
+Avant migration N:\wdprojet\groca\entcap_tab.wdw
+SEL_CRITERI -> Lien HF invalide (BÝÏ=)
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\entcap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\entcap_tab.wdw (entcap_tab)
+Avant migration N:\wdprojet\groca\entcap_wrk.wdw
+Ajout fenêtre : N:\wdprojet\groca\entcap_wrk.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\entcap_wrk.wdw (entcap_wrk)
+Avant migration N:\wdprojet\groca\entrades_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\entrades_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\entrades_imp.wdw (entrades_imp)
+Avant migration N:\wdprojet\groca\errors.wdw
+Ajout fenêtre : N:\wdprojet\groca\errors.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\errors.wdw (errors)
+Avant migration N:\wdprojet\groca\estatservidor.wdw
+Ajout fenêtre : N:\wdprojet\groca\estatservidor.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\estatservidor.wdw (estatservidor)
+Avant migration N:\wdprojet\groca\estocs_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\estocs_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\estocs_imp.wdw (estocs_imp)
+Avant migration N:\wdprojet\groca\etiqueta_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\etiqueta_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\etiqueta_imp.wdw (etiqueta_imp)
+Avant migration N:\wdprojet\groca\etiqueta_inc.wdw
+ARTCODIINI -> Lien HF invalide (BÝ÷;)
+ARTCODIFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\etiqueta_inc.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\etiqueta_inc.wdw (etiqueta_inc)
+Avant migration N:\wdprojet\groca\etiqueta_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\etiqueta_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\etiqueta_tab.wdw (etiqueta_tab)
+Avant migration N:\wdprojet\groca\exercici_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\exercici_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\exercici_tab.wdw (exercici_tab)
+Avant migration N:\wdprojet\groca\extra_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\extra_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\extra_fic.wdw (extra_fic)
+Avant migration N:\wdprojet\groca\extra_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\extra_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\extra_tab.wdw (extra_tab)
+Avant migration N:\wdprojet\groca\extrasel_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\extrasel_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\extrasel_sel.wdw (extrasel_sel)
+Avant migration N:\wdprojet\groca\faccap_eli.wdw
+Ajout fenêtre : N:\wdprojet\groca\faccap_eli.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\faccap_eli.wdw (faccap_eli)
+Avant migration N:\wdprojet\groca\faccap_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\faccap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\faccap_fic.wdw (faccap_fic)
+Avant migration N:\wdprojet\groca\faccap_imp.wdw
+DATAFACTURA -> Lien HF invalide (BÝ§6)
+DATACREACIO -> Lien HF invalide (BÝ§6)
+HORA -> Lien HF invalide (BÝ§6)
+FACNUMINI -> Lien HF invalide (BÝ÷;)
+FACNUMFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\faccap_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\faccap_imp.wdw (faccap_imp)
+Avant migration N:\wdprojet\groca\faccap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\faccap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\faccap_tab.wdw (faccap_tab)
+Avant migration N:\wdprojet\groca\facpro_act.wdw
+Ajout fenêtre : N:\wdprojet\groca\facpro_act.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\facpro_act.wdw (facpro_act)
+Avant migration N:\wdprojet\groca\facpro_eli.wdw
+Ajout fenêtre : N:\wdprojet\groca\facpro_eli.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\facpro_eli.wdw (facpro_eli)
+Avant migration N:\wdprojet\groca\facpro_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\facpro_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\facpro_tab.wdw (facpro_tab)
+Avant migration N:\wdprojet\groca\facpro_wrk.wdw
+Ajout fenêtre : N:\wdprojet\groca\facpro_wrk.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\facpro_wrk.wdw (facpro_wrk)
+Avant migration N:\wdprojet\groca\familia_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\familia_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\familia_sel.wdw (familia_sel)
+Avant migration N:\wdprojet\groca\formacob_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\formacob_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\formacob_tab.wdw (formacob_tab)
+Avant migration N:\wdprojet\groca\formapag_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\formapag_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\formapag_tab.wdw (formapag_tab)
+Avant migration N:\wdprojet\groca\gfamilia_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\gfamilia_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\gfamilia_fic.wdw (gfamilia_fic)
+Avant migration N:\wdprojet\groca\gfamilia_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\gfamilia_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\gfamilia_sel.wdw (gfamilia_sel)
+Avant migration N:\wdprojet\groca\gfamilia_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\gfamilia_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\gfamilia_tab.wdw (gfamilia_tab)
+Avant migration N:\wdprojet\groca\grupart_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\grupart_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\grupart_fic.wdw (grupart_fic)
+Avant migration N:\wdprojet\groca\grupart_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\grupart_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\grupart_sel.wdw (grupart_sel)
+Avant migration N:\wdprojet\groca\grupart_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\grupart_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\grupart_tab.wdw (grupart_tab)
+Avant migration N:\wdprojet\groca\hf2as400.wdw
+Ajout fenêtre : N:\wdprojet\groca\hf2as400.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\hf2as400.wdw (hf2as400)
+Avant migration N:\wdprojet\groca\hf2db2.wdw
+Ajout fenêtre : N:\wdprojet\groca\hf2db2.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\hf2db2.wdw (hf2db2)
+Avant migration N:\wdprojet\groca\hiscve_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\hiscve_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\hiscve_imp.wdw (hiscve_imp)
+Avant migration N:\wdprojet\groca\hiscve_tab.wdw
+Ajout fenêtre : N:\wdprojet\groca\hiscve_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\hiscve_tab.wdw (hiscve_tab)
+Avant migration N:\wdprojet\groca\iddespe_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\iddespe_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\iddespe_tab.wdw (iddespe_tab)
+Avant migration N:\wdprojet\groca\integrardadescentral.wdw
+Ajout fenêtre : N:\wdprojet\groca\integrardadescentral.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\integrardadescentral.wdw (integrardadescentral)
+Avant migration N:\wdprojet\groca\inventari_export.wdw
+Ajout fenêtre : N:\wdprojet\groca\inventari_export.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\inventari_export.wdw (inventari_export)
+Avant migration N:\wdprojet\groca\inventari_import.wdw
+Ajout fenêtre : N:\wdprojet\groca\inventari_import.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\inventari_import.wdw (inventari_import)
+Avant migration N:\wdprojet\groca\inventari_inc.wdw
+Ajout fenêtre : N:\wdprojet\groca\inventari_inc.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\inventari_inc.wdw (inventari_inc)
+Avant migration N:\wdprojet\groca\inventari_inc_tpv.wdw
+Ajout fenêtre : N:\wdprojet\groca\inventari_inc_tpv.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\inventari_inc_tpv.wdw (inventari_inc_tpv)
+Avant migration N:\wdprojet\groca\inventari_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\inventari_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\inventari_sel.wdw (inventari_sel)
+Avant migration N:\wdprojet\groca\llistat_tab.wdw
+Ajout fenêtre : N:\wdprojet\groca\llistat_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\llistat_tab.wdw (llistat_tab)
+Avant migration N:\wdprojet\groca\llistats_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\llistats_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\llistats_imp.wdw (llistats_imp)
+Avant migration N:\wdprojet\groca\login.wdw
+Ajout fenêtre : N:\wdprojet\groca\login.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\login.wdw (login)
+Avant migration N:\wdprojet\groca\ltrcap_act.wdw
+Ajout fenêtre : N:\wdprojet\groca\ltrcap_act.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\ltrcap_act.wdw (ltrcap_act)
+Avant migration N:\wdprojet\groca\ltrcap_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\ltrcap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\ltrcap_fic.wdw (ltrcap_fic)
+Avant migration N:\wdprojet\groca\ltrcap_find.wdw
+Ajout fenêtre : N:\wdprojet\groca\ltrcap_find.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\ltrcap_find.wdw (ltrcap_find)
+Avant migration N:\wdprojet\groca\ltrcap_importacio.wdw
+Ajout fenêtre : N:\wdprojet\groca\ltrcap_importacio.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\ltrcap_importacio.wdw (ltrcap_importacio)
+Avant migration N:\wdprojet\groca\ltrcap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\ltrcap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\ltrcap_tab.wdw (ltrcap_tab)
+Avant migration N:\wdprojet\groca\ltrcap_wrk.wdw
+Ajout fenêtre : N:\wdprojet\groca\ltrcap_wrk.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\ltrcap_wrk.wdw (ltrcap_wrk)
+Avant migration N:\wdprojet\groca\main.wdw
+Ajout fenêtre : N:\wdprojet\groca\main.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\main.wdw (main)
+1ere fenetre du projet
+Avant migration N:\wdprojet\groca\marca_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\marca_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\marca_tab.wdw (marca_tab)
+Avant migration N:\wdprojet\groca\moneda_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\moneda_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\moneda_tab.wdw (moneda_tab)
+Avant migration N:\wdprojet\groca\movart_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\movart_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\movart_imp.wdw (movart_imp)
+Avant migration N:\wdprojet\groca\mvttabac_eli.wdw
+Ajout fenêtre : N:\wdprojet\groca\mvttabac_eli.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\mvttabac_eli.wdw (mvttabac_eli)
+Avant migration N:\wdprojet\groca\mvttabac_export.wdw
+Ajout fenêtre : N:\wdprojet\groca\mvttabac_export.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\mvttabac_export.wdw (mvttabac_export)
+Avant migration N:\wdprojet\groca\mvttabac_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\mvttabac_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\mvttabac_fic.wdw (mvttabac_fic)
+Avant migration N:\wdprojet\groca\mvttabac_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\mvttabac_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\mvttabac_tab.wdw (mvttabac_tab)
+Avant migration N:\wdprojet\groca\negoci_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\negoci_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\negoci_fic.wdw (negoci_fic)
+Avant migration N:\wdprojet\groca\negoci_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\negoci_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\negoci_sel.wdw (negoci_sel)
+Avant migration N:\wdprojet\groca\negoci_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\negoci_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\negoci_tab.wdw (negoci_tab)
+Avant migration N:\wdprojet\groca\neteja_basedades.wdw
+Ajout fenêtre : N:\wdprojet\groca\neteja_basedades.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\neteja_basedades.wdw (neteja_basedades)
+Avant migration N:\wdprojet\groca\numseq_tab.wdw
+Ajout fenêtre : N:\wdprojet\groca\numseq_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\numseq_tab.wdw (numseq_tab)
+Avant migration N:\wdprojet\groca\opcionsgenerals.wdw
+Ajout fenêtre : N:\wdprojet\groca\opcionsgenerals.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\opcionsgenerals.wdw (opcionsgenerals)
+Avant migration N:\wdprojet\groca\opcionsini.wdw
+Ajout fenêtre : N:\wdprojet\groca\opcionsini.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\opcionsini.wdw (opcionsini)
+Avant migration N:\wdprojet\groca\pagament_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\pagament_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\pagament_fic.wdw (pagament_fic)
+Avant migration N:\wdprojet\groca\pagament_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\pagament_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\pagament_imp.wdw (pagament_imp)
+Avant migration N:\wdprojet\groca\pagament_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\pagament_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\pagament_tab.wdw (pagament_tab)
+Avant migration N:\wdprojet\groca\pagament_wrk.wdw
+Ajout fenêtre : N:\wdprojet\groca\pagament_wrk.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\pagament_wrk.wdw (pagament_wrk)
+Avant migration N:\wdprojet\groca\pais_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\pais_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\pais_tab.wdw (pais_tab)
+Avant migration N:\wdprojet\groca\petart_eli.wdw
+Ajout fenêtre : N:\wdprojet\groca\petart_eli.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\petart_eli.wdw (petart_eli)
+Avant migration N:\wdprojet\groca\petart_export.wdw
+Ajout fenêtre : N:\wdprojet\groca\petart_export.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\petart_export.wdw (petart_export)
+Avant migration N:\wdprojet\groca\petart_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\petart_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\petart_fic.wdw (petart_fic)
+Avant migration N:\wdprojet\groca\petart_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\petart_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\petart_tab.wdw (petart_tab)
+Avant migration N:\wdprojet\groca\petcda_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\petcda_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\petcda_imp.wdw (petcda_imp)
+Avant migration N:\wdprojet\groca\petcda_import.wdw
+Ajout fenêtre : N:\wdprojet\groca\petcda_import.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\petcda_import.wdw (petcda_import)
+Avant migration N:\wdprojet\groca\petcda_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\petcda_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\petcda_tab.wdw (petcda_tab)
+Avant migration N:\wdprojet\groca\prmcap_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\prmcap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\prmcap_fic.wdw (prmcap_fic)
+Avant migration N:\wdprojet\groca\prmcap_imp.wdw
+PRMNUMINI -> Lien HF invalide (BÝ÷;)
+PRMNUMFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\prmcap_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\prmcap_imp.wdw (prmcap_imp)
+Avant migration N:\wdprojet\groca\prmcap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\prmcap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\prmcap_tab.wdw (prmcap_tab)
+Avant migration N:\wdprojet\groca\proart_sel.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\proart_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\proart_sel.wdw (proart_sel)
+Avant migration N:\wdprojet\groca\proart_tab.wdw
+Ajout fenêtre : N:\wdprojet\groca\proart_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\proart_tab.wdw (proart_tab)
+Avant migration N:\wdprojet\groca\proveid_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\proveid_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\proveid_fic.wdw (proveid_fic)
+Avant migration N:\wdprojet\groca\proveid_imp.wdw
+PROCODIINI -> Lien HF invalide (BÝ÷;)
+PROCODIFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\proveid_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\proveid_imp.wdw (proveid_imp)
+Avant migration N:\wdprojet\groca\proveid_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\proveid_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\proveid_tab.wdw (proveid_tab)
+Avant migration N:\wdprojet\groca\puntmort_tab.wdw
+Ajout fenêtre : N:\wdprojet\groca\puntmort_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\puntmort_tab.wdw (puntmort_tab)
+Avant migration N:\wdprojet\groca\recalc_histo.wdw
+Ajout fenêtre : N:\wdprojet\groca\recalc_histo.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\recalc_histo.wdw (recalc_histo)
+Avant migration N:\wdprojet\groca\recalc_pous.wdw
+Ajout fenêtre : N:\wdprojet\groca\recalc_pous.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\recalc_pous.wdw (recalc_pous)
+Avant migration N:\wdprojet\groca\recalculgeneral.wdw
+Ajout fenêtre : N:\wdprojet\groca\recalculgeneral.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\recalculgeneral.wdw (recalculgeneral)
+Avant migration N:\wdprojet\groca\recalculs.wdw
+Ajout fenêtre : N:\wdprojet\groca\recalculs.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\recalculs.wdw (recalculs)
+Avant migration N:\wdprojet\groca\reccarn.wdw
+Ajout fenêtre : N:\wdprojet\groca\reccarn.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\reccarn.wdw (reccarn)
+Avant migration N:\wdprojet\groca\referencia_import.wdw
+Ajout fenêtre : N:\wdprojet\groca\referencia_import.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\referencia_import.wdw (referencia_import)
+Avant migration N:\wdprojet\groca\regcap_eli.wdw
+Ajout fenêtre : N:\wdprojet\groca\regcap_eli.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\regcap_eli.wdw (regcap_eli)
+Avant migration N:\wdprojet\groca\regcap_export.wdw
+Ajout fenêtre : N:\wdprojet\groca\regcap_export.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\regcap_export.wdw (regcap_export)
+Avant migration N:\wdprojet\groca\regcap_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\regcap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\regcap_fic.wdw (regcap_fic)
+Avant migration N:\wdprojet\groca\regcap_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\regcap_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\regcap_imp.wdw (regcap_imp)
+Avant migration N:\wdprojet\groca\regcap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\regcap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\regcap_tab.wdw (regcap_tab)
+Avant migration N:\wdprojet\groca\regcap_wrk.wdw
+Ajout fenêtre : N:\wdprojet\groca\regcap_wrk.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\regcap_wrk.wdw (regcap_wrk)
+Avant migration N:\wdprojet\groca\remesac_act.wdw
+Ajout fenêtre : N:\wdprojet\groca\remesac_act.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\remesac_act.wdw (remesac_act)
+Avant migration N:\wdprojet\groca\remesac_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\remesac_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\remesac_fic.wdw (remesac_fic)
+Avant migration N:\wdprojet\groca\remesac_tab.wdw
+Ajout fenêtre : N:\wdprojet\groca\remesac_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\remesac_tab.wdw (remesac_tab)
+Avant migration N:\wdprojet\groca\remesac_wrk.wdw
+Ajout fenêtre : N:\wdprojet\groca\remesac_wrk.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\remesac_wrk.wdw (remesac_wrk)
+Avant migration N:\wdprojet\groca\remesap_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\remesap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\remesap_fic.wdw (remesap_fic)
+Avant migration N:\wdprojet\groca\remesap_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\remesap_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\remesap_imp.wdw (remesap_imp)
+Avant migration N:\wdprojet\groca\remesap_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\remesap_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\remesap_sel.wdw (remesap_sel)
+Avant migration N:\wdprojet\groca\remesap_tab.wdw
+Ajout fenêtre : N:\wdprojet\groca\remesap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\remesap_tab.wdw (remesap_tab)
+Avant migration N:\wdprojet\groca\remesap_wrk.wdw
+Ajout fenêtre : N:\wdprojet\groca\remesap_wrk.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\remesap_wrk.wdw (remesap_wrk)
+Avant migration N:\wdprojet\groca\repcap_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\repcap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\repcap_fic.wdw (repcap_fic)
+Avant migration N:\wdprojet\groca\repcap_imp.wdw
+SOBNUMINI -> Lien HF invalide (BÝ÷;)
+SOBNUMFI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\repcap_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\repcap_imp.wdw (repcap_imp)
+Avant migration N:\wdprojet\groca\repcap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\repcap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\repcap_tab.wdw (repcap_tab)
+Avant migration N:\wdprojet\groca\replin_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\replin_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\replin_fic.wdw (replin_fic)
+Avant migration N:\wdprojet\groca\selecciomultiple.wdw
+Ajout fenêtre : N:\wdprojet\groca\selecciomultiple.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\selecciomultiple.wdw (selecciomultiple)
+Avant migration N:\wdprojet\groca\selecciomultipleanalisi.wdw
+Ajout fenêtre : N:\wdprojet\groca\selecciomultipleanalisi.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\selecciomultipleanalisi.wdw (selecciomultipleanalisi)
+Avant migration N:\wdprojet\groca\setupimpressio.wdw
+LST_FORMAT -> Lien HF invalide (Ï•)
+LST_IMPRESSORA -> Lien HF invalide (Ï•)
+Ajout fenêtre : N:\wdprojet\groca\setupimpressio.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\setupimpressio.wdw (setupimpressio)
+Avant migration N:\wdprojet\groca\sfamilia_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\sfamilia_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\sfamilia_sel.wdw (sfamilia_sel)
+Avant migration N:\wdprojet\groca\stat_12_mesos_imp_hf.wdw
+Ajout fenêtre : N:\wdprojet\groca\stat_12_mesos_imp_hf.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\stat_12_mesos_imp_hf.wdw (stat_12_mesos_imp_hf)
+Avant migration N:\wdprojet\groca\stat_12mesos_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\stat_12mesos_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\stat_12mesos_imp.wdw (stat_12mesos_imp)
+Avant migration N:\wdprojet\groca\stat_abc_imp.wdw
+ARTCODI -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\stat_abc_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\stat_abc_imp.wdw (stat_abc_imp)
+Avant migration N:\wdprojet\groca\stat_compresdetallades_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\stat_compresdetallades_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\stat_compresdetallades_imp.wdw (stat_compresdetallades_imp)
+Avant migration N:\wdprojet\groca\stat_comprespromon_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\stat_comprespromon_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\stat_comprespromon_imp.wdw (stat_comprespromon_imp)
+Avant migration N:\wdprojet\groca\stat_estoccompven_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\stat_estoccompven_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\stat_estoccompven_imp.wdw (stat_estoccompven_imp)
+Avant migration N:\wdprojet\groca\stat_materiaprima_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\stat_materiaprima_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\stat_materiaprima_imp.wdw (stat_materiaprima_imp)
+Avant migration N:\wdprojet\groca\std_imp.wdw
+PRIMER -> Lien HF invalide (BÝ÷;)
+ULTIM -> Lien HF invalide (BÝ÷;)
+Ajout fenêtre : N:\wdprojet\groca\std_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\std_imp.wdw (std_imp)
+Avant migration N:\wdprojet\groca\stdcompact_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\stdcompact_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\stdcompact_imp.wdw (stdcompact_imp)
+Avant migration N:\wdprojet\groca\sucursal_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\sucursal_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\sucursal_sel.wdw (sucursal_sel)
+Avant migration N:\wdprojet\groca\sucursal_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\sucursal_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\sucursal_tab.wdw (sucursal_tab)
+Avant migration N:\wdprojet\groca\testvenciments.wdw
+Ajout fenêtre : N:\wdprojet\groca\testvenciments.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\testvenciments.wdw (testvenciments)
+Avant migration N:\wdprojet\groca\textlliure.wdw
+Ajout fenêtre : N:\wdprojet\groca\textlliure.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\textlliure.wdw (textlliure)
+Avant migration N:\wdprojet\groca\tipusmov_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\tipusmov_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tipusmov_tab.wdw (tipusmov_tab)
+Avant migration N:\wdprojet\groca\tipusmp_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\tipusmp_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tipusmp_tab.wdw (tipusmp_tab)
+Avant migration N:\wdprojet\groca\tipuspag_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\tipuspag_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tipuspag_tab.wdw (tipuspag_tab)
+Avant migration N:\wdprojet\groca\tipuspro_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\tipuspro_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tipuspro_tab.wdw (tipuspro_tab)
+Avant migration N:\wdprojet\groca\tpvcob_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\tpvcob_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tpvcob_fic.wdw (tpvcob_fic)
+Avant migration N:\wdprojet\groca\tpvlin_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\tpvlin_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tpvlin_fic.wdw (tpvlin_fic)
+Avant migration N:\wdprojet\groca\tpvtnc_eli.wdw
+Ajout fenêtre : N:\wdprojet\groca\tpvtnc_eli.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tpvtnc_eli.wdw (tpvtnc_eli)
+Avant migration N:\wdprojet\groca\tpvtnc_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\tpvtnc_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tpvtnc_fic.wdw (tpvtnc_fic)
+Avant migration N:\wdprojet\groca\tpvtnc_find.wdw
+Ajout fenêtre : N:\wdprojet\groca\tpvtnc_find.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tpvtnc_find.wdw (tpvtnc_find)
+Avant migration N:\wdprojet\groca\tpvtnc_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\tpvtnc_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tpvtnc_imp.wdw (tpvtnc_imp)
+Avant migration N:\wdprojet\groca\tpvtnc_inc.wdw
+Ajout fenêtre : N:\wdprojet\groca\tpvtnc_inc.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tpvtnc_inc.wdw (tpvtnc_inc)
+Avant migration N:\wdprojet\groca\tpvtnc_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\tpvtnc_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tpvtnc_sel.wdw (tpvtnc_sel)
+Avant migration N:\wdprojet\groca\tpvtnc_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\tpvtnc_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tpvtnc_tab.wdw (tpvtnc_tab)
+Avant migration N:\wdprojet\groca\tpvtnc_totals.wdw
+Ajout fenêtre : N:\wdprojet\groca\tpvtnc_totals.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tpvtnc_totals.wdw (tpvtnc_totals)
+Avant migration N:\wdprojet\groca\tpvtnc_wrk.wdw
+Ajout fenêtre : N:\wdprojet\groca\tpvtnc_wrk.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tpvtnc_wrk.wdw (tpvtnc_wrk)
+Avant migration N:\wdprojet\groca\tpvtqt_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\tpvtqt_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tpvtqt_fic.wdw (tpvtqt_fic)
+Avant migration N:\wdprojet\groca\venedor_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\venedor_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\venedor_sel.wdw (venedor_sel)
+Avant migration N:\wdprojet\groca\xtccap_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\xtccap_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\xtccap_fic.wdw (xtccap_fic)
+Avant migration N:\wdprojet\groca\xtccap_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\xtccap_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\xtccap_tab.wdw (xtccap_tab)
+Avant migration N:\wdprojet\groca\comerzzia_export.wdw
+Ajout fenêtre : N:\wdprojet\groca\comerzzia_export.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\comerzzia_export.wdw (comerzzia_export)
+Avant migration N:\wdprojet\groca\creditfiscal_imp.wdw
+Ajout fenêtre : N:\wdprojet\groca\creditfiscal_imp.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\creditfiscal_imp.wdw (creditfiscal_imp)
+Avant migration N:\wdprojet\groca\tipusimp_tab.wdw
+FLD_RECERCA -> Lien HF invalide (ÈŠw)
+Ajout fenêtre : N:\wdprojet\groca\tipusimp_tab.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tipusimp_tab.wdw (tipusimp_tab)
+Avant migration N:\wdprojet\groca\tipusimp_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\tipusimp_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tipusimp_fic.wdw (tipusimp_fic)
+Avant migration N:\wdprojet\groca\tipusimp_sel.wdw
+Ajout fenêtre : N:\wdprojet\groca\tipusimp_sel.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\tipusimp_sel.wdw (tipusimp_sel)
+Avant migration N:\wdprojet\groca\processosigi.wdw
+Ajout fenêtre : N:\wdprojet\groca\processosigi.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\processosigi.wdw (processosigi)
+Avant migration N:\wdprojet\groca\regftra_fic.wdw
+Ajout fenêtre : N:\wdprojet\groca\regftra_fic.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\regftra_fic.wdw (regftra_fic)
+Avant migration N:\wdprojet\groca\moviments_xls.wdw
+Ajout fenêtre : N:\wdprojet\groca\moviments_xls.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\moviments_xls.wdw (moviments_xls)
+Avant migration N:\wdprojet\groca\estocs_xls.wdw
+Ajout fenêtre : N:\wdprojet\groca\estocs_xls.wdw -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\estocs_xls.wdw (estocs_xls)
+Avant migration N:\wdprojet\groca\pagarea4bibm.wde
+Ajout Etat : N:\wdprojet\groca\pagarea4bibm.wde -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\pagarea4bibm.wde (PAGAREA4BIBM)
+Avant migration N:\wdprojet\groca\pagarea4bpa.wde
+Ajout Etat : N:\wdprojet\groca\pagarea4bpa.wde -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\pagarea4bpa.wde (PAGAREA4BPA)
+Avant migration N:\wdprojet\groca\pagarea4credit.wde
+Ajout Etat : N:\wdprojet\groca\pagarea4credit.wde -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\pagarea4credit.wde (PAGAREA4CREDIT)
+Avant migration N:\wdprojet\groca\xeca4andbanc.wde
+Ajout Etat : N:\wdprojet\groca\xeca4andbanc.wde -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\xeca4andbanc.wde (XECA4ANDBANC)
+Avant migration N:\wdprojet\groca\xeca4bibm.wde
+Ajout Etat : N:\wdprojet\groca\xeca4bibm.wde -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\xeca4bibm.wde (XECA4BIBM)
+Avant migration N:\wdprojet\groca\xeca4bibmramaderia.wde
+Ajout Etat : N:\wdprojet\groca\xeca4bibmramaderia.wde -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\xeca4bibmramaderia.wde (XECA4BIBMRAMADERIA)
+Avant migration N:\wdprojet\groca\xeca4bpa.wde
+Ajout Etat : N:\wdprojet\groca\xeca4bpa.wde -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\xeca4bpa.wde (XECA4BPA)
+Avant migration N:\wdprojet\groca\xeca4credit.wde
+Ajout Etat : N:\wdprojet\groca\xeca4credit.wde -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\xeca4credit.wde (XECA4CREDIT)
+Avant migration N:\wdprojet\groca\xeca4credit_matriu.wde
+Ajout Etat : N:\wdprojet\groca\xeca4credit_matriu.wde -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\xeca4credit_matriu.wde (XECA4CREDIT_MATRIU)
+Avant migration N:\wdprojet\groca\xeca4sabadell.wde
+Ajout Etat : N:\wdprojet\groca\xeca4sabadell.wde -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\xeca4sabadell.wde (XECA4SABADELL)
+Avant migration N:\wdprojet\groca\pagarea4bibmold.wde
+Ajout Etat : N:\wdprojet\groca\pagarea4bibmold.wde -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\pagarea4bibmold.wde (PAGAREA4BIBMOLD)
+Avant migration N:\wdprojet\groca\xecgrupa4bpa.wde
+Ajout Etat : N:\wdprojet\groca\xecgrupa4bpa.wde -> C:\ANDORSOFT\WINDEVPROJ-19\WDGROCA\xecgrupa4bpa.wde (XECGRUPA4BPA)
+Le nom de la méthode 'Where' est un mot réservé : elle a été renommée en '_Where'.
+Le nom de la méthode 'Where' est un mot réservé : elle a été renommée en '_Where'.
+Le nom de la méthode 'Where' est un mot réservé : elle a été renommée en '_Where'.

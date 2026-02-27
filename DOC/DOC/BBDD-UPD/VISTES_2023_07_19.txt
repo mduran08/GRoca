@@ -1,0 +1,48 @@
+CREATE VIEW `grtpv-master`.v_control_blanqueig AS
+SELECT 
+    tiquet_0.BotCodi,
+    tiquet_0.TpvCodi,
+    tiquet_0.TiqNum,
+    tiquet_0.Data,
+    tiquet_0.Hora,
+    tiquet_0.ImpBrut,
+    tiquet_0.Estat,
+    tiquet_0.VenCodi,
+  
+    tiquet_0.SocCodi,
+    tiquet_0.CliCodi,
+    tiquet_0.ClxCodi,
+	concat(coalesce(clientext_0.cognom1,''),'',coalesce(clientext_0.cognom2,''),',',coalesce(clientext_0.nom,'')) as 'Client',
+    tiquet_0.TiqTipus,
+    tiquet_0.Comentari,
+    tiquet_0.ComIntern,
+    tiquet_0.RctMotiu,
+    tiquet_0.TiqNumSerie,
+    tiquet_0.AlbNumMan,
+	tiqcob_0.TiqCobNum,
+     tiqcob_0.MonCodi,
+    tiqcob_0.ImpMoneda AS 'IMPORT MONEDA COBRAMENT',
+    tiqcob_0.ImpBase AS 'IMPORT COBRAMENT EUROS',
+     formacob_0.FcbDesc as 'FORMA COBR. 1',
+    tiquet_0.ImpNet,
+doc.ImpBase,
+doc.impmoneda,
+doc.FcbCodi,
+mvtcaixa_docclient.comentari as 'OOMENTARI DOCUMENT',
+formacob_docclient.FcbDesc AS 'FORMA COBR. 2',
+formacob_mvtcaixa_docclient.FcbDesc AS 'FORMA COBR. 3'
+FROM
+	`grtpv-master`.tiqcob tiqcob_0
+	left outer join `grtpv-master`.tiquet tiquet_0 on  tiqcob_0.SocCodi = tiquet_0.SocCodi and tiqcob_0.BotCodi = tiquet_0.BotCodi and tiqcob_0.TpvCodi = tiquet_0.TpvCodi  AND tiqcob_0.TiqNum = tiquet_0.TiqNum
+	left outer join `grtpv-master`.clientext clientext_0 on  clientext_0.clxcodi =  tiquet_0.ClxCodi
+	left outer join `grtpv-master`.formacob formacob_0 on formacob_0.FcbCodi = tiqcob_0.FcbCodi
+	left outer join  `grtpv-master`.docclient doc on 
+		tiqcob_0.DclSocCodi = doc.SocCodi  and tiqcob_0.DclBotCodi = doc.BotCodi and tiqcob_0.DclTpvCodi = doc.TpvCodi  AND tiqcob_0.DclNum = doc.DclNum 
+	left outer join `grtpv-master`.formacob formacob_docclient on formacob_docclient.FcbCodi = doc.FcbCodi
+	left outer join  `grtpv-master`.mvtcaixa mvtcaixa_docclient on 
+		doc.SocCodi = mvtcaixa_docclient.SocCodi and doc.BotCodi = mvtcaixa_docclient.BotCodi and doc.TpvCodi = mvtcaixa_docclient.TpvCodi  AND doc.DclNum = mvtcaixa_docclient.DclNum
+	left outer join `grtpv-master`.formacob formacob_mvtcaixa_docclient on formacob_mvtcaixa_docclient.FcbCodi = mvtcaixa_docclient.FcbCodi
+where tiqcob_0.SocCodi = 1  and tiquet_0.Data >= '2021-01-01'
+
+
+

@@ -1,0 +1,3 @@
+//MO131-132.TXT ANA00131 TO ANA00132
+ARTICLE		TAR	177	nouvelle taille enregistrement : 177
+ARTICLE	ARTDESC_TIQUET	RUB+		ARTDESC_TIQUET est une nouvelle rubrique

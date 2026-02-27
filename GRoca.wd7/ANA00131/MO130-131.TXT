@@ -1,0 +1,3 @@
+//MO130-131.TXT ANA00130 TO ANA00131
+TPVCOBREP		TAR	57	nouvelle taille enregistrement : 57
+TPVCOBREP	ORIGENCR	RUB+		ORIGENCR est une nouvelle rubrique

@@ -1,0 +1,35 @@
+           1         2         3         4         5         6         7         8 
+  12345678901234567890123456789012345678901234567890123456789012345678901234567890 
+
+->Capçalera
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX·······················Data:·99/99/9999··Full:·999
+  ················································································
+  ··············Tarifa d'articles per marca {(Numèric)|(Alfabètic)}···············
+  ··············Tarifa d'articles per autor {(Numèric)|(Alfabètic)}···············
+  Tarifa d'articles per gran famílies, famílies i subfamílies {(Numèric)|(Alfabètic)}
+  ·············Tarifa d'articles per proveïdor {(Numèric)|(Alfabètic)}············
+  ················································································
+
+  // mentre hi hagin pessetes
+  Article                                                      Preu PTA  Preu EURO
+  ---------------------------------------------------------- ---------- ----------
+  ················································································
+
+  // quan només hi hagin Euros
+  Article                                                                Preu EURO
+  --------------------------------------------------------------------- ----------
+  ················································································
+
+->Títol
+
+->Capçalera detall
+
+->Detall
+  // mentre hi hagin pessetes
+  XXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 99.999.999 999.999,99
+  // quan només hi hagin Euros
+  XXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 999.999,99
+
+->Final
+  --------------------------------------------------------------------------------
+  ·····························*** FI DE LLISTAT ***······························

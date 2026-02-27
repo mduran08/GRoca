@@ -1,0 +1,390 @@
+Analyse		===Liaison 'ALBALB_1'===***Warning***	<Liaison 'ALBALB_1'>: 
+La liaison 'ALBCAP.KNEGALB'(0,n)->(1,1)'ALBLIN.KNEGALB' va être supprimée car la rubrique reliée KNEGALB du fichier ALBLIN est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'BOTALB_1'===***Warning***	<Liaison 'BOTALB_1'>: 
+La liaison 'BOTIGA.KNEGBOT'(0,n)->(1,1)'ALBCAP.KNEGBOT' va être supprimée car la rubrique reliée KNEGBOT du fichier ALBCAP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'BOTEST_1'===***Warning***	<Liaison 'BOTEST_1'>: 
+La liaison 'BOTIGA.KNEGBOT'(0,n)->(1,1)'ESTOC.KNEGBOT' va être supprimée car la rubrique reliée KNEGBOT du fichier ESTOC est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'BOTFAC_1'===***Warning***	<Liaison 'BOTFAC_1'>: 
+La liaison 'BOTIGA.KNEGBOT'(0,n)->(0,1)'FACPRO.KNEGBOT' va être supprimée car la rubrique reliée KNEGBOT du fichier FACPRO est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'BOTMVT_1'===***Warning***	<Liaison 'BOTMVT_1'>: 
+La liaison 'BOTIGA.KNEGBOT'(0,n)->(1,1)'MVTTABAC.KNEGBOT' va être supprimée car la rubrique reliée KNEGBOT du fichier MVTTABAC est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'BOTMVT_2'===***Warning***	<Liaison 'BOTMVT_2'>: 
+La liaison 'BOTIGA.KNEGBOT'(0,n)->(0,1)'MVTTABAC.KNEDBOD' va être supprimée car la rubrique reliée KNEDBOD du fichier MVTTABAC est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'BOTPUN_1'===***Warning***	<Liaison 'BOTPUN_1'>: 
+La liaison 'BOTIGA.KNEGBOT'(0,n)->(1,1)'PUNTMORT.KNEGBOT' va être supprimée car la rubrique reliée KNEGBOT du fichier PUNTMORT est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'BOTREG_1'===***Warning***	<Liaison 'BOTREG_1'>: 
+La liaison 'BOTIGA.KNEGBOT'(0,n)->(1,1)'REGLIN.KNEGBOT' va être supprimée car la rubrique reliée KNEGBOT du fichier REGLIN est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'BOTTAR_1'===***Warning***	<Liaison 'BOTTAR_1'>: 
+La liaison 'BOTIGA.KNEGBOT'(0,n)->(0,1)'TARIFA.KNEGBOT' va être supprimée car la rubrique reliée KNEGBOT du fichier TARIFA est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'BOTTPV_1'===***Warning***	<Liaison 'BOTTPV_1'>: 
+La liaison 'BOTIGA.KNEGBOT'(0,n)->(1,1)'TPVTNC.KNEGBOT' va être supprimée car la rubrique reliée KNEGBOT du fichier TPVTNC est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CARCAR_1'===***Warning***	<Liaison 'CARCAR_1'>: 
+La liaison 'CARTERAP.KNEGORINUMEFE'(0,n)->(1,1)'CARTPLIN.KNEGORINUMEFE' va être supprimée car la rubrique reliée KNEGORINUMEFE du fichier CARTPLIN est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CDACDA_1'===***Warning***	<Liaison 'CDACDA_1'>: 
+La liaison 'CDACAP.KNEGCDA'(0,n)->(1,1)'CDALIN.KNEGCDA' va être supprimée car la rubrique reliée KNEGCDA du fichier CDALIN est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CLIALB_1'===***Warning***	<Liaison 'CLIALB_1'>: 
+La liaison 'CLIENT.KNEGCLI'(0,n)->(1,1)'ALBCAP.KNEGCLI' va être supprimée car la rubrique reliée KNEGCLI du fichier ALBCAP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CLIALB_2'===***Warning***	<Liaison 'CLIALB_2'>: 
+La liaison 'CLIENT.KNEGCLI'(0,n)->(1,1)'ALBCAP.KNEGCLF' va être supprimée car la rubrique reliée KNEGCLF du fichier ALBCAP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CLIBOT_1'===***Warning***	<Liaison 'CLIBOT_1'>: 
+La liaison 'CLIENT.KNEGCLI'(0,n)->(0,1)'BOTIGA.KNEGCLI' va être supprimée car la rubrique reliée KNEGCLI du fichier BOTIGA est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CLICAR_1'===***Warning***	<Liaison 'CLICAR_1'>: 
+La liaison 'CLIENT.KNEGCLI'(0,n)->(1,1)'CARTERAC.KNEGCLI' va être supprimée car la rubrique reliée KNEGCLI du fichier CARTERAC est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CLICLI_1'===***Warning***	<Liaison 'CLICLI_1'>: 
+La liaison 'CLIENT.KNEGCLI'(0,n)->(0,1)'CLIENT.KNEGCLFFAC' va être supprimée car la rubrique reliée KNEGCLFFAC du fichier CLIENT est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CLIEXT_1'===***Warning***	<Liaison 'CLIEXT_1'>: 
+La liaison 'CLIENT.KNEGCLI'(0,n)->(1,1)'EXTRACLI.KNEGCLI' va être supprimée car la rubrique reliée KNEGCLI du fichier EXTRACLI est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CLIFAC_1'===***Warning***	<Liaison 'CLIFAC_1'>: 
+La liaison 'CLIENT.KNEGCLI'(0,n)->(1,1)'FACCAP.KNEGCLI' va être supprimée car la rubrique reliée KNEGCLI du fichier FACCAP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CLIFAC_2'===***Warning***	<Liaison 'CLIFAC_2'>: 
+La liaison 'CLIENT.KNEGCLI'(0,n)->(1,1)'FACCAP.KNEGCLF' va être supprimée car la rubrique reliée KNEGCLF du fichier FACCAP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CLIMVT_1'===***Warning***	<Liaison 'CLIMVT_1'>: 
+La liaison 'CLIENT.KNEGCLI'(0,n)->(0,1)'MVTTABAC.KNEGCLI' va être supprimée car la rubrique reliée KNEGCLI du fichier MVTTABAC est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CNFCNF_1'===***Warning***	<Liaison 'CNFCNF_1'>: 
+La liaison 'CNFCAP.KNEGCNF'(0,n)->(1,1)'CNFVNT.KNEGCNF' va être supprimée car la rubrique reliée KNEGCNF du fichier CNFVNT est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CNFCNF_2'===***Warning***	<Liaison 'CNFCNF_2'>: 
+La liaison 'CNFCAP.KNEGCNF'(0,n)->(1,1)'CNFIMP.KNEGCNF' va être supprimée car la rubrique reliée KNEGCNF du fichier CNFIMP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CNFENT_1'===***Warning***	<Liaison 'CNFENT_1'>: 
+La liaison 'CNFCAP.KNEGCNF'(0,n)->(0,1)'ENTCAP.KNEGCNF' va être supprimée car la rubrique reliée KNEGCNF du fichier ENTCAP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CPTCPT_2'===***Warning***	<Liaison 'CPTCPT_2'>: 
+La liaison 'CPTRFACT.KCASCAP'(0,n)->(0,1)'CPTRFIMP.KCASCAP' va être supprimée car la rubrique reliée KCASCAP du fichier CPTRFIMP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'CPTCPT_3'===***Warning***	<Liaison 'CPTCPT_3'>: 
+La liaison 'CPTLIN.KCASCAP'(0,n)->(0,1)'CPTRFACT.KCASCAP' va être supprimée car la rubrique reliée KCASCAP du fichier CPTRFACT est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'ENTCDA_1'===***Warning***	<Liaison 'ENTCDA_1'>: 
+La liaison 'ENTCAP.KNEGENT'(0,n)->(0,1)'CDACAP.KNEGENT' va être supprimée car la rubrique reliée KNEGENT du fichier CDACAP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'ENTENT_1'===***Warning***	<Liaison 'ENTENT_1'>: 
+La liaison 'ENTCAP.KNEGENT'(0,n)->(1,1)'ENTLIN.KNEGENT' va être supprimée car la rubrique reliée KNEGENT du fichier ENTLIN est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'ENTENT_2'===***Warning***	<Liaison 'ENTENT_2'>: 
+La liaison 'ENTCAP.KNEGENT'(0,n)->(1,1)'ENTIDD.KNEGENT' va être supprimée car la rubrique reliée KNEGENT du fichier ENTIDD est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'ENTENT_3'===***Warning***	<Liaison 'ENTENT_3'>: 
+La liaison 'ENTCAP.KNEGENT'(0,n)->(1,1)'ENTVNT.KNEGENT' va être supprimée car la rubrique reliée KNEGENT du fichier ENTVNT est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'ENTENT_4'===***Warning***	<Liaison 'ENTENT_4'>: 
+La liaison 'ENTCAP.KNEGENT'(0,n)->(1,1)'ENTIMP.KNEGENT' va être supprimée car la rubrique reliée KNEGENT du fichier ENTIMP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'ESTEST_1'===***Warning***	<Liaison 'ESTEST_1'>: 
+La liaison 'ESTOC.KARTNEGBOT'(0,1)->(1,1)'ESTOCLIN.KARTNEGBOT' va être supprimée car la rubrique reliée KARTNEGBOT du fichier ESTOCLIN est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'EXTEXT_1'===***Warning***	<Liaison 'EXTEXT_1'>: 
+La liaison 'EXTRA.KNEGPRPEXT'(0,n)->(1,1)'EXTRASEL.KNEGPRPEXT' va être supprimée car la rubrique reliée KNEGPRPEXT du fichier EXTRASEL est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'EXTEXT_2'===***Warning***	<Liaison 'EXTEXT_2'>: 
+La liaison 'EXTRA.KNEGPRPEXT'(0,n)->(1,1)'EXTRACLI.KNEGPRPEXT' va être supprimée car la rubrique reliée KNEGPRPEXT du fichier EXTRACLI est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'EXTEXT_3'===***Warning***	<Liaison 'EXTEXT_3'>: 
+La liaison 'EXTRASEL.KNEGPRPEXTEXS'(0,n)->(0,1)'EXTRACLI.KNEGPRPEXTEXS' va être supprimée car la rubrique reliée KNEGPRPEXTEXS du fichier EXTRACLI est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'FACALB_1'===***Warning***	<Liaison 'FACALB_1'>: 
+La liaison 'FACCAP.KNEGFAC'(0,n)->(0,1)'ALBCAP.KNEGFAC' va être supprimée car la rubrique reliée KNEGFAC du fichier ALBCAP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'FACFAC_2'===***Warning***	<Liaison 'FACFAC_2'>: 
+La liaison 'FACCAP.KNEGFAC'(0,n)->(0,1)'FACIMP.KNEGFAC' va être supprimée car la rubrique reliée KNEGFAC du fichier FACIMP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'FAMART_1'===***Warning***	<Liaison 'FAMART_1'>: 
+La liaison 'FAMILIA.KGFMFAM'(0,n)->(0,1)'ARTGAR.KGFMFAM' va être supprimée car la rubrique reliée KGFMFAM du fichier ARTGAR est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'FAMHST_1'===***Warning***	<Liaison 'FAMHST_1'>: 
+La liaison 'FAMILIA.KGFMFAM'(0,1)->(1,1)'HSTFAM.KGFMFAM' va être supprimée car la rubrique reliée KGFMFAM du fichier HSTFAM est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'FAMIGI_1'===***Warning***	<Liaison 'FAMIGI_1'>: 
+La liaison 'FAMILIA.KGFMFAM'(0,n)->(0,1)'IGI.KGFMFAM' va être supprimée car la rubrique reliée KGFMFAM du fichier IGI est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'FAMSFA_1'===***Warning***	<Liaison 'FAMSFA_1'>: 
+La liaison 'FAMILIA.KGFMFAM'(0,n)->(1,1)'SFAMILIA.KGFMFAM' va être supprimée car la rubrique reliée KGFMFAM du fichier SFAMILIA est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'GRUART_1'===***Warning***	<Liaison 'GRUART_1'>: 
+La liaison 'GRUPART.KNEGGAR'(0,n)->(1,1)'ARTGAR.KNEGGAR' va être supprimée car la rubrique reliée KNEGGAR du fichier ARTGAR est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'LTRLTR_1'===***Warning***	<Liaison 'LTRLTR_1'>: 
+La liaison 'LTRCAP.KNEGBOTBANMONDAT'(0,n)->(1,1)'LTRLIN.KNEGBOTBANMONDAT' va être supprimée car la rubrique reliée KNEGBOTBANMONDAT du fichier LTRLIN est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'PETPET_1'===***Warning***	<Liaison 'PETPET_1'>: 
+La liaison 'PETART.KNEGBOTPTA'(0,n)->(1,1)'PETPRA.KNEGBOTPTA' va être supprimée car la rubrique reliée KNEGBOTPTA du fichier PETPRA est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'PRMPRM_1'===***Warning***	<Liaison 'PRMPRM_1'>: 
+La liaison 'PRMCAP.KNEGPRM'(0,n)->(1,1)'PRMLIN.KNEGPRM' va être supprimée car la rubrique reliée KNEGPRM du fichier PRMLIN est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'REGREG_1'===***Warning***	<Liaison 'REGREG_1'>: 
+La liaison 'REGCAP.KNEGRGC'(0,n)->(1,1)'REGLIN.KNEGRGC' va être supprimée car la rubrique reliée KNEGRGC du fichier REGLIN est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'REMCAR_1'===***Warning***	<Liaison 'REMCAR_1'>: 
+La liaison 'REMESAC.KNEGREM'(0,n)->(0,1)'CARTERAC.KNEGREM' va être supprimée car la rubrique reliée KNEGREM du fichier CARTERAC est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'REPREP_1'===***Warning***	<Liaison 'REPREP_1'>: 
+La liaison 'REPCAP.KNEGBOTREP'(0,n)->(1,1)'REPLIN.KNEGBOTREP' va être supprimée car la rubrique reliée KNEGBOTREP du fichier REPLIN est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'SFAART_1'===***Warning***	<Liaison 'SFAART_1'>: 
+La liaison 'SFAMILIA.KGFMFAMSFM'(0,n)->(0,1)'ARTGAR.KGFMFAMSFM' va être supprimée car la rubrique reliée KGFMFAMSFM du fichier ARTGAR est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'SFAART_2'===***Warning***	<Liaison 'SFAART_2'>: 
+La liaison 'SFAMILIA.KGFMFAMSFM'(0,n)->(1,1)'ARTICLE.KGFMFAMSFM' va être supprimée car la rubrique reliée KGFMFAMSFM du fichier ARTICLE est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'SFAHST_1'===***Warning***	<Liaison 'SFAHST_1'>: 
+La liaison 'SFAMILIA.KGFMFAMSFM'(0,1)->(1,1)'HSTSFAM.KGFMFAMSFM' va être supprimée car la rubrique reliée KGFMFAMSFM du fichier HSTSFAM est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'SFAIGI_1'===***Warning***	<Liaison 'SFAIGI_1'>: 
+La liaison 'SFAMILIA.KGFMFAMSFM'(0,n)->(0,1)'IGI.KGFMFAMSFM' va être supprimée car la rubrique reliée KGFMFAMSFM du fichier IGI est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'SFAPET_1'===***Warning***	<Liaison 'SFAPET_1'>: 
+La liaison 'SFAMILIA.KGFMFAMSFM'(0,n)->(1,1)'PETART.KGFMFAMSFM' va être supprimée car la rubrique reliée KGFMFAMSFM du fichier PETART est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'SUCCLI_1'===***Warning***	<Liaison 'SUCCLI_1'>: 
+La liaison 'SUCURSAL.KBANSUC'(0,n)->(0,1)'CLIENT.KBANSUC' va être supprimée car la rubrique reliée KBANSUC du fichier CLIENT est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'TPVTPV_1'===***Warning***	<Liaison 'TPVTPV_1'>: 
+La liaison 'TPVTQT.KNEGTTCTTQ'(0,n)->(1,1)'TPVLIN.KNEGTTCTTQ' va être supprimée car la rubrique reliée KNEGTTCTTQ du fichier TPVLIN est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'TPVTPV_2'===***Warning***	<Liaison 'TPVTPV_2'>: 
+La liaison 'TPVTNC.KNEGTTC'(0,n)->(1,1)'TPVTQT.KNEGTTC' va être supprimée car la rubrique reliée KNEGTTC du fichier TPVTQT est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'TPVTPV_3'===***Warning***	<Liaison 'TPVTPV_3'>: 
+La liaison 'TPVTQT.KNEGTTCTTQ'(0,n)->(1,1)'TPVCOB.KNEGTTCTTQ' va être supprimée car la rubrique reliée KNEGTTCTTQ du fichier TPVCOB est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'VENALB_1'===***Warning***	<Liaison 'VENALB_1'>: 
+La liaison 'VENEDOR.KNEGBOTVEN'(0,n)->(1,1)'ALBCAP.KNEGBOTVEN' va être supprimée car la rubrique reliée KNEGBOTVEN du fichier ALBCAP est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'VENTPV_1'===***Warning***	<Liaison 'VENTPV_1'>: 
+La liaison 'VENEDOR.KNEGBOTVEN'(0,n)->(1,1)'TPVTQT.KNEGBOTVEN' va être supprimée car la rubrique reliée KNEGBOTVEN du fichier TPVTQT est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaison 'XTCXTC_2'===***Warning***	<Liaison 'XTCXTC_2'>: 
+La liaison 'XTCCAP.KNEGSCPTE'(0,n)->(1,1)'XTCLIN.KNEGSCPTE' va être supprimée car la rubrique reliée KNEGSCPTE du fichier XTCLIN est une clé composée.
+Cette suppression n'aura pas d'incidence sur vos données.Analyse		===Liaisons 1,n-1,1===***Warning***	<Liaisons 1,n-1,1>: 
+Afin d'avoir le même fonctionnement que WinDev 5.5, les cardinalités des liaisons suivantes ont été modifiées de 1,n-1,1 en 0,n-1,1 :
+liaison 'TIPENT_1' entre les fichiers 'TIPUSIMP' et 'ENTIMP'
+
+En effet, dans WinDev 5.5, les liaisons 1,n-1,1 étaient gérées comme des liaisons 0,n-1,1. Maintenant, en WinDev 7.x la gestion des cardinalités 1,n-1,1 est supportée.
+Pour faire des ajouts ou suppressions avec des cardinalités 1,n-1,1 il est nécessaire de débrancher auparavant l'intégrité avec la fonction 'HGèreIntegrite()'.Analyse		===RubriqueANY===***Warning***	<RubriqueANY>: 
+Le nom de l'objet ANY entre en conflit avec le W-Langage ou comporte des caractères spéciaux.
+Dans le code si des erreurs sont signalées, utilisez des doubles quotes ("") quand vous faites référence à cet objet.Collection de procédures		===Procedures_globales_de_groca.RetornarColumnaTaula===***Erreur***	<Procédure globale RetornarColumnaTaula>: 
+Ligne 24, Colonne 10, La fonction non documentée InfoObjet(XXX,36) n'existe plus.
+Remplacez cette fonction par la fonction TableDéplaceColonne().***Erreur***	<Procédure globale RetornarColumnaTaula>: 
+Ligne 7, Colonne 9, La fonction non documentée InfoObjet(XXX,36) n'existe plus.
+Remplacez cette fonction par la fonction TableDéplaceColonne().Collection de procédures		===Procedures_globales_de_groca.xlsCella===***Warning***	<Procédure globale xlsCella>: 
+Ligne 8, Colonne 4, Vous utilisez la fonction TypeVariable.
+Le type de la variable testée a peut-être changé lors de la migration.
+Vérifiez le résultat de la fonction.Classe		===clsArxiu.ComprimirFitxers===***Warning***	<Méthode ComprimirFitxers>: 
+Ligne 66, Colonne 5, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Méthode ComprimirFitxers>: 
+Ligne 23, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Classe		===clsArxiu.ComprimirFitxersWZZIP===***Warning***	<Méthode ComprimirFitxersWZZIP>: 
+Ligne 115, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Méthode ComprimirFitxersWZZIP>: 
+Ligne 86, Colonne 5, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Classe		===clsArxiu.DescomprimirFitxers===***Warning***	<Méthode DescomprimirFitxers>: 
+Ligne 48, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Méthode DescomprimirFitxers>: 
+Ligne 30, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Classe		===clsArxiu.MoureFitxers===***Warning***	<Méthode MoureFitxers>: 
+Ligne 23, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Classe		===clsArxiu.SuprimirFitxers===***Warning***	<Méthode SuprimirFitxers>: 
+Ligne 10, Colonne 5, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Classe		===ClsCmzSyncro400.Assignar===***Erreur***	<Méthode Assignar>: 
+Ligne 6, Colonne 11, La syntaxe de la fonction 'assource' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===ClsCmzSyncro400.CopiarTaula===***Erreur***	<Méthode CopiarTaula>: 
+Ligne 8, Colonne 11, La syntaxe de la fonction 'ASSQLIMMED' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===ClsCmzSyncro400.CrearTaulaCreacions===***Erreur***	<Méthode CrearTaulaCreacions>: 
+Ligne 72, Colonne 11, La syntaxe de la fonction 'ASSQLIMMED' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===ClsCmzSyncro400.CrearTaulaModificacions===***Erreur***	<Méthode CrearTaulaModificacions>: 
+Ligne 82, Colonne 11, La syntaxe de la fonction 'ASSQLIMMED' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===ClsCmzSyncro400.CrearTaulaSupressions===***Erreur***	<Méthode CrearTaulaSupressions>: 
+Ligne 71, Colonne 11, La syntaxe de la fonction 'ASSQLIMMED' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===ClsCmzSyncro400.SuprimirTaula===***Erreur***	<Méthode SuprimirTaula>: 
+Ligne 6, Colonne 11, La syntaxe de la fonction 'ASSQLIMMED' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===clsCompta.CrearApunt===***Warning***	<Méthode CrearApunt>: 
+Ligne 45, Colonne 4, Vous utilisez la fonction TypeVariable.
+Le type de la variable testée a peut-être changé lors de la migration.
+Vérifiez le résultat de la fonction.***Warning***	<Méthode CrearApunt>: 
+Ligne 36, Colonne 4, Vous utilisez la fonction TypeVariable.
+Le type de la variable testée a peut-être changé lors de la migration.
+Vérifiez le résultat de la fonction.Classe		===clsComptador.Salvaguardar===***Warning***	<Méthode Salvaguardar>: 
+Ligne 6, Colonne 4, Vous utilisez la fonction TypeVariable.
+Le type de la variable testée a peut-être changé lors de la migration.
+Vérifiez le résultat de la fonction.Classe		===clsControlVisual.Camps===***Erreur***	<Méthode Camps>: 
+Ligne 13, Colonne 10, La fonction non documentée InfoObjet(XXX,1) n'existe plus.
+Remplacez cette fonction par la fonction EnumèreChamp() ou TableEnumèreColonne().***Erreur***	<Méthode Camps>: 
+Ligne 10, Colonne 10, La fonction non documentée InfoObjet(XXX,0) n'existe plus.
+Remplacez cette fonction par la fonction EnumèreChamp() ou TableEnumèreColonne().Classe		===clsControlVisual.CampSeguent===***Erreur***	<Méthode CampSeguent>: 
+Ligne 7, Colonne 9, La fonction non documentée InfoObjet(XXX,0) n'existe plus.
+Remplacez cette fonction par la fonction EnumèreChamp() ou TableEnumèreColonne().Classe		===clsControlVisual.LlistaCamps===***Erreur***	<Méthode LlistaCamps>: 
+Ligne 13, Colonne 10, La fonction non documentée InfoObjet(XXX,0) n'existe plus.
+Remplacez cette fonction par la fonction EnumèreChamp() ou TableEnumèreColonne().***Erreur***	<Méthode LlistaCamps>: 
+Ligne 9, Colonne 9, La fonction non documentée InfoObjet(XXX,1) n'existe plus.
+Remplacez cette fonction par la fonction EnumèreChamp() ou TableEnumèreColonne().Classe		===clsControlVisual.PrimerCamp===***Erreur***	<Méthode PrimerCamp>: 
+Ligne 7, Colonne 9, La fonction non documentée InfoObjet(XXX,1) n'existe plus.
+Remplacez cette fonction par la fonction EnumèreChamp() ou TableEnumèreColonne().Classe		===clsDat.GuardarLinies===***Warning***	<Méthode GuardarLinies>: 
+Ligne 50, Colonne 20, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Méthode GuardarLinies>: 
+Ligne 66, Colonne 21, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Méthode GuardarLinies>: 
+Ligne 80, Colonne 22, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Méthode GuardarLinies>: 
+Ligne 90, Colonne 20, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Méthode GuardarLinies>: 
+Ligne 108, Colonne 4, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Méthode GuardarLinies>: 
+Ligne 42, Colonne 3, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Classe		===clsDat.SuprimirLinies===***Warning***	<Méthode SuprimirLinies>: 
+Ligne 67, Colonne 4, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Méthode SuprimirLinies>: 
+Ligne 68, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Méthode SuprimirLinies>: 
+Ligne 60, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Classe		===clsEasycom.Assignar===***Erreur***	<Méthode Assignar>: 
+Ligne 6, Colonne 11, La syntaxe de la fonction 'assource' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===clsEasycom.CopiarTaula===***Erreur***	<Méthode CopiarTaula>: 
+Ligne 8, Colonne 11, La syntaxe de la fonction 'ASSQLIMMED' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===clsEasycom.Executar===***Erreur***	<Méthode Executar>: 
+Ligne 5, Colonne 11, La syntaxe de la fonction 'ASSQLIMMED' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===clsFitxer.HistoricarCamps===***Warning***	<Méthode HistoricarCamps>: 
+Ligne 44, Colonne 6, Vous utilisez la fonction TypeVariable.
+Le type de la variable testée a peut-être changé lors de la migration.
+Vérifiez le résultat de la fonction.Classe		===clsInsertOrUpdateBuilder===***Warning***	<Migration de la classe>: 
+Le nom de la méthode 'Where' est un mot réservé : elle a été renommée en '_Where'.Classe		===clsObjecte.HistoricarCamp===***Warning***	<Méthode HistoricarCamp>: 
+Ligne 38, Colonne 5, Vous utilisez la fonction TypeVariable.
+Le type de la variable testée a peut-être changé lors de la migration.
+Vérifiez le résultat de la fonction.Classe		===ClsSelectBuilder===***Warning***	<Migration de la classe>: 
+Le nom de la méthode 'Where' est un mot réservé : elle a été renommée en '_Where'.Classe		===ClsSyncro400.Assignar===***Erreur***	<Méthode Assignar>: 
+Ligne 6, Colonne 11, La syntaxe de la fonction 'assource' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===ClsSyncro400.CopiarTaula===***Erreur***	<Méthode CopiarTaula>: 
+Ligne 8, Colonne 11, La syntaxe de la fonction 'ASSQLIMMED' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===ClsSyncro400.CrearTaulaCreacions===***Erreur***	<Méthode CrearTaulaCreacions>: 
+Ligne 68, Colonne 11, La syntaxe de la fonction 'ASSQLIMMED' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===ClsSyncro400.CrearTaulaModificacions===***Erreur***	<Méthode CrearTaulaModificacions>: 
+Ligne 80, Colonne 11, La syntaxe de la fonction 'ASSQLIMMED' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===ClsSyncro400.CrearTaulaSupressions===***Erreur***	<Méthode CrearTaulaSupressions>: 
+Ligne 66, Colonne 11, La syntaxe de la fonction 'ASSQLIMMED' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===ClsSyncro400.SuprimirTaula===***Erreur***	<Méthode SuprimirTaula>: 
+Ligne 6, Colonne 11, La syntaxe de la fonction 'ASSQLIMMED' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Classe		===clsUpdateBuilder===***Warning***	<Migration de la classe>: 
+Le nom de la méthode 'Where' est un mot réservé : elle a été renommée en '_Where'.Fenêtre		===cdacap_fic.PROCEDURE.InitCrearLinia===***Erreur***	<Procédure locale InitCrearLinia>: 
+Ligne 19, Colonne 14, La fonction non documentée InfoObjet(XXX,36) n'existe plus.
+Remplacez cette fonction par la fonction TableDéplaceColonne().Fenêtre		===cescap_tab.PROCEDURE.ExportarCessio===***Warning***	<Procédure locale ExportarCessio>: 
+Ligne 26, Colonne 6, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===cescap_tab.PROCEDURE.ImportarCessions===***Warning***	<Procédure locale ImportarCessions>: 
+Ligne 118, Colonne 5, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===comptabilitzacio_wrk.ONGLET_1.BOUTON4===***Erreur***	<Clic sur BOUTON4>: 
+Ligne 72, Colonne 10, La syntaxe de la fonction 'ASSource' a changé entre WinDev 5.5 et WinDev 7.
+Consultez la documentation WinDev AS400.Fenêtre		===conversioeuro_wrk.PROCEDURE.ConvertirCANVI===***Warning***	<Procédure locale ConvertirCANVI>: 
+Ligne 15, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale ConvertirCANVI>: 
+Ligne 14, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===conversioeuro_wrk.PROCEDURE.ConvertirCPTCAP===***Warning***	<Procédure locale ConvertirCPTCAP>: 
+Ligne 15, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale ConvertirCPTCAP>: 
+Ligne 14, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===conversioeuro_wrk.PROCEDURE.ConvertirCPTLIN===***Warning***	<Procédure locale ConvertirCPTLIN>: 
+Ligne 15, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale ConvertirCPTLIN>: 
+Ligne 14, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===conversioeuro_wrk.PROCEDURE.ConvertirHIARTSTR===***Warning***	<Procédure locale ConvertirHIARTSTR>: 
+Ligne 15, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale ConvertirHIARTSTR>: 
+Ligne 14, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===conversioeuro_wrk.PROCEDURE.ConvertirHICLISTR===***Warning***	<Procédure locale ConvertirHICLISTR>: 
+Ligne 15, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale ConvertirHICLISTR>: 
+Ligne 14, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===conversioeuro_wrk.PROCEDURE.ConvertirHIPROSTR===***Warning***	<Procédure locale ConvertirHIPROSTR>: 
+Ligne 15, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale ConvertirHIPROSTR>: 
+Ligne 14, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===conversioeuro_wrk.PROCEDURE.ConvertirHIVENSTR===***Warning***	<Procédure locale ConvertirHIVENSTR>: 
+Ligne 15, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale ConvertirHIVENSTR>: 
+Ligne 14, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===conversioeuro_wrk.PROCEDURE.ConvertirMVTTABAC===***Warning***	<Procédure locale ConvertirMVTTABAC>: 
+Ligne 15, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale ConvertirMVTTABAC>: 
+Ligne 14, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===cptconfig.PROCEDURE.SuprimirConfig===***Warning***	<Procédure locale SuprimirConfig>: 
+Ligne 5, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===entcap_fic.PROCEDURE.InitCrearLinia===***Erreur***	<Procédure locale InitCrearLinia>: 
+Ligne 58, Colonne 16, La fonction non documentée InfoObjet(XXX,36) n'existe plus.
+Remplacez cette fonction par la fonction TableDéplaceColonne().***Erreur***	<Procédure locale InitCrearLinia>: 
+Ligne 81, Colonne 16, La fonction non documentée InfoObjet(XXX,36) n'existe plus.
+Remplacez cette fonction par la fonction TableDéplaceColonne().***Erreur***	<Procédure locale InitCrearLinia>: 
+Ligne 31, Colonne 16, La fonction non documentée InfoObjet(XXX,36) n'existe plus.
+Remplacez cette fonction par la fonction TableDéplaceColonne().Fenêtre		===integrardadescentral.PROCEDURE.Integrar===***Warning***	<Procédure locale Integrar>: 
+Ligne 67, Colonne 7, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale Integrar>: 
+Ligne 24, Colonne 5, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===inventari_import.PROCEDURE.ImportarDades===***Warning***	<Procédure locale ImportarDades>: 
+Ligne 117, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===ltrcap_importacio.PROCEDURE.CrearFitxersTemp===***Warning***	<Procédure locale CrearFitxersTemp>: 
+Ligne 13, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale CrearFitxersTemp>: 
+Ligne 17, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale CrearFitxersTemp>: 
+Ligne 21, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale CrearFitxersTemp>: 
+Ligne 9, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===ltrcap_importacio.PROCEDURE.SuprimirFitxersTemp===***Warning***	<Procédure locale SuprimirFitxersTemp>: 
+Ligne 10, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale SuprimirFitxersTemp>: 
+Ligne 15, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale SuprimirFitxersTemp>: 
+Ligne 17, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale SuprimirFitxersTemp>: 
+Ligne 8, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===petart_tab.PROCEDURE.ComprimirDATImp===***Warning***	<Procédure locale ComprimirDATImp>: 
+Ligne 23, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale ComprimirDATImp>: 
+Ligne 21, Colonne 4, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===petart_tab.PROCEDURE.EnviarDadesACentral===***Warning***	<Procédure locale EnviarDadesACentral>: 
+Ligne 158, Colonne 4, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale EnviarDadesACentral>: 
+Ligne 178, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale EnviarDadesACentral>: 
+Ligne 127, Colonne 8, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===petcda_import.PROCEDURE.ImportarDades===***Warning***	<Procédure locale ImportarDades>: 
+Ligne 101, Colonne 1, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===petcda_tab.PROCEDURE.InitCrear===***Erreur***	<Procédure locale InitCrear>: 
+Ligne 8, Colonne 14, La fonction non documentée InfoObjet(XXX,36) n'existe plus.
+Remplacez cette fonction par la fonction TableDéplaceColonne().Fenêtre		===remesac_wrk.PROCEDURE.CrearFitxerTemp===***Warning***	<Procédure locale CrearFitxerTemp>: 
+Ligne 14, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale CrearFitxerTemp>: 
+Ligne 10, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===remesac_wrk.PROCEDURE.SuprimirFitxerTemp===***Warning***	<Procédure locale SuprimirFitxerTemp>: 
+Ligne 9, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale SuprimirFitxerTemp>: 
+Ligne 7, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===remesap_wrk.PROCEDURE.PrepararFitxerEfectes===***Warning***	<Procédure locale PrepararFitxerEfectes>: 
+Ligne 18, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale PrepararFitxerEfectes>: 
+Ligne 14, Colonne 2, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).Fenêtre		===remesap_wrk.PROCEDURE.Remesar===***Warning***	<Procédure locale Remesar>: 
+Ligne 48, Colonne 3, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).***Warning***	<Procédure locale Remesar>: 
+Ligne 47, Colonne 3, La fonction "fSupprime" ne retourne pas les mêmes valeurs en WinDev 7.
+En WinDev 5.5, la fonction "fSupprime" renvoie un entier. Cet entier peut prendre pour valeur 0 si la suppression a été effectuée ou -1 en cas d'erreur.
+En WinDev 7, la fonction "fSupprime" renvoie un booléen (Vrai ou 1 : la suppression a été effectuée, Faux ou 0 : en cas d'erreur).		====================================================================		    Nombre d'erreurs : 29		    Nombre de warnings : 132		    Nombre d'informations : 0		====================================================================

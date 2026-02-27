@@ -1,0 +1,3 @@
+//MO100-101.TXT ANA00100 TO ANA00101
+LOGJRNL		TAR	680	nouvelle taille enregistrement : 680
+LOGJRNL	ENREG	TAI+	100	la rubrique ENREG a comme nouvelle taille 601 au lieu de 501

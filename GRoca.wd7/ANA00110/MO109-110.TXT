@@ -1,0 +1,7 @@
+//MO109-110.TXT ANA00109 TO ANA00110
+CESCAP		TAR	62	nouvelle taille enregistrement : 62
+CESCAP	KSTSNEGALB	RUB+		KSTSNEGALB est une nouvelle clé
+CESCAP	KSTSNEGBOT	RUB+		KSTSNEGBOT est une nouvelle clé
+CESCAP	KSTSNEDBOT	RUB+		KSTSNEDBOT est une nouvelle clé
+CPTCAP	KEXPORICAS	RUB+		KEXPORICAS est une nouvelle clé
+CPTCAP	KEXPSOCCAS	RUB+		KEXPSOCCAS est une nouvelle clé

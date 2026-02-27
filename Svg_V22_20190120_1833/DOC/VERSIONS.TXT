@@ -1,0 +1,8 @@
+09/06/2006 : Gestió de les promocions
+-------------------------------------
+.Fitxers PRMCAP/PRMLIN
+.Afegir fitxer DESCR ESTAT 
+	1 Pendent
+	2 Activa 
+	3 Tancada 
+	4 Cancellada

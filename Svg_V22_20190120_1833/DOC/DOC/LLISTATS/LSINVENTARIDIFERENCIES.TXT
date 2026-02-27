@@ -1,0 +1,56 @@
+           1         2         3         4         5         6         7         8         9       
+  123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456 
+
+->Capçalera
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX·······································Data:·99/99/9999··Full:·999
+  ·······························Llistat de diferències d'inventari·······························
+  ································································································
+  Negoci   : XX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Botiga   : XX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Inventari: XXXXX   Data: DD/MM/AAAA   Estat: XXXXXXXXXX
+  Criteris : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -> només al primer full del inventari
+             XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -> 
+                                                     ·
+                                                     ·
+                                                     ·
+  ································································································
+  Article                                                           Estoc     Inventari Diferència
+  --------------------------------------------------------- ------------- ------------- ----------
+
+->Títol
+
+->Capçalera ruptura 1 // Negoci + Inventari + Botiga
+
+->Capçalera ruptura 2 // Gran família
+  ································································································
+  Gran família : XXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+->Capçalera ruptura 3 // Família
+  Família      : XXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+->Capçalera ruptura 4 // Subfamília
+  Subfamília   : XXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  ································································································
+
+->Detall
+  XXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-9.999.999,999 9.999.999,999 99.999,999
+
+->Total ruptura 4 // Subfamília
+                                                            ------------- ------------- ----------
+                                       Total subfamília  : -9.999.999,999 9.999.999,999 99.999,999
+
+->Total ruptura 3 // Família
+                                       Total família     : -9.999.999,999 9.999.999,999 99.999,999
+
+->Total ruptura 2 // Gran família
+                                       Total gran família: -9.999.999,999 9.999.999,999 99.999,999
+
+->Total ruptura 1 // Negoci + Inventari + Botiga
+                                                            ------------- ------------- ----------
+                                       Total botiga      : -9.999.999,999 9.999.999,999 99.999,999
+
+->Total
+
+->Final
+  ------------------------------------------------------------------------------------------------
+  ·····································*** FI DE LLISTAT ***······································

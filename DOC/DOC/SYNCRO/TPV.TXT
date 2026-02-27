@@ -1,0 +1,223 @@
+-------
+--> TPV
+-------
+
+TPVIMP.DAT, s'ha de comprimir en TPVIMP.ZIP
+Els registres son de llargada variable
+Els números son cuadrats a la dreta i sense zeros davant
+
+EX:
+
+00       6BOF TPV IMPORT FILES
+014012700963000  000001         ZE-30 JUW CINTA SENSE CAPSA                                      290.00                       N    12.000
+013390077045864  000002         ZE-60 JUW CINTA SENSE CAPSA                                      800.00                       N   -19.000
+0112345678       000003         ZE-90 JUW CINTA SENSE CAPSA                                      230.00                       N   643.000
+99       6EOF TPV IMPORT FILES
+
+
+Registre de control BOF
+-----------------------
+
+TIPREG     | Character |     2 |         --> '00'
+REGISTRES  ¦ Numeric   ¦     8 ¦         --> 99999999
+SIGNATURA  ¦ Character ¦    20 ¦         --> 'BOF TPV IMPORT FILES'
+
+
+Article
+-------
+
+TIPREG     | Character |     2 |         --> '01'
+CODI       ¦ Character ¦    15 ¦         --> codi de barra
+REFERENCIA ¦ Character ¦    15 ¦         --> codi intern article
+DESCRIPCIO ¦ Character ¦    30 ¦         --> marca,descripció
+COMMENTARI ¦ Character ¦    30 ¦         --> el que queda de la descripció
+PREU1      ¦ Numeric   ¦    11 ¦   2     --> 99999999.99
+PREU2      ¦ Numeric   ¦    11 ¦   2     --> 99999999.99
+PREU3      ¦ Numeric   ¦    11 ¦   2     --> 99999999.99
+TIPUS      ¦ Character ¦     1 ¦         --> '*' si article pou
+VARIABLE   ¦ Character ¦     1 ¦         --> 'N'
+MAGATZEM01 ¦ Numeric   ¦    10 ¦   3     --> 999999.999
+MAGATZEM02 ¦ Numeric   ¦    10 ¦   3     --> 999999.999
+MAGATZEM03 ¦ Numeric   ¦    10 ¦   3     --> 999999.999
+MAGATZEM04 ¦ Numeric   ¦    10 ¦   3     --> 999999.999
+MAGATZEM05 ¦ Numeric   ¦    10 ¦   3     --> 999999.999
+MAGATZEM06 ¦ Numeric   ¦    10 ¦   3     --> 999999.999
+MAGATZEM07 ¦ Numeric   ¦    10 ¦   3     --> 999999.999
+MAGATZEM08 ¦ Numeric   ¦    10 ¦   3     --> 999999.999
+MAGATZEM09 ¦ Numeric   ¦    10 ¦   3     --> 999999.999
+MAGATZEM10 ¦ Numeric   ¦    10 ¦   3     --> 999999.999
+MAGATZEM11 ¦ Numeric   ¦    10 ¦   3     --> 999999.999
+MAGATZEM12 ¦ Numeric   ¦    10 ¦   3     --> 999999.999
+
+
+Client
+------
+
+TIPREG     | Character |     2 |         --> '02'
+CODI       ¦ Character ¦     5 ¦
+CLIENT     ¦ Character ¦    30 ¦
+ADRECA     ¦ Character ¦    30 ¦
+COMPLE     ¦ Character ¦    30 ¦
+LOCALI     ¦ Character ¦    20 ¦
+POSTAL     ¦ Character ¦     6 ¦
+PAIS       ¦ Character ¦    20 ¦
+TELEFON    ¦ Character ¦    15 ¦
+BANC       ¦ Character ¦    20 ¦
+SUCURSAL   ¦ Character ¦    20 ¦
+COMPTE     ¦ Character ¦    20 ¦
+
+
+Venedor
+-------
+
+TIPREG     | Character |     2 |         --> '03'
+CODI       ¦ Character ¦     2 ¦
+NOM        ¦ Character ¦    25 ¦
+
+
+Magatzems (botigues)
+---------
+
+TIPREG     | Character |     2 |         --> '04'
+CODI       ¦ Character ¦     2 ¦
+NOM        ¦ Character ¦    20 ¦
+
+
+Monedes
+-------
+
+TIPREG     | Character |     2 |         --> '07'
+CODIMONEDA ¦ Character ¦     3 ¦         --> codi moneda (intern TPV)
+MONEDA     ¦ Character ¦     3 ¦         --> codi moneda (abreviació ISO)
+CANVICOMPRA¦ Numeric   ¦     8 ¦   4     --> canvi compra 999.9999
+CANVIVENDA ¦ Numeric   ¦     8 ¦   4     --> canvi venda 999.9999
+ARRODONI   ¦ Numeric   ¦     6 ¦   2     --> arrodoniment 999.99
+NCALAIX    ¦ Character ¦     1 ¦         --> número de calaix
+
+
+Registre de control EOF
+-----------------------
+
+TIPREG     | Character |     2 |         --> '99'
+REGISTRES  ¦ Numeric   ¦     8 ¦         --> 99999999
+SIGNATURA  ¦ Character ¦    20 ¦         --> 'EOF TPV IMPORT FILES'
+
+
+-------
+TPV -->
+-------
+
+TPVEXP.DAT, està comprimit dins Ttt01nnn.ZIP
+Amb tt el número de TPV, i nnn el número sequencial del traspàs.
+Els registres son de llargada variable
+Els números son cuadrats a la dreta i sense zeros davant
+
+EX:
+
+0001      40BOF TPV IMPORT FILES
+0101011999101818:22:39
+0200000414     011999031218:21:24PTA      310.00  0.00        0.00      310.00      310.00     
+0300000414ABONOS         ABONO                              1.000       0.00 0        0.00N01
+03000004140445           AR X-60ES CINTA AUDIO TYPE I       1.000     310.00 0      310.00N01
+020000041677777011999040117:40:52PTA    19500.00  0.00        0.00    19500.00    18500.00     
+03000004160440           AR-100ES CINTA AUDIO TYPE I       60.000     325.00 0    19500.00N01
+04        E991999040101PTA  1.0000      1000.00PTA      1000.000068           
+04        S011999101801PTA  1.0000      -200.00PTA      -200.00               
+0400000426V  1999101801PTA  1.0000       310.00PTA       310.00               
+0101011999030119:52:06
+04        E011999030101PTA  1.0000       100.00PTA       100.00               
+04        S011999030101PTA  1.0000       -50.00PTA       -50.00               
+04        C          01PTA  0.0000        50.00            0.00               
+9901      40EOF TPV IMPORT FILES
+
+
+Registre de control BOF
+-----------------------
+
+TIPREG     | Character |     2 |         --> '00'
+MAGATZEM   ¦ Character ¦     2 ¦         --> codi botiga
+REGISTRES  ¦ Numeric   ¦     8 ¦         --> 99999999
+SIGNATURA  ¦ Character ¦    20 ¦         --> 'BOF TPV IMPORT FILES'
+
+
+Tancament
+---------
+
+TIPREG     | Character |     2 |         --> '01'
+MAGATZEM   ¦ Character ¦     2 ¦         --> codi botiga
+NUMTPV     ¦ Character ¦     2 ¦         --> número de TPV
+DATATANCA  ¦ Date      ¦     8 ¦         --> data tancament AAAAMMDD
+HORATANCA  ¦ Character ¦     8 ¦         --> hora tancament HH:MM:SS
+
+
+Tiquets
+-------
+
+TIPREG     | Character |     2 |         --> '02'
+TIQUET     ¦ Character ¦     8 ¦         --> número de tiquet                                1- 8
+CLIENT     ¦ Character ¦     5 ¦         --> codi client                                     9-13
+VENEDOR    ¦ Character ¦     2 ¦         --> codi venedor                                   14-15
+DATA       ¦ Date      ¦     8 ¦         --> data tiquet AAAAMMDD                           16-23
+HORA       ¦ Character ¦     8 ¦         --> hora tiquet HH:MM:SS                           24-31
+MONEDA     ¦ Character ¦     3 ¦         --> codi moneda (abreviació ISO)                   32-34
+IMPBRUT    ¦ Numeric   ¦    12 ¦   2     --> Import brut 999999999.99                       35-46
+DTE        ¦ Numeric   ¦     6 ¦   2     --> Descompte tiquet 999.99                        47-52
+IMPDTE     ¦ Numeric   ¦    12 ¦   2     --> Import descompte tiquet 999999999.99           53-64
+IMPNET     ¦ Numeric   ¦    12 ¦   2     --> Import net 999999999.99                        65-76
+IMPREBUT   ¦ Numeric   ¦    12 ¦   2     --> Import rebut 999999999.99                      77-88
+MORIGEN    ¦ Character ¦     2 ¦         --> Magatzem orígen (no utilitzar)                 89-90
+MDESTI     ¦ Character ¦     2 ¦         --> Magatzem destí (no utilitzar)                  91-92
+ESTAT      ¦ Character ¦     1 ¦         --> Estat                                          93-93
+
+
+Linies
+------
+
+TIPREG     | Character |     2 |         --> '03'
+TIQUET     ¦ Character ¦     8 ¦         --> número de tiquet
+ARTICLE    ¦ Character ¦    15 ¦         --> codi article (barcode)
+DESCRIPCIO ¦ Character ¦    30 ¦         --> descripció article (no utilitzar)
+QUANTITAT  ¦ Numeric   ¦    10 ¦   3     --> quantitat 999999.999
+PREU       ¦ Numeric   ¦    11 ¦   2     --> preu 99999999.99
+DTE        ¦ Numeric   ¦     2 ¦   0     --> descompte línia 99
+IMPORT     ¦ Numeric   ¦    12 ¦   2     --> import 999999999.99
+VARIABLE   ¦ Character ¦     1 ¦         --> (no utilitzar)
+VENEDOR    ¦ Character ¦     2 ¦         --> ??? no és el mateix que el del tiquet?
+
+
+;Cobraments
+;----------
+;
+;TIPREG     | Character |     2 |         --> '04'
+;TIQUET     ¦ Character ¦     8 ¦         --> número de tiquet
+;OPERACIO   ¦ Character ¦     1 ¦         --> tipus d'operació ('V')
+;FAMILIA    ¦ Character ¦     2 ¦         --> família ('  ')
+;DATAOPER   ¦ Date      ¦     8 ¦         --> data operacio AAAAMMDD
+;COBRO      ¦ Character ¦     2 ¦         --> tipus de cobro (01:Efectiu, 06:Facturació, ...)
+;MONEDA     ¦ Character ¦     3 ¦         --> codi moneda (abreviació ISO)
+;CANVI      ¦ Numeric   ¦     8 ¦   4     --> canvi 999.9999
+;IMPORT     ¦ Numeric   ¦    13 ¦   2     --> import 9999999999.99
+;MONEDABASE ¦ Character ¦     3 ¦         --> codi moneda base (abreviació ISO)
+;IMPORTBASE ¦ Numeric   ¦    13 ¦   2     --> import moneda base 9999999999.99
+;CLIENT     ¦ Character ¦     5 ¦         --> codi client
+;REFERENCIA ¦ Character ¦    10 ¦         --> referència venda
+
+
+;Venciments
+;----------
+;
+;TIPREG     | Character |     2 |         --> '05'
+;TIQUET     ¦ Character ¦     8 ¦         --> número de tiquet
+;VENCIMENT  ¦ Date      ¦     8 ¦         --> data venciment AAAAMMDD
+;IMPORT     ¦ Numeric   ¦    13 ¦   2     --> import 9999999999.99
+;PENDENT    ¦ Numeric   ¦    13 ¦   2     --> import 9999999999.99
+
+
+Registre de control EOF
+-----------------------
+
+TipusReg   | Character |     2 |         --> '99'
+MAGATZEM   ¦ Character ¦     2 ¦         --> codi botiga
+REGISTRES  ¦ Numeric   ¦     8 ¦         --> 99999999
+SIGNATURA  ¦ Character ¦    20 ¦         --> 'EOF TPV IMPORT FILES'
+

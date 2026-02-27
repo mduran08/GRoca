@@ -1,0 +1,601 @@
+//MO107-108.TXT ANA00107 TO ANA00108
+ALBCAP		EXT	fic	nouvelle extension  fic
+ALBCAP		RPP		répertoire des programmes
+ALBCAP		TAR	192	nouvelle taille enregistrement : 192
+ALBCAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+ALBCAP		FCNX-	Connexion à '192.168.50.150'	
+ALBLIN		RPP		répertoire des programmes
+ALBLIN		TAR	81	nouvelle taille enregistrement : 81
+ALBLIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+ALBLIN		FCNX-	Connexion à '192.168.50.150'	
+ARTGAR		RPP		répertoire des programmes
+ARTGAR		TAR	27	nouvelle taille enregistrement : 27
+ARTGAR		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+ARTGAR		FCNX-	Connexion à '192.168.50.150'	
+ARTICLE		RPP		répertoire des programmes
+ARTICLE		TAR	168	nouvelle taille enregistrement : 168
+ARTICLE		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+ARTICLE		FCNX-	Connexion à '192.168.50.150'	
+AUTOR		RPP		répertoire des programmes
+AUTOR		TAR	45	nouvelle taille enregistrement : 45
+AUTOR		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+AUTOR		FCNX-	Connexion à '192.168.50.150'	
+BANC		RPP		répertoire des programmes
+BANC		TAR	53	nouvelle taille enregistrement : 53
+BANC		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+BANC		FCNX-	Connexion à '192.168.50.150'	
+BANCNEG		RPP		répertoire des programmes
+BANCNEG		TAR	169	nouvelle taille enregistrement : 169
+BANCNEG		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+BANCNEG		FCNX-	Connexion à '192.168.50.150'	
+BARCODE		RPP		répertoire des programmes
+BARCODE		TAR	50	nouvelle taille enregistrement : 50
+BARCODE		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+BARCODE		FCNX-	Connexion à '192.168.50.150'	
+BOTIGA		RPP		répertoire des programmes
+BOTIGA		TAR	73	nouvelle taille enregistrement : 73
+BOTIGA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+BOTIGA		FCNX-	Connexion à '192.168.50.150'	
+CALCTAR		RPP		répertoire des programmes
+CALCTAR		TAR	89	nouvelle taille enregistrement : 89
+CALCTAR		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CALCTAR		FCNX-	Connexion à '192.168.50.150'	
+CANVI		RPP		répertoire des programmes
+CANVI		TAR	37	nouvelle taille enregistrement : 37
+CANVI		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CANVI		FCNX-	Connexion à '192.168.50.150'	
+CARTERAC		RPP		répertoire des programmes
+CARTERAC		TAR	216	nouvelle taille enregistrement : 216
+CARTERAC		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CARTERAC		FCNX-	Connexion à '192.168.50.150'	
+CARTERAP		RPP		répertoire des programmes
+CARTERAP		TAR	123	nouvelle taille enregistrement : 123
+CARTERAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CARTERAP		FCNX-	Connexion à '192.168.50.150'	
+CARTPLIN		RPP		répertoire des programmes
+CARTPLIN		TAR	122	nouvelle taille enregistrement : 122
+CARTPLIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CARTPLIN		FCNX-	Connexion à '192.168.50.150'	
+CATEGCLI		RPP		répertoire des programmes
+CATEGCLI		TAR	43	nouvelle taille enregistrement : 43
+CATEGCLI		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CATEGCLI		FCNX-	Connexion à '192.168.50.150'	
+CDACAP		RPP		répertoire des programmes
+CDACAP		TAR	92	nouvelle taille enregistrement : 92
+CDACAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CDACAP		FCNX-	Connexion à '192.168.50.150'	
+CDALIN		RPP		répertoire des programmes
+CDALIN		TAR	105	nouvelle taille enregistrement : 105
+CDALIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CDALIN		FCNX-	Connexion à '192.168.50.150'	
+CESCAP		RPP		répertoire des programmes
+CESCAP		TAR	61	nouvelle taille enregistrement : 61
+CESCAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CESCAP		FCNX-	Connexion à '192.168.50.150'	
+CESLIN		RPP		répertoire des programmes
+CESLIN		TAR	67	nouvelle taille enregistrement : 67
+CESLIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CESLIN		FCNX-	Connexion à '192.168.50.150'	
+CLIENT		EXT	fic	nouvelle extension  fic
+CLIENT		RPP		répertoire des programmes
+CLIENT		TAR	384	nouvelle taille enregistrement : 384
+CLIENT		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CLIENT		FCNX-	Connexion à '192.168.50.150'	
+CNFCAP		RPP		répertoire des programmes
+CNFCAP		TAR	202	nouvelle taille enregistrement : 202
+CNFCAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CNFCAP		FCNX-	Connexion à '192.168.50.150'	
+CNFIMP		RPP		répertoire des programmes
+CNFIMP		TAR	40	nouvelle taille enregistrement : 40
+CNFIMP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CNFIMP		FCNX-	Connexion à '192.168.50.150'	
+CNFVNT		RPP		répertoire des programmes
+CNFVNT		TAR	35	nouvelle taille enregistrement : 35
+CNFVNT		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CNFVNT		FCNX-	Connexion à '192.168.50.150'	
+CPTCAP		EXT	fic	nouvelle extension  fic
+CPTCAP		RPP		répertoire des programmes
+CPTCAP		TAR	48	nouvelle taille enregistrement : 48
+CPTCAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CPTCAP		FCNX-	Connexion à '192.168.50.150'	
+CPTLIN		EXT	fic	nouvelle extension  fic
+CPTLIN		RPP		répertoire des programmes
+CPTLIN		TAR	151	nouvelle taille enregistrement : 151
+CPTLIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CPTLIN		FCNX-	Connexion à '192.168.50.150'	
+CPTRFACT		RPP		répertoire des programmes
+CPTRFACT		TAR	124	nouvelle taille enregistrement : 124
+CPTRFACT		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CPTRFACT		FCNX-	Connexion à '192.168.50.150'	
+CPTRFIMP		RPP		répertoire des programmes
+CPTRFIMP		TAR	46	nouvelle taille enregistrement : 46
+CPTRFIMP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+CPTRFIMP		FCNX-	Connexion à '192.168.50.150'	
+DESCR		RPP		répertoire des programmes
+DESCR		TAR	113	nouvelle taille enregistrement : 113
+DESCR		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+DESCR		FCNX-	Connexion à '192.168.50.150'	
+DUANA		EXT	fic	nouvelle extension  fic
+DUANA		RPP		répertoire des programmes
+DUANA		TAR	43	nouvelle taille enregistrement : 43
+DUANA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+DUANA		FCNX-	Connexion à '192.168.50.150'	
+EMPLEAT		RPP		répertoire des programmes
+EMPLEAT		TAR	61	nouvelle taille enregistrement : 61
+EMPLEAT		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+EMPLEAT		FCNX-	Connexion à '192.168.50.150'	
+ENTCAP		RPP		répertoire des programmes
+ENTCAP		TAR	265	nouvelle taille enregistrement : 265
+ENTCAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+ENTCAP		FCNX-	Connexion à '192.168.50.150'	
+ENTIDD		RPP		répertoire des programmes
+ENTIDD		TAR	92	nouvelle taille enregistrement : 92
+ENTIDD		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+ENTIDD		FCNX-	Connexion à '192.168.50.150'	
+ENTIMP		RPP		répertoire des programmes
+ENTIMP		TAR	45	nouvelle taille enregistrement : 45
+ENTIMP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+ENTIMP		FCNX-	Connexion à '192.168.50.150'	
+ENTLIN		RPP		répertoire des programmes
+ENTLIN		TAR	112	nouvelle taille enregistrement : 112
+ENTLIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+ENTLIN		FCNX-	Connexion à '192.168.50.150'	
+ENTVNT		RPP		répertoire des programmes
+ENTVNT		TAR	35	nouvelle taille enregistrement : 35
+ENTVNT		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+ENTVNT		FCNX-	Connexion à '192.168.50.150'	
+ESTOC		RPP		répertoire des programmes
+ESTOC		TAR	46	nouvelle taille enregistrement : 46
+ESTOC		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+ESTOC		FCNX-	Connexion à '192.168.50.150'	
+ESTOCLIN		RPP		répertoire des programmes
+ESTOCLIN		TAR	46	nouvelle taille enregistrement : 46
+ESTOCLIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+ESTOCLIN		FCNX-	Connexion à '192.168.50.150'	
+ETIQUETA		RPP		répertoire des programmes
+ETIQUETA		TAR	32	nouvelle taille enregistrement : 32
+ETIQUETA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+ETIQUETA		FCNX-	Connexion à '192.168.50.150'	
+EXERCICI		RPP		répertoire des programmes
+EXERCICI		TAR	72	nouvelle taille enregistrement : 72
+EXERCICI		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+EXERCICI		FCNX-	Connexion à '192.168.50.150'	
+EXTRA		RPP		répertoire des programmes
+EXTRA		TAR	71	nouvelle taille enregistrement : 71
+EXTRA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+EXTRA		FCNX-	Connexion à '192.168.50.150'	
+EXTRACLI		RPP		répertoire des programmes
+EXTRACLI		TAR	74	nouvelle taille enregistrement : 74
+EXTRACLI		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+EXTRACLI		FCNX-	Connexion à '192.168.50.150'	
+EXTRASEL		RPP		répertoire des programmes
+EXTRASEL		TAR	51	nouvelle taille enregistrement : 51
+EXTRASEL		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+EXTRASEL		FCNX-	Connexion à '192.168.50.150'	
+FACCAP		RPP		répertoire des programmes
+FACCAP		TAR	140	nouvelle taille enregistrement : 140
+FACCAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+FACCAP		FCNX-	Connexion à '192.168.50.150'	
+FACIMP		RPP		répertoire des programmes
+FACIMP		TAR	65	nouvelle taille enregistrement : 65
+FACIMP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+FACIMP		FCNX-	Connexion à '192.168.50.150'	
+FACPRO		RPP		répertoire des programmes
+FACPRO		TAR	71	nouvelle taille enregistrement : 71
+FACPRO		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+FACPRO		FCNX-	Connexion à '192.168.50.150'	
+FAMILIA		RPP		répertoire des programmes
+FAMILIA		TAR	48	nouvelle taille enregistrement : 48
+FAMILIA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+FAMILIA		FCNX-	Connexion à '192.168.50.150'	
+FORMACOB		RPP		répertoire des programmes
+FORMACOB		TAR	48	nouvelle taille enregistrement : 48
+FORMACOB		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+FORMACOB		FCNX-	Connexion à '192.168.50.150'	
+FORMAPAG		RPP		répertoire des programmes
+FORMAPAG		TAR	52	nouvelle taille enregistrement : 52
+FORMAPAG		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+FORMAPAG		FCNX-	Connexion à '192.168.50.150'	
+GFAMILIA		RPP		répertoire des programmes
+GFAMILIA		TAR	44	nouvelle taille enregistrement : 44
+GFAMILIA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+GFAMILIA		FCNX-	Connexion à '192.168.50.150'	
+GRUPART		RPP		répertoire des programmes
+GRUPART		TAR	45	nouvelle taille enregistrement : 45
+GRUPART		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+GRUPART		FCNX-	Connexion à '192.168.50.150'	
+HIARTSTR		RPP		répertoire des programmes
+HIARTSTR		TAR	208	nouvelle taille enregistrement : 208
+HIARTSTR		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HIARTSTR		FCNX-	Connexion à '192.168.50.150'	
+HICLIART		RPP		répertoire des programmes
+HICLIART		TAR	99	nouvelle taille enregistrement : 99
+HICLIART		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HICLIART		FCNX-	Connexion à '192.168.50.150'	
+HICLISTR		RPP		répertoire des programmes
+HICLISTR		TAR	132	nouvelle taille enregistrement : 132
+HICLISTR		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HICLISTR		FCNX-	Connexion à '192.168.50.150'	
+HIPROART		RPP		répertoire des programmes
+HIPROART		TAR	58	nouvelle taille enregistrement : 58
+HIPROART		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HIPROART		FCNX-	Connexion à '192.168.50.150'	
+HIPROSTR		RPP		répertoire des programmes
+HIPROSTR		TAR	91	nouvelle taille enregistrement : 91
+HIPROSTR		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HIPROSTR		FCNX-	Connexion à '192.168.50.150'	
+HISACT		RPP		répertoire des programmes
+HISACT		TAR	218	nouvelle taille enregistrement : 218
+HISACT		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HISACT		FCNX-	Connexion à '192.168.50.150'	
+HISART		RPP		répertoire des programmes
+HISART		TAR	175	nouvelle taille enregistrement : 175
+HISART		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HISART		FCNX-	Connexion à '192.168.50.150'	
+HISCLI		RPP		répertoire des programmes
+HISCLI		TAR	75	nouvelle taille enregistrement : 75
+HISCLI		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HISCLI		FCNX-	Connexion à '192.168.50.150'	
+HISCVE		RPP		répertoire des programmes
+HISCVE		TAR	107	nouvelle taille enregistrement : 107
+HISCVE		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HISCVE		FCNX-	Connexion à '192.168.50.150'	
+HISPRO		RPP		répertoire des programmes
+HISPRO		TAR	42	nouvelle taille enregistrement : 42
+HISPRO		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HISPRO		FCNX-	Connexion à '192.168.50.150'	
+HISVEN		RPP		répertoire des programmes
+HISVEN		TAR	73	nouvelle taille enregistrement : 73
+HISVEN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HISVEN		FCNX-	Connexion à '192.168.50.150'	
+HIVENART		RPP		répertoire des programmes
+HIVENART		TAR	97	nouvelle taille enregistrement : 97
+HIVENART		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HIVENART		FCNX-	Connexion à '192.168.50.150'	
+HIVENCLI		RPP		répertoire des programmes
+HIVENCLI		TAR	78	nouvelle taille enregistrement : 78
+HIVENCLI		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HIVENCLI		FCNX-	Connexion à '192.168.50.150'	
+HIVENSTR		RPP		répertoire des programmes
+HIVENSTR		TAR	130	nouvelle taille enregistrement : 130
+HIVENSTR		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HIVENSTR		FCNX-	Connexion à '192.168.50.150'	
+HSTARTI		RPP		répertoire des programmes
+HSTARTI		TAR	30	nouvelle taille enregistrement : 30
+HSTARTI		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HSTARTI		FCNX-	Connexion à '192.168.50.150'	
+HSTFAM		RPP		répertoire des programmes
+HSTFAM		TAR	19	nouvelle taille enregistrement : 19
+HSTFAM		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HSTFAM		FCNX-	Connexion à '192.168.50.150'	
+HSTSFAM		RPP		répertoire des programmes
+HSTSFAM		TAR	26	nouvelle taille enregistrement : 26
+HSTSFAM		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HSTSFAM		FCNX-	Connexion à '192.168.50.150'	
+IDDESPE		RPP		répertoire des programmes
+IDDESPE		TAR	65	nouvelle taille enregistrement : 65
+IDDESPE		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+IDDESPE		FCNX-	Connexion à '192.168.50.150'	
+IGI		RPP		répertoire des programmes
+IGI		TAR	40	nouvelle taille enregistrement : 40
+IGI		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+IGI		FCNX-	Connexion à '192.168.50.150'	
+LLISTAT		RPP		répertoire des programmes
+LLISTAT		TAR	203	nouvelle taille enregistrement : 203
+LLISTAT		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+LLISTAT		FCNX-	Connexion à '192.168.50.150'	
+LTRCAP		RPP		répertoire des programmes
+LTRCAP		TAR	111	nouvelle taille enregistrement : 111
+LTRCAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+LTRCAP		FCNX-	Connexion à '192.168.50.150'	
+LTRLIN		RPP		répertoire des programmes
+LTRLIN		TAR	126	nouvelle taille enregistrement : 126
+LTRLIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+LTRLIN		FCNX-	Connexion à '192.168.50.150'	
+MARCA		RPP		répertoire des programmes
+MARCA		TAR	50	nouvelle taille enregistrement : 50
+MARCA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+MARCA		FCNX-	Connexion à '192.168.50.150'	
+MONEDA		RPP		répertoire des programmes
+MONEDA		TAR	63	nouvelle taille enregistrement : 63
+MONEDA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+MONEDA		FCNX-	Connexion à '192.168.50.150'	
+MVTTABAC		RPP		répertoire des programmes
+MVTTABAC		TAR	105	nouvelle taille enregistrement : 105
+MVTTABAC		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+MVTTABAC		FCNX-	Connexion à '192.168.50.150'	
+NEGOCI		RPP		répertoire des programmes
+NEGOCI		TAR	57	nouvelle taille enregistrement : 57
+NEGOCI		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+NEGOCI		FCNX-	Connexion à '192.168.50.150'	
+NUMSEQ		RPP		répertoire des programmes
+NUMSEQ		TAR	36	nouvelle taille enregistrement : 36
+NUMSEQ		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+NUMSEQ		FCNX-	Connexion à '192.168.50.150'	
+PAGAMENT		RPP		répertoire des programmes
+PAGAMENT		TAR	65	nouvelle taille enregistrement : 65
+PAGAMENT		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+PAGAMENT		FCNX-	Connexion à '192.168.50.150'	
+PAIS		RPP		répertoire des programmes
+PAIS		TAR	48	nouvelle taille enregistrement : 48
+PAIS		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+PAIS		FCNX-	Connexion à '192.168.50.150'	
+PAPERERA		RPP		répertoire des programmes
+PAPERERA		TAR	36	nouvelle taille enregistrement : 36
+PAPERERA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+PAPERERA		FCNX-	Connexion à '192.168.50.150'	
+PETART		RPP		répertoire des programmes
+PETART		TAR	204	nouvelle taille enregistrement : 204
+PETART		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+PETART		FCNX-	Connexion à '192.168.50.150'	
+PETCDA		RPP		répertoire des programmes
+PETCDA		TAR	43	nouvelle taille enregistrement : 43
+PETCDA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+PETCDA		FCNX-	Connexion à '192.168.50.150'	
+PETPRA		RPP		répertoire des programmes
+PETPRA		TAR	75	nouvelle taille enregistrement : 75
+PETPRA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+PETPRA		FCNX-	Connexion à '192.168.50.150'	
+PRMCAP		RPP		répertoire des programmes
+PRMCAP		TAR	50	nouvelle taille enregistrement : 50
+PRMCAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+PRMCAP		FCNX-	Connexion à '192.168.50.150'	
+PRMLIN		RPP		répertoire des programmes
+PRMLIN		TAR	54	nouvelle taille enregistrement : 54
+PRMLIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+PRMLIN		FCNX-	Connexion à '192.168.50.150'	
+PROART		RPP		répertoire des programmes
+PROART		TAR	58	nouvelle taille enregistrement : 58
+PROART		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+PROART		FCNX-	Connexion à '192.168.50.150'	
+PROPIETA		RPP		répertoire des programmes
+PROPIETA		TAR	70	nouvelle taille enregistrement : 70
+PROPIETA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+PROPIETA		FCNX-	Connexion à '192.168.50.150'	
+PROVEID		RPP		répertoire des programmes
+PROVEID		TAR	591	nouvelle taille enregistrement : 591
+PROVEID		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+PROVEID		FCNX-	Connexion à '192.168.50.150'	
+PUNTMORT		RPP		répertoire des programmes
+PUNTMORT		TAR	27	nouvelle taille enregistrement : 27
+PUNTMORT		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+PUNTMORT		FCNX-	Connexion à '192.168.50.150'	
+REGCAP		RPP		répertoire des programmes
+REGCAP		TAR	42	nouvelle taille enregistrement : 42
+REGCAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+REGCAP		FCNX-	Connexion à '192.168.50.150'	
+REGLIN		RPP		répertoire des programmes
+REGLIN		TAR	67	nouvelle taille enregistrement : 67
+REGLIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+REGLIN		FCNX-	Connexion à '192.168.50.150'	
+REMESAC		RPP		répertoire des programmes
+REMESAC		TAR	80	nouvelle taille enregistrement : 80
+REMESAC		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+REMESAC		FCNX-	Connexion à '192.168.50.150'	
+REMESAP		RPP		répertoire des programmes
+REMESAP		TAR	84	nouvelle taille enregistrement : 84
+REMESAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+REMESAP		FCNX-	Connexion à '192.168.50.150'	
+REPCAP		RPP		répertoire des programmes
+REPCAP		TAR	312	nouvelle taille enregistrement : 312
+REPCAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+REPCAP		FCNX-	Connexion à '192.168.50.150'	
+REPLIN		RPP		répertoire des programmes
+REPLIN		TAR	46	nouvelle taille enregistrement : 46
+REPLIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+REPLIN		FCNX-	Connexion à '192.168.50.150'	
+SFAMILIA		RPP		répertoire des programmes
+SFAMILIA		TAR	54	nouvelle taille enregistrement : 54
+SFAMILIA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+SFAMILIA		FCNX-	Connexion à '192.168.50.150'	
+SUCURSAL		RPP		répertoire des programmes
+SUCURSAL		TAR	49	nouvelle taille enregistrement : 49
+SUCURSAL		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+SUCURSAL		FCNX-	Connexion à '192.168.50.150'	
+TARIFA		RPP		répertoire des programmes
+TARIFA		TAR	38	nouvelle taille enregistrement : 38
+TARIFA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+TARIFA		FCNX-	Connexion à '192.168.50.150'	
+TIPUSIMP		RPP		répertoire des programmes
+TIPUSIMP		TAR	59	nouvelle taille enregistrement : 59
+TIPUSIMP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+TIPUSIMP		FCNX-	Connexion à '192.168.50.150'	
+TIPUSMOV		RPP		répertoire des programmes
+TIPUSMOV		TAR	43	nouvelle taille enregistrement : 43
+TIPUSMOV		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+TIPUSMOV		FCNX-	Connexion à '192.168.50.150'	
+TIPUSMP		RPP		répertoire des programmes
+TIPUSMP		TAR	48	nouvelle taille enregistrement : 48
+TIPUSMP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+TIPUSMP		FCNX-	Connexion à '192.168.50.150'	
+TIPUSPAG		RPP		répertoire des programmes
+TIPUSPAG		TAR	43	nouvelle taille enregistrement : 43
+TIPUSPAG		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+TIPUSPAG		FCNX-	Connexion à '192.168.50.150'	
+TIPUSPRO		RPP		répertoire des programmes
+TIPUSPRO		TAR	56	nouvelle taille enregistrement : 56
+TIPUSPRO		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+TIPUSPRO		FCNX-	Connexion à '192.168.50.150'	
+TPVCOB		RPP		répertoire des programmes
+TPVCOB		TAR	64	nouvelle taille enregistrement : 64
+TPVCOB		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+TPVCOB		FCNX-	Connexion à '192.168.50.150'	
+TPVLIN		RPP		répertoire des programmes
+TPVLIN		TAR	103	nouvelle taille enregistrement : 103
+TPVLIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+TPVLIN		FCNX-	Connexion à '192.168.50.150'	
+TPVTNC		RPP		répertoire des programmes
+TPVTNC		TAR	43	nouvelle taille enregistrement : 43
+TPVTNC		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+TPVTNC		FCNX-	Connexion à '192.168.50.150'	
+TPVTQT		RPP		répertoire des programmes
+TPVTQT		TAR	114	nouvelle taille enregistrement : 114
+TPVTQT		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+TPVTQT		FCNX-	Connexion à '192.168.50.150'	
+VENEDOR		RPP		répertoire des programmes
+VENEDOR		TAR	72	nouvelle taille enregistrement : 72
+VENEDOR		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+VENEDOR		FCNX-	Connexion à '192.168.50.150'	
+WCPTANA		RPP		répertoire des programmes
+WCPTANA		TAR	87	nouvelle taille enregistrement : 87
+WCPTANA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+WCPTANA		FCNX-	Connexion à '192.168.50.150'	
+WHISART		RPP		répertoire des programmes
+WHISART		TAR	226	nouvelle taille enregistrement : 226
+WHISART		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+WHISART		FCNX-	Connexion à '192.168.50.150'	
+XTCCAP		RPP		répertoire des programmes
+XTCCAP		TAR	62	nouvelle taille enregistrement : 62
+XTCCAP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+XTCCAP		FCNX-	Connexion à '192.168.50.150'	
+XTCLIN		RPP		répertoire des programmes
+XTCLIN		TAR	128	nouvelle taille enregistrement : 128
+XTCLIN		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+XTCLIN		FCNX-	Connexion à '192.168.50.150'	
+XTCSAL		RPP		répertoire des programmes
+XTCSAL		TAR	47	nouvelle taille enregistrement : 47
+XTCSAL		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+XTCSAL		FCNX-	Connexion à '192.168.50.150'	
+drDRET		RPP		répertoire des programmes
+drDRET		TAR	112	nouvelle taille enregistrement : 112
+drDRET		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+drDRET		FCNX-	Connexion à '192.168.50.150'	
+drGRUP		RPP		répertoire des programmes
+drGRUP		TAR	26	nouvelle taille enregistrement : 26
+drGRUP		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+drGRUP		FCNX-	Connexion à '192.168.50.150'	
+drUSUARI		RPP		répertoire des programmes
+drUSUARI		TAR	60	nouvelle taille enregistrement : 60
+drUSUARI		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+drUSUARI		FCNX-	Connexion à '192.168.50.150'	
+HTCCTRL		EXT	fic	nouvelle extension  fic
+HTCCTRL		RPP		répertoire des programmes
+HTCCTRL		TAR	35	nouvelle taille enregistrement : 35
+HTCCTRL		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HTCCTRL		FCNX-	Connexion à '192.168.50.150'	
+HTCAPUNT		EXT	fic	nouvelle extension  fic
+HTCAPUNT		RPP		répertoire des programmes
+HTCAPUNT		TAR	109	nouvelle taille enregistrement : 109
+HTCAPUNT		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HTCAPUNT		FCNX-	Connexion à '192.168.50.150'	
+HTCVENDA		EXT	fic	nouvelle extension  fic
+HTCVENDA		RPP		répertoire des programmes
+HTCVENDA		TAR	62	nouvelle taille enregistrement : 62
+HTCVENDA		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+HTCVENDA		FCNX-	Connexion à '192.168.50.150'	
+LOGJRNL		REP*	C:\andorsoft\hf\gr	nouveau répertoire C:\andorsoft\hf\gr
+LOGJRNL		TAR	690	nouvelle taille enregistrement : 690
+LOGJRNL		TYPE		Le type du fichier est passé de Accès natif / Autre accès OLE DB à HFSQL
+LOGJRNL		FCNX-	Connexion à '192.168.50.150'	
+ALBLIN		FRN		
+ARTGAR		FRN		
+ARTICLE		FRN		
+AUTOR		FRN		
+BANC		FRN		
+BANCNEG		FRN		
+BARCODE		FRN		
+BOTIGA		FRN		
+CALCTAR		FRN		
+CANVI		FRN		
+CARTERAC		FRN		
+CARTERAP		FRN		
+CARTPLIN		FRN		
+CATEGCLI		FRN		
+CDACAP		FRN		
+CDALIN		FRN		
+CESCAP		FRN		
+CESLIN		FRN		
+CNFCAP		FRN		
+CNFIMP		FRN		
+CNFVNT		FRN		
+CPTRFACT		FRN		
+CPTRFIMP		FRN		
+DESCR		FRN		
+EMPLEAT		FRN		
+ENTCAP		FRN		
+ENTIDD		FRN		
+ENTIMP		FRN		
+ENTLIN		FRN		
+ENTVNT		FRN		
+ESTOC		FRN		
+ESTOCLIN		FRN		
+ETIQUETA		FRN		
+EXERCICI		FRN		
+EXTRA		FRN		
+EXTRACLI		FRN		
+EXTRASEL		FRN		
+FACCAP		FRN		
+FACIMP		FRN		
+FACPRO		FRN		
+FAMILIA		FRN		
+FORMACOB		FRN		
+FORMAPAG		FRN		
+GFAMILIA		FRN		
+GRUPART		FRN		
+HIARTSTR		FRN		
+HICLIART		FRN		
+HICLISTR		FRN		
+HIPROART		FRN		
+HIPROSTR		FRN		
+HISACT		FRN		
+HISART		FRN		
+HISCLI		FRN		
+HISCVE		FRN		
+HISPRO		FRN		
+HISVEN		FRN		
+HIVENART		FRN		
+HIVENCLI		FRN		
+HIVENSTR		FRN		
+HSTARTI		FRN		
+HSTFAM		FRN		
+HSTSFAM		FRN		
+IDDESPE		FRN		
+IGI		FRN		
+LLISTAT		FRN		
+LTRCAP		FRN		
+LTRLIN		FRN		
+MARCA		FRN		
+MONEDA		FRN		
+MVTTABAC		FRN		
+NEGOCI		FRN		
+NUMSEQ		FRN		
+PAGAMENT		FRN		
+PAIS		FRN		
+PAPERERA		FRN		
+PETART		FRN		
+PETCDA		FRN		
+PETPRA		FRN		
+PRMCAP		FRN		
+PRMLIN		FRN		
+PROART		FRN		
+PROPIETA		FRN		
+PROVEID		FRN		
+PUNTMORT		FRN		
+REGCAP		FRN		
+REGLIN		FRN		
+REMESAC		FRN		
+REMESAP		FRN		
+REPCAP		FRN		
+REPLIN		FRN		
+SFAMILIA		FRN		
+SUCURSAL		FRN		
+TARIFA		FRN		
+TIPUSIMP		FRN		
+TIPUSMOV		FRN		
+TIPUSMP		FRN		
+TIPUSPAG		FRN		
+TIPUSPRO		FRN		
+TPVCOB		FRN		
+TPVLIN		FRN		
+TPVTNC		FRN		
+TPVTQT		FRN		
+VENEDOR		FRN		
+WCPTANA		FRN		
+WHISART		FRN		
+XTCCAP		FRN		
+XTCLIN		FRN		
+XTCSAL		FRN		
+drDRET		FRN		
+drGRUP		FRN		
+drUSUARI		FRN		
+LOGJRNL		FRN		

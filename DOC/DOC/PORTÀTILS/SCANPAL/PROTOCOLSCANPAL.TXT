@@ -1,0 +1,43 @@
+Fichero txt:
+
+****************************************************************************
+***** Protocol for downloading lookup files to ScanPal2 terminals *****
+****************************************************************************
+Note : All commands or records sent to /or received from the ScanPal2
+terminals should be ended with a return character (0x0d).
+1. Send the "CIPHER" command to ScanPal2 terminal and wait for return.
+2. If the terminal returns "ACK", then it is ready for receiving lookup data
+from the PC.
+3. Send lookup data to terminal record by record. Each record should be ended
+with 2 bytes of checksum. The checksum is calculated according to the
+following rules:
+A. Sum up the record data byte by byte.
+B. Devide the sum by 256 to get the first byte checksum value. If this
+value happens to be 13 (the return character: 0x0d), change it to 14
+(0x0e).
+C. The remaining of the above calculation is the second byte checksum
+value. If it happens to be 13, change it to 14.
+4. If the terminal returns "ACK", send next record to the terminal,
+otherwise, re-send the same record to the terminal. Repeat the same
+procedures until all the data is successfully transmitted.
+5. Send the "OVER" command to the ScanPal2 terminal to stop this communication.
+
+****************************************************************************
+***** Protocol for receiving transaction data from ScanPal2 terminals *****
+****************************************************************************
+Note : All commands or records sent to or received from the ScanPal2
+terminals should be ended with a return character (0x0d).
+1. Send the "READ" command to the ScanPal2 terminal and wait for return.
+2. If the terminal returns "ACK", then it is ready to send data to PC.
+3. The format of each record received from the terminal is as follows,
+A. The first byte is a sequence count rotated from 0 to 9. It's purpose
+is to ensure the correct order of data transmission.
+B. The last two bytes are the checksum values. The checksum is calculated
+by adding up the sequence count and all the data bytes.
+C. Devide the sum calculated above by 256 will get the last byte checksum
+value. If this value happens to be 13 (the return character: 0x0d),
+change it to 14 (0x0e).
+D. The remaining of the above calculation is the first byte checksum
+value. If it happens to be 13, change it to 14.
+E. Please note that the checksum byte-order for this protocol is different
+to that of downloading lookup files.

@@ -1,0 +1,65 @@
+**************************************************
+
+Codi:	SRE (REsum estoc-compres-vendes)
+
+Filtre per:
+	Marca inici, marca fi
+	Gran família/es
+	Any, any comparatiu
+
+Ruptures:
+	Marca
+	Gran família
+	Botiga
+
+Altres paràmetres:
+	Comparatiu any si/no
+	Saltar pàgina per ruptura marca
+
+Notes:
+	atacar el fitxer HISART o HIARTSTR
+	probablement s'hagi d'utilitzar clsFitxa.
+
+**************************************************
+
+
+           1         2         3         4         5         6         7         8
+  12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+->Capçalera
+  Data:·99/99/9999·······················································Full:·999
+  ···················Estoc, compres i vendes per marca any AAAA···················
+  ····························comparat amb l'any AAAA·····························
+  ················································································
+  Gran famílies: XXXXXXXXXXXXXXXXX
+  ················································································
+
+->Capçalera ruptura 1  // Marca
+  ················································································
+  XXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+->Capçalera ruptura 2  // Estoc/Compres/Vendes
+  ················································································
+  ················································································
+  {ESTOC|COMPRES|VENDES}                         AAAA[             AAAA    Variació]
+  ----------------------------------   --------------[   --------------   ---------]
+
+->Capçalera ruptura 3  // Gran família
+  XXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  ················································································
+
+->Detall
+  XX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    999.999.999,99[   999.999.999,99   9.999,99%]
+  
+->Total ruptura 3  // Gran família
+  ················································································
+  Total gran família:                  999.999.999,99[   999.999.999,99   9.999,99%]
+ [················································································]
+
+->Total ruptura 2  // Estoc/Compres/Vendes
+  ----------------------------------   --------------[   --------------   ---------]
+  Total {ESTOC|COMPRES|VENDES}:        999.999.999,99[   999.999.999,99   9.999,99%]
+
+->Total ruptura 1  // Marca
+  --------------------------------------------------------------------------------
+  ->Saltar pàgina

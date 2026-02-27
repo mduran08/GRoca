@@ -1,0 +1,3 @@
+//MO151-152.TXT ANA00151 TO ANA00152
+INTERMITJA_IA		TAR	259	nouvelle taille enregistrement : 259
+INTERMITJA_IA	BCOCODI1	RUB+		BCOCODI1 est une nouvelle rubrique

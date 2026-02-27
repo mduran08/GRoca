@@ -1,0 +1,23 @@
+Gestió:
+administrador
+cmz
+
+Servidor
+grg/Administrador
+Andorsoft2011
+
+
+Mysql
+comerzzia
+comerzzia
+
+tpv
+BDRemota
+cmztpv
+cmztpv   ?
+
+
+TPV basic192.168.56.100
+user : think\basic
+pass : basic
+bbdd de lcien cmztpv/cmztpv

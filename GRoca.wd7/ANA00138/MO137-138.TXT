@@ -1,0 +1,9 @@
+//MO137-138.TXT ANA00137 TO ANA00138
+CDALIN		TAR	140	nouvelle taille enregistrement : 140
+CDALIN	REFPRO	TAI+	35	la rubrique REFPRO a comme nouvelle taille 51 au lieu de 16
+ENTLIN		TAR	147	nouvelle taille enregistrement : 147
+ENTLIN	REFPRO	TAI+	35	la rubrique REFPRO a comme nouvelle taille 51 au lieu de 16
+PETART		TAR	239	nouvelle taille enregistrement : 239
+PETART	REFPRO	TAI+	35	la rubrique REFPRO a comme nouvelle taille 51 au lieu de 16
+PROART		TAR	93	nouvelle taille enregistrement : 93
+PROART	REFPRO	TAI+	35	la rubrique REFPRO a comme nouvelle taille 51 au lieu de 16

@@ -1,0 +1,3 @@
+//MO149-150.TXT ANA00149 TO ANA00150
+INTERMITJA_IA		TAR	242	nouvelle taille enregistrement : 242
+INTERMITJA_IA	NUMDOCUMENT	RUB+		NUMDOCUMENT est une nouvelle rubrique

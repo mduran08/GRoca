@@ -1,0 +1,3 @@
+//MO145-146.TXT ANA00145 TO ANA00146
+INTERMITJA_IA		TAR	210	nouvelle taille enregistrement : 210
+INTERMITJA_IA	ARTDESC_TIQUET	RUB+		ARTDESC_TIQUET est une nouvelle rubrique

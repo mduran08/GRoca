@@ -1,0 +1,40 @@
+**************************************************
+
+Codi:	SCD
+
+Filtre per:
+	Negoci(s).
+	Botiga/es.
+	Proveïdor.
+	Data inici, data fi.
+
+Notes:
+	atacar els fitxers ENTCAP i CNFCAP
+
+**************************************************
+
+
+           1         2         3         4         5         6         7         8
+  12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+->Capçalera
+  Data:·99/99/9999·······················································Full:·999
+  ·····························Compres detallades·································
+  ···················des del DD/MM/AAAA fins el DD/MM/AAAA························
+  ················································································
+  Negocis  : XXXXXXXXXXXXXXXXX
+ [Proveïdor: XXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                  ] -> només en el primer full del proveïdor
+  ················································································
+  ················································································
+   Factura           F/C   Data         Moneda   Import a pagar       Import base
+   ---------------   ---   ----------   ------   --------------   ---------------
+
+->Capçalera ruptura 1
+
+->Detall
+   XXXXXXXXXXXXXXX    X    DD/MM/AAAA    XXXX    999.999.999,99    999.999.999,99
+
+->Total ruptura 1
+                                                                  ---------------
+                                                       TOTAL:      999.999.999,99
+  ->Saltar pàgina

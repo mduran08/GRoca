@@ -1,0 +1,4 @@
+//MO143-144.TXT ANA00143 TO ANA00144
+INTERMITJA_IA		TAR	151	nouvelle taille enregistrement : 151
+INTERMITJA_IA	QUANTITAT	RUB+		QUANTITAT est une nouvelle rubrique
+INTERMITJA_IA	DTE1	RUB+		DTE1 est une nouvelle rubrique

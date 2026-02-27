@@ -1,0 +1,3 @@
+//MO106-107.TXT ANA00106 TO ANA00107
+TPVLIN		TAR	92	nouvelle taille enregistrement : 92
+TPVLIN	MARCODIREP	RUB+		MARCODIREP est une nouvelle rubrique

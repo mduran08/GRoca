@@ -1,0 +1,137 @@
+**********
+********** Cos principal del llistat multiple FitxaArticle (10 cpi)
+**********
+
+           1         2         3         4         5         6         7         8
+  12345678901234567890123456789012345678901234567890123456789012345678901234567890
+  
+->Detall
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX·······················Data:·DD/MM/AAAA··Full:·999
+  ················································································
+  ················································································
+  ······························Fitxa d'un article································
+  ················································································
+  ················································································
+  --------------------------------------------------------------------------------
+  Alimentació                         Electrònica                          Joieria
+  --------------------------------------------------------------------------------
+  ················································································
+  Codi . . . . . . . . . :      XXXXXX
+  Descripció . . . . . . :      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  ················································································
+  Tipus d'article  . . . :      XXXXXXXXXXXXXXXXXXXX
+  Tipus d'estoc  . . . . :      XXXXXXXXXXXXXXXXXXXX
+  Gran família . . . . . : XXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Família  . . . . . . . : XXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Subfamília . . . . . . : XXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Marca  . . . . . . . . : XXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                    ->> o l'un o l'altre
+  Autor  . . . . . . . . : XXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                    ->> en funció del tipus d'article
+  Tipus de venda . . . . :      {Per unitats|Per pes}
+  Unitats per caixa  . . :      999
+  ················································································
+  Últim preu cost  . . . : 99.999.999,9999
+  ················································································
+  Estoc mínim  . . . . . : 99.999.999,999
+  Estoc màxim  . . . . . : 99.999.999,999
+  Última entrada . . . . :      DD/MM/AAAA
+  Última sortida . . . . :      DD/MM/AAAA
+  ················································································
+  Data de baixa  . . . . :      DD/MM/AAAA
+  ················································································
+  -> Subllistat LlistatPropietats                                                 
+  ················································································
+  -> Subllistat LlistatCodisBarra
+  ················································································
+  -> Subllistat LlistatProveïdors
+  ················································································
+  -> Subllistat LlistatTarifes
+  ················································································
+  -> Subllistat LlistatEstocs
+  ················································································
+  --------------------------------------------------------------------------------
+
+
+**********
+********** Subllistat LlistatPropietats (10 cpi)
+**********
+
+           1         2         3         4         5         6         7         8
+  12345678901234567890123456789012345678901234567890123456789012345678901234567890
+  
+->Capçalera
+  ---------------------------------- Propietats ----------------------------------
+  Línia Codi Descripció                     Sub desc Unitats         Pes Etiq
+  ----- ---- ------------------------------ -------- ------- ----------- ----
+
+->Detall
+   XX   XXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   XXXX       999 999.999,999  Si
+
+
+**********
+********** Subllistat LlistatProveidors (12 cpi)
+**********
+
+           1         2         3         4         5         6         7         8         9
+  1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
+
+->Capçalera
+  -> 10 cpi
+  ---------------------------------- Proveïdors ----------------------------------
+  -> 12 cpi
+  Codi Descripció                               Referència        Preu orígen Moneda Últ. compra
+  ---- ---------------------------------------- --------------- ------------- ------ -----------
+
+->Detall
+  XXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXX 99.999.999,99  XXXX  DD/MM/AAAA
+
+
+**********
+********** Subllistat LlistatTarifes (12 cpi)
+**********
+
+           1         2         3         4         5         6         7         8         9      
+  1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234
+  
+->Capçalera
+  -> 10 cpi
+  ------------------------------------ Tarifes -----------------------------------
+  -> 12 cpi
+  Tarifa                            Negoci            Botiga                  Mnda    Preu venda
+  --------------------------------- ----------------- ----------------------- ---- -------------
+
+->Detall
+  XX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX X XXXXXXXXXXXXXXX XX XXXXXXXXXXXXXXXXXXXX XXXX+99.999.999,99
+
+
+**********
+********** Subllistat LlistatEstocs (10 cpi)
+**********
+
+           1         2         3         4         5         6         7         8
+  12345678901234567890123456789012345678901234567890123456789012345678901234567890
+  
+->Capçalera
+  ----------------------------------- Estocs -------------------------------------
+  Negoci                 Botiga                         Quantitat   Preu cost mig
+  ---------------------- ---------------------------- ----------- ---------------
+
+->Detall
+  X XXXXXXXXXXXXXXXXXXXX XX XXXXXXXXXXXXXXXXXXXXXXXXX 999.999,999 99.999.999,9999
+
+
+**********
+********** Subllistat LlistatCodisBarra (10 cpi)
+**********
+
+           1         2         3         4         5         6         7         8
+  12345678901234567890123456789012345678901234567890123456789012345678901234567890
+  
+->Capçalera
+  -------------------------------- Codis de barra --------------------------------
+  Codi de barra   Creació    Últ. accés  |  Codi de barra   Creació    Últ. accés
+  --------------- ---------- ----------  |  --------------- ---------- ----------
+
+->Detall
+  XXXXXXXXXXXXXXX DD/MM/AAAA DD/MM/AAAA  |  XXXXXXXXXXXXXXX DD/MM/AAAA DD/MM/AAAA
+
+

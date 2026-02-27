@@ -1,0 +1,68 @@
+carles,24-01-2014: Migració 
+---------------------------
+Repassar gestio errors dins de clsObjecte::GestioErrors(sComplementError="")
+Repassar remesa_imp.btn_Acceptar : redeclarcip de les variables.
+
+clsObjecte:HistoricarCamp(sNomFitxer, sNomClau, sValorClau, iOperacio, sProces, ...
+						sComentari="", sNomCamp="", xValorIni="", xValorFi="")
+provar que es tipvar es un entier court
+
+GESTIO DE CONVERTS
+clsAnalisi::ExportarDescTaules(sTaules="")
+clsObjecte::CompletaClauMax(sFitxerCamp, sClau)
+LLISTATS_IMP.ExtreuDadaColumna
+clsObjecte::CompletaClauMin(sFitxerCamp, sClau)
+
+
+FONCTION clsControlVisual::CampSeguent(sObjectePare)
+
+sCamp est une chaîne
+
+//sCamp = infoobjet(sObjectePare, 0)
+Trace(" Desactivat : clsControlVisual::CampSeguent(sObjectePare)")
+
+RENVOYER sCamp
+
+
+Suprimits
+---------
+clsXmlParser
+comerzzia_export
+conversio_euro
+
+carles,23-09-2014: Migració 
+---------------------------
+S'ha afegit dins de :gestioerrors() control per erreur detecte
+En el cas de cescap no detecta duplicat per alb., no avisa i la capçalera no es crea. 
+De fet dona pb pq no pot crear el memo
+
+
+---------------------------------------------------------------------------------------------
+
+carles,18/07/2005 : Gestió Nºde servei sincronització dades
+-----------------------------------------------------------
+. Quan es fa un traspàs de botiga a servidor, s'actualitza el valor NivellServcli
+de client del fitxer <Servidorcentral>\Syncro.ini segons el valor NivellServcli
+de <Client>\syncro.ini
+
+Cf.Grobatch.tractament.wrk
+
+. En fer la generació de fitxers a la central, si nivellServCli de client inferior
+a nivellservcli de servidor, es fa una generació incremental ( els fitxers de traspas
+no es buiden), en cas contrari s'esborren. Es procedeix aleshores a construir els fitxers
+de sincro. S'actualitza NivellServcli de servidor. Si la sincro. no es incremental, el
+nivell NivellServcliIni s'iguala amb NivellServcli.
+
+cf.grobatch. bGenerarServCli400
+
+
+carles,11/12/2006 : comandes AS400 control sistema
+--------------------------------------------------
+DSPLOG + f4
+DSPSYSSTS O WRKSYSSTS
+
+Carles,25-06-06 : Reinicialitzar blackbox
+------------------------------------------
+putty
+root/andorsoft
+init 6

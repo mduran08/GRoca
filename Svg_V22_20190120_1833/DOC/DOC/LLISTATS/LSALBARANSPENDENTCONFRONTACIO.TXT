@@ -1,0 +1,54 @@
+           1         2         3         4         5         6         7         8         9         0
+  1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890  
+
+->Capçalera
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX···········································Data:·99/99/9999··Full:·999
+  ························Albarans pendents de confrontació fins el DD/MM/AAAA························
+  ························Albarans pendents de confrontació des del DD/MM/AAAA························
+  ··············Albarans pendents de confrontació des del DD/MM/AAAA fins el DD/MM/AAAA···············
+  ····································································································
+  Selecció:   Negoci: {Tots|X}     Botiga: {Totes|XX}     Proveïdor: {Tots|XXXX/XXXX}     Moneda: {Totes|XX/XX}
+  ····································································································
+  Negoci: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  ····································································································
+          Albarà     Data    Document        Data doc.  Data conf.         Import Mon. Imp. consolidat
+          ------- ---------- --------------- ---------- ---------- -------------- ---- ---------------
+
+->Títol
+
+->Capçalera ruptura 1 // Negoci
+
+->Capçalera ruptura 2 // Botiga
+  Botiga: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  ····································································································
+
+->Capçalera ruptura 3 // Proveïdor
+       Proveïdor: XXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  ····································································································
+
+->Capçalera ruptura 4 // Moneda
+
+->Detall
+           XXXXX  DD/MM/AAAA XXXXXXXXXXXXXXX DD/MM/AAAA DD/MM/AAAA+999.999.999,99 XXX  +999.999.999,99
+
+->Total ruptura 4 // Moneda
+                                                                                       ---------------
+                                                        Total moneda:                +9.999.999.999,99
+
+->Total ruptura 3 // Proveïdor
+                                                        Total proveïdor:             +9.999.999.999,99
+
+->Total ruptura 2 // Botiga
+                                                        Total botiga:                +9.999.999.999,99
+
+->Total ruptura 1 // Negoci
+                                                        Total negoci:                +9.999.999.999,99
+  -> salt de pàgina
+
+->Total
+  ----------------------------------------------------------------------------------------------------
+                                                        Total general:               +9.999.999.999,99
+
+->Final
+  ----------------------------------------------------------------------------------------------------
+  ·······································*** FI DE LLISTAT ***········································

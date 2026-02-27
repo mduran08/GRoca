@@ -1,0 +1,70 @@
+**********
+********** Cos principal del llistat multiple FitxaClient
+**********
+
+           1         2         3         4         5         6         7         8
+  12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+->Capçalera
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX·······················Data:·DD/MM/AAAA··Full:·999
+  ················································································
+
+->Títol
+  ················································································
+  ······························Fitxa d'un client·································
+  ················································································
+  ················································································
+
+->Detall
+  --------------------------------------------------------------------------------
+  ················································································
+  Codi . . . . . . . . . :      XXXX
+  Nom1 . . . . . . . . . :      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Nom2 . . . . . . . . . :      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  ················································································
+  Categoria de client  . : XX   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  ················································································
+  Adreça . . . . . . . . :      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Població . . . . . . . :      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  País . . . . . . . . . : XXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Telèfon  . . . . . . . :      XXXXXXXXXXXXXXX
+  Fax  . . . . . . . . . :      XXXXXXXXXXXXXXX
+  E-mail . . . . . . . . :      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Contacte . . . . . . . :      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  ················································································
+  Client morós . . . . . :      XX
+  Client a facturar  . . : XXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Banc . . . . . . . . . : XX   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Sucursal . . . . . . . : XX   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Compte . . . . . . . . :      XXXXXXXXXXXXXXX
+  Forma de pagament  . . : XX   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  Periode de facturació  :      XXXXXXXX
+  Dia de pagament  . . . :      XX
+  Impressió detall. fact.:      XX
+  ················································································
+  Tarifa de venda  . . . : XX   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  ················································································
+  -> Subllistat LlistatDadesExtra
+  ················································································
+  Observacions . . . . . : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  ·························XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                                      ·
+                                                      ·
+                                                      ·
+  ·························XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  ················································································
+  Data de baixa  . . . . :      DD/MM/AAAA
+  ················································································
+  --------------------------------------------------------------------------------
+
+
+**********
+********** Subllistat LlistatDadesExtra
+**********
+
+           1         2         3         4         5         6         7         8
+  12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+->Detall
+  XXXXXXXXXXXXXXXXXXXXXX :      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

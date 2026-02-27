@@ -1,0 +1,25 @@
+TPV basic192.168.56.100
+user : think\basic
+pass : basic
+bbdd de lcien cmztpv/cmztpv
+
+
+Comparar amb un article de prova on es desa el preu de tarifa /venda
+
+update d_articulos_tbl set costo_actualizado = '2012-11-09 00:00:00';
+
+
+UPDATE d_tarifas_det_tbl  SET PRECIO_COSTO = 1, FACTOR_MARCAJE = 1
+
+UPDATE d_articulos_tbl d SET ACT_AUTOMATICA_COSTO = 'N'
+
+SELECT * FROM d_articulos_tbl d WHERE CODART = 'PROVA' OR CODART ='000006';
+
+update d_categorizacion_tbl d set descat ='cap' where descat ='';
+update d_articulos_tbl d set desart = 'cap' where desart =''
+
+Passar usuaris 
+SELECT * FROM d_usuarios_sesiones_tbl d;
+
+
+Passar proveïdors que no tenen moneda EUR -> no passa cap i despres pb forein

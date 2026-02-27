@@ -1,0 +1,3 @@
+//MO139-140.TXT ANA00139 TO ANA00140
+BLOQUEIG		TAR	31	nouvelle taille enregistrement : 31
+BLOQUEIG	DESCPROC	TAI+	5	la rubrique DESCPROC a comme nouvelle taille 21 au lieu de 16

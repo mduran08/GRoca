@@ -1,0 +1,165 @@
+GenerarCliServ (1)
+--------------
+iResult = bGenerarCliServ([sNegCodi,sBotCodi])
+iResult:	  0: OK
+		  4: No es pot crear fitxer
+		  5: No es pot obrir fitxer
+		  6: No es pot suprimir fitxer
+		  7: No es pot crear carpeta
+		  8: Registre no trobat
+		  9: No es pot copiar fitxer
+		 10: No es pot escriure dins el fitxer
+		 11: Fitxer temporal no creat
+		 12: No es pot comprimir el fitxer
+		 14: No es pot moure el fitxer
+		100: No disponible
+		101: Fitxer dat corromput
+
+
+TraspasCliServ (2)
+--------------
+iResult = bTraspasCliServ([sNegCodi,sBotCodi])
+iResult:	  0: OK
+		  9: No es pot copiar fitxer
+		100: No disponible
+		102: Problemes al establir la connexió
+		104: Queden clients per tractar
+
+
+IntegrarCliServ (3)
+---------------
+iResult = bIntegrarCliServ([bNoLogar="0"[,sNegCodi,sBotCodi]])
+iResult:	  0: OK
+		  4: No es pot crear fitxer
+		  5: No es pot obrir fitxer
+		  6: No es pot suprimir fitxer
+		  7: No es pot crear carpeta
+		  9: No es pot copiar fitxer
+		 10: No es pot escriure dins el fitxer
+		 11: Fitxer temporal no creat
+		 13: No es pot descomprimir el fitxer
+		 14: No es pot moure el fitxer
+		100: No disponible
+		101: Fitxer dat corromput
+
+
+GenerarServCli (4)
+--------------
+iResult = bGenerarServCli()
+iResult:	  0: OK
+		  5: No es pot obrir fitxer
+		  6: No es pot suprimir fitxer
+		  7: No es pot crear carpeta
+		  9: No es pot copiar fitxer
+		 12: No es pot comprimir el fitxer
+		 15: No es pot bloquejar la base de dades
+		 16: No es pot copiar un registre
+		 17: Error de duplicats o d'integritat
+		 18: Fitxer no trobat
+		 19: Carpeta no trobada
+		100: No disponible
+		105: No s'ha pogut preparar els canvis
+		106: no s'ha pogut sincronitzar els canvis
+		107: no s'ha trobat una clau primària
+
+
+TraspasServCli (5)
+--------------
+iResult = bTraspasServCli([sNegCodi,sBotCodi])
+iResult:	  0: OK
+		  9: No es pot copiar fitxer
+		100: No disponible
+		102: Problemes al establir la connexió
+		104: Queden clients per tractar
+
+
+IntegrarServCli (6)
+---------------
+iResult = bIntegrarServCli()
+iResult:	  0: OK
+		  5: No es pot obrir fitxer
+		  6: No es pot suprimir fitxer
+		  7: No es pot crear carpeta
+		  9: No es pot copiar fitxer
+		 13: No es pot descomprimir el fitxer
+		 14: No es pot moure el fitxer
+		 15: No es pot bloquejar la base de dades
+		 16: No es pot copiar un registre
+		 17: Error de duplicats o d'integritat
+		 18: Fitxer no trobat
+		 19: Carpeta no trobada
+		100: No disponible
+		105: No s'ha pogut preparar els canvis
+		106: no s'ha pogut sincronitzar els canvis
+		107: no s'ha trobat una clau primària
+
+
+GenerarCliTPV (7)
+-------------
+iResult = bGenerarCliTPV([sNegCodi,sBotCodi])
+iResult:	  0: OK
+		  4: No es pot crear fitxer
+		  5: No es pot obrir fitxer
+		  6: No es pot suprimir fitxer
+		  7: No es pot crear carpeta
+		  8: Registre no trobat
+		  9: No es pot copiar fitxer
+		 10: No es pot escriure dins el fitxer
+		 11: Fitxer temporal no creat
+		 12: No es pot comprimir el fitxer
+		100: No disponible
+		101: Fitxer dat corromput
+
+
+CanviarEstat
+------------
+iResult = bTasquesNoDiaries(sEstatIni,sEstatFin[,sFitxerIni])
+iResult:	  0: OK
+		  3: Falta paràmetre
+                108: No s'ha pogut canviar l'estat del servidor
+
+
+TasquesNoDiaries
+----------------
+iResult = bTasquesNoDiaries()
+iResult:	  0: OK
+                  ?: ???
+
+
+RecalculHistorics
+-----------------
+iResult = bRecalculHistorics()
+iResult:	  0: OK
+                  ?: ???
+
+
+NetejarLog
+----------
+iResult = bNetejarLog(sFitxerLog,sDies)
+iResult:	  0: OK
+		  3: Falta paràmetre
+		  4: No es pot crear fitxer
+		  5: No es pot obrir fitxer
+		  6: No es pot suprimir fitxer
+
+
+Reindexar
+---------
+iResult = bReindexarTot([sFitxer])
+iResult:	  0: OK (mirar log pels warnings)
+
+
+---------------
+---------------
+
+
+Per debugar
+-----------
+La linia de comanda ha de ser de la forma següent:
+
+Sintaxis 1: * <comanda> [<param1>[,<param2>...]]
+Sintaxis 2: <fitxer AndorBot.ini> <num. tasca> <comanda> [<param1>[,<param2>...]]
+
+Nota 1: el path del fitxer AndorBot.ini no pot contenir espais
+Nota 2: no hi han d'haver espais entre els paràmetres
+Nota 3: els paràmetres no poden contenir espais

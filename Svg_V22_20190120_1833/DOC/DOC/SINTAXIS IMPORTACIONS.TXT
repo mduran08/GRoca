@@ -1,0 +1,27 @@
+; Sintaxis:
+;
+; LogErrorsNo (per defecte)
+; LogErrorsYes
+; DeleteLog
+; IntegrityNo
+; IntegrityYes (per defecte tal com està en l'aplicació)
+; DeleteAll <nom taula>
+; BeginTable <nom taula>
+;  Field <nom camp>, <tipus camp>
+;  Skip <nom camp>, <tipus camp>
+;  Default <nom camp>, "<text>"|<número> (amb el punt decimal si cal)
+;  Append <fitxer ASCII>
+; End
+; Stop
+;
+; tipus camp:
+;  9(N)      : entier, entier court, entier long
+;  9(N,D)    : réel, réel double, monétaire
+;  X(N)      : text
+;  A(N)      : text amb conversió ASCII -> ANSI
+;  D({8|6})  : data AAAAMMDD o AAMMDD
+;  H({6|4})  : hora HHMMSS o HHMM
+;
+; N: la llargada total del camp
+; D: nombre de decimals sense comptar la coma
+

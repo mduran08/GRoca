@@ -1,0 +1,3 @@
+//MO134-135.TXT ANA00134 TO ANA00135
+ARTICLE		TAR	169	nouvelle taille enregistrement : 169
+ARTICLE	ARTDESC_TIQUET	RUB-		la rubrique ARTDESC_TIQUET est supprimée

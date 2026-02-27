@@ -1,0 +1,157 @@
+----------------
+Central a Botiga
+----------------
+
+GRocaExp.dat
+
+En una primera fase, mentre s'estàn preparant les dades, es troba dins
+la carpeta Syncro\ServCli. Conté les dades per totes les botigues.
+Al demanar l'envío de les dades, es parteix en tants GRocaExp.dat
+com fagi falta dins les carpetes Syncro\ServCli\Clientx corresponents i
+cada GRocaExp.dat serà comprimit dins GREXPxx.ZIP, amb xx un número seqüèncial
+i cíclic (camp Clientx/NivellServCli del fitxer Syncro.ini).
+El fitxer .DAT original i els altres .DAT generats son suprimits.
+Els fitxers ja estàn llestos per ser recuperats per les botigues.
+
+Cada botiga truca a la central i recupera els fitxers .ZIP que estiguin preparats.
+Després de la recepció de cada .ZIP dins la carpeta Syncro\ServCli, 
+el .ZIP de la central és desplaçat a la carpeta Syncro\ServCli\Clientx\Old corresponent.
+Al tancar la connexió, la botiga descomprimirà cada fitxer .ZIP dins Syncro\ServCli,
+tractarà el fitxer .DAT, suprimirà el .DAT i desplaçarà el .ZIP dins Syncro\ServCli\Old
+
+Ja que el fitxer GRocaExp.dat inicial conté les dades per totes les botigues,
+cada tipus de registre ha de contenir els camps NegCodi i BotCodi
+després del tipus de registre.
+Els registres son de llargada variable.
+Els números son cuadrats a la dreta i sense zeros davant.
+
+
+EX:
+
+00       5BOF TPV IMPORT FILES
+01....
+02....
+02....
+99       5EOF TPV IMPORT FILES
+
+
+Registre de control BOF
+-----------------------
+
+TIPREG     | Character |     2 |         --> '00'
+REGISTRES  ¦ Numeric   ¦     8 ¦         --> 99999999
+SIGNATURA  ¦ Character ¦    20 ¦         --> 'BOF DAT IMPORT FILES'
+
+
+Peticions d'article (2 + 182 posicions)
+-------------------
+
+Tipus registre                 X(2)     ; '01'
+Codi negoci                    X(1)
+Codi botiga                    X(2)
+Codi petició                   X(6)
+Descripció article             X(50)
+Codi gran família              X(3)
+Codi família                   X(3)
+Codi subfamília                X(3)
+Codi marca                     X(4)     ; o codi marca, o codi autor
+Codi autor                     X(4)     ; o la descripció
+Descripció marca/autor         X(30)    ; si hi ha codi marca o codi autor, és opcional
+Tipus article                  9(1)     ; 1: Normal, 2: Propietats
+Tipus estoc                    9(1)     ; 1: Normal, 2: Pou, 3: Pou amb estoc
+Tipus venda                    9(1)     ; 1: Per unitats, 2: Per pes
+Unitats per caixa              9(3,0)   ; 999
+Tabac no comunitari            9(1)     ; 0 o 1
+Codi proveïdor                 X(4)
+Referència proveïdor           X(15)
+Codi moneda orígen             X(2)
+Preu orígen                    9(12,2)  ; 999999999,99
+Codi moneda venda              X(2)
+Preu venda                     9(12,2)  ; 999999999,99
+Codi de barra                  X(15)
+Codi article atribuït          X(6)     ; a blanc si no està confirmat
+Estat                          9(1)     ; 1: En curs, 2: Sol·licitat, 3: Per confirmar, 4: Confirmada, 
+                                        ; 5: Anul·lada, 6: Confirmació rebuda, 7: Anul·lació rebuda
+
+
+
+Propietats d'una petició d'article (2 + 61 posicions)
+----------------------------------
+
+Tipus registre                 X(2)     ; '02'
+Codi negoci                    X(1)
+Codi botiga                    X(2)
+Codi petició                   X(6)
+Codi propietat                 X(2)
+Codi matèria prima             X(2)
+Descripció                     X(30)
+Complement descripció          X(4)
+Unitats                        9(3)     ; 999
+Pes                            9(10,3)  ; 999999,999
+Imprimir                       9(1)     ; 0 o 1
+
+
+
+
+
+
+
+----------------
+Botiga a Central
+----------------
+
+GRocaImp.dat
+
+El fitxer serà preparat dins la carpeta Syncro\CliServ de la botiga.
+Abans de l'envio, el fitxer GRocaImp.dat és comprimit dins GRIMPxx.ZIP,
+amb xx un número seqüèncial i cíclic (camp Servidor/NivellCliServ del 
+fitxer Syncro.ini) i el fitxer .DAT és suprimit.
+S'envien els fitxers comprimits que resten per enviar a la central.
+Després de l'envio, cada fitxer .ZIP és desplaçat a la carpeta Syncro\CliServ\Old
+L'envio és farà a la carpeta Syncro\CliServ\Clientx corresponent de la central.
+
+A la recepció dels fitxers, per cada fitxer .ZIP a tractar, el servidor descomprimirà
+el fitxer .ZIP dins Syncro\CliServ\Clientx, tractarà el .DAT, el suprimirà
+i desplaçarà el .ZIP dins la carpeta Syncro\CliServ\Clientx\Old
+
+Els registres son de llargada variable.
+Els números son cuadrats a la dreta i sense zeros davant.
+
+
+EX:
+
+00       5BOF TPV IMPORT FILES
+01....
+02....
+02....
+99       5EOF TPV IMPORT FILES
+
+
+
+Peticions d'article
+-------------------
+
+** mateixa descripció que pel fitxer GRocaExp.dat
+
+
+
+Propietats d'una petició d'article
+----------------------------------
+
+** mateixa descripció que pel fitxer GRocaExp.dat
+
+
+
+Peticions de comanda (2 + 61 posicions)
+----------------------------------
+
+Tipus registre                 X(2)     ; '03'
+Codi negoci                    X(1)
+Codi botiga                    X(2)
+Codi article                   X(6)
+Caixes                         9(3)     ; 999
+Unitats                        9(5)     ; 99999
+Data petició                   X(8)     ; AAAAMMDD
+
+
+

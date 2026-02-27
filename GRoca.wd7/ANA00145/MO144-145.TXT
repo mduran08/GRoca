@@ -1,0 +1,3 @@
+//MO144-145.TXT ANA00144 TO ANA00145
+INTERMITJA_IA		TAR	202	nouvelle taille enregistrement : 202
+INTERMITJA_IA	REFPRO	RUB+		REFPRO est une nouvelle rubrique
