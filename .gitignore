@@ -26,3 +26,41 @@ unnamed.cpl
 # Windows
 Thumbs.db
 .DS_Store
+
+# ==============================
+# WinDev 28 generated files
+# ==============================
+
+# Compilation / cache
+*.cpl
+*.cpl/
+*.wdcoverage
+*.wdcoverage_*
+*.wdc~
+*.wdw~
+*.wdg~
+*.wde~
+*.wdp~
+*.wdu~
+
+# Project generated
+*.env
+*.audit
+*.chk
+*.ref
+*.tmp
+*.err
+
+# Last save / IDE
+lastsave/
+*_lastsave/
+
+# Debug / coverage
+*.coverage
+debugage*
+debogage*
+*.wddebug
+
+# Temp folders
+TEMP/
+TEMPLATES/
