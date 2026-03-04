@@ -64,3 +64,46 @@ debogage*
 # Temp folders
 TEMP/
 TEMPLATES/
+
+
+# ======================================
+# WinDev Generated / Environment Files
+# ======================================
+
+# Environments
+*.env
+groca.env
+*.ini
+
+# Audit / Project metadata
+*.waudit
+*.wpf
+*.wdp
+
+# WinDev internal folders
+*.wd7/
+*/lastsave/
+*/code/
+
+# Logs
+*.log
+HstDuree.log
+
+# Coverage / analysis
+*.wdcoverage*
+*.cpl/
+groca.cpl/
+
+# Temp / cache
+*.chk
+*.ref
+*.wic
+
+# Build artifacts
+Exe/
+Install/
+SETUP/
+
+# Local IDE artifacts
+*.bak
+*.err
