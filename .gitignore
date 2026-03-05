@@ -1,10 +1,22 @@
-# Executables
+# =========================================================
+# WinDev Project - Standard Git Ignore
+# WinDev 5.5 és aproximadament de l’any 20000
+# Aquest Git es Compatible per WinDev 20 → 28
+# =========================================================
+
+
+# ---------------------------------------------------------
+# Build outputs
+# ---------------------------------------------------------
 Exe/
 Install/
 Install_Executable*/
 SETUP/
 
-# Backups
+
+# ---------------------------------------------------------
+# Backup folders
+# ---------------------------------------------------------
 Sauvegarde/
 Sauvegarde_*/
 Bkp_*/
@@ -12,30 +24,13 @@ History/
 Historique/
 Svg_V*/
 
-# Temporary / System
-Sys_V*/
-Tâches/
-WMF/
-unnamed.cpl
 
-# Build outputs
-*.err
-*.cpl~
-*.bak
-
-# Windows
-Thumbs.db
-.DS_Store
-
-# ==============================
-# WinDev 28 generated files
-# ==============================
-
-# Compilation / cache
+# ---------------------------------------------------------
+# WinDev compilation / cache
+# ---------------------------------------------------------
 *.cpl
-*.cpl/
-*.wdcoverage
-*.wdcoverage_*
+*.cpl~
+*.wdcoverage*
 *.wdc~
 *.wdw~
 *.wdg~
@@ -43,67 +38,66 @@ Thumbs.db
 *.wdp~
 *.wdu~
 
-# Project generated
-*.env
-*.audit
+
+# ---------------------------------------------------------
+# Temporary / analysis files
+# ---------------------------------------------------------
 *.chk
 *.ref
 *.tmp
 *.err
+*.bak
+*.wic
 
-# Last save / IDE
+
+# ---------------------------------------------------------
+# Debug / coverage
+# ---------------------------------------------------------
+*.coverage
+*.wddebug
+debugage*
+debogage*
+
+
+# ---------------------------------------------------------
+# IDE / last save
+# ---------------------------------------------------------
 lastsave/
 *_lastsave/
 
-# Debug / coverage
-*.coverage
-debugage*
-debogage*
-*.wddebug
 
+# ---------------------------------------------------------
+# Environment files
+# ---------------------------------------------------------
+*.env
+*.audit
+*.waudit
+groca.ini
+*.local.ini
+
+
+# ---------------------------------------------------------
+# WinDev generated metadata
+# ---------------------------------------------------------
+*.wpf
+
+
+# ---------------------------------------------------------
+# Logs
+# ---------------------------------------------------------
+*.log
+HstDuree.log
+
+
+# ---------------------------------------------------------
 # Temp folders
+# ---------------------------------------------------------
 TEMP/
 TEMPLATES/
 
 
-# ======================================
-# WinDev Generated / Environment Files
-# ======================================
-
-# Environments
-*.env
-groca.env
-*.ini
-
-# Audit / Project metadata
-*.waudit
-*.wpf
-# *.wdp //mdr_CLEAN: is CONFIG!!!! treure del ignore
-
-# WinDev internal folders
-*.wd7/
-*/lastsave/
-*/code/
-
-# Logs
-*.log
-HstDuree.log
-
-# Coverage / analysis
-*.wdcoverage*
-*.cpl/
-groca.cpl/
-
-# Temp / cache
-*.chk
-*.ref
-*.wic
-
-# Build artifacts
-Exe/
-Install/
-SETUP/
-
-# Local IDE artifacts
-*.bak
-*.err
+# ---------------------------------------------------------
+# OS files
+# ---------------------------------------------------------
+Thumbs.db
+.DS_Store
