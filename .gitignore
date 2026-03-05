@@ -78,7 +78,7 @@ groca.env
 # Audit / Project metadata
 *.waudit
 *.wpf
-*.wdp
+# *.wdp //mdr_CLEAN: is CONFIG!!!! treure del ignore
 
 # WinDev internal folders
 *.wd7/
